@@ -1,72 +1,28 @@
 {
-  "generatedAt": "2026-07-03T10:36:38.329Z",
-  "source": "apify/instagram-scraper (own account manually entered — Instagram blocked scraper access to this small/new account)",
+  "generatedAt": "2026-07-03T12:08:43.095Z",
+  "source": "apify/instagram-scraper",
   "own": {
     "handle": "quietlystrange09",
-    "fullName": "Quietly Strange",
-    "followers": 13,
-    "following": 5,
-    "postsCount": 5,
-    "bio": "Strange but true stories, told quietly. New odd hour, every week.",
+    "fullName": "quietlystrange09",
+    "followers": null,
+    "following": null,
+    "postsCount": null,
+    "bio": "",
     "recentPosts": [],
     "posts": [
       {
-        "id": "own_internet_en",
-        "url": null,
-        "type": "Video",
-        "caption": "In 2021, one engineer typed one wrong command and 3.5 billion people lost the internet in a single instant. Not hacked. Not attacked. Just one wrong line of code during a routine maintenance check. Facebook's own engineers couldn't even log in to fix it, their access tools were on the same servers that just vanished. They had to physically drive to data centers and override servers by hand. One by one. 6 hours. $60 million lost every single hour. And the exact same vulnerability? Still exists right now. The internet is more fragile than you think.",
-        "hashtags": ["quietlystrange", "facebook", "internet", "tech", "viral"],
-        "likes": 8,
-        "comments": 1,
-        "views": 379,
-        "timestamp": "2026-07-03T12:25:00.000Z"
-      },
-      {
-        "id": "own_internet_hi",
-        "url": null,
-        "type": "Video",
-        "caption": "2021 mein ek engineer ne ek galat command type ki aur 3.5 billion logon ka internet ek pal mein band ho gaya. Hack nahi hua. Attack nahi hua. Bas ek routine maintenance check ke dauran ek galat line of code. 6 ghante. Har ghante 60 million dollar ka nuksaan. Internet utna strong nahi jitna hum sochte hain.",
-        "hashtags": ["quietlystrange", "hindishorts", "facebook", "internet", "technology"],
-        "likes": 6,
-        "comments": 1,
-        "views": 248,
-        "timestamp": "2026-07-03T12:15:00.000Z"
-      },
-      {
-        "id": "own_the_hum",
-        "url": null,
-        "type": "Video",
-        "caption": "There is a sound that only 2% of people can hear. Scientists have studied it for 50 years and still have no answer. It's called The Hum — and the leading theory is that it's the Earth itself vibrating at a frequency most humans aren't built to detect. A woman heard it for 11 years, moved across the country to escape it, and it followed her to the new house. Stop right now, close your eyes, and listen. What do you hear?",
-        "hashtags": ["quietlystrange", "mystery", "thehum", "unexplained", "earthfacts"],
-        "likes": 9,
-        "comments": 0,
-        "views": 390,
-        "timestamp": "2026-07-02T23:20:00.000Z"
-      },
-      {
-        "id": "own_earth_strange",
-        "url": null,
-        "type": "Video",
-        "caption": "We call space the final frontier. But we've barely explored our own planet. Earth is stranger than anything we've found out there — and most people have no idea. From perfect solar eclipses to oceans deeper than mountains are tall, this is the planet you thought you knew.",
-        "hashtags": ["space", "earthfacts", "naturefacts", "didyouknow", "viral"],
-        "likes": 136,
-        "comments": 7,
-        "views": 6788,
-        "timestamp": "2026-07-02T16:20:00.000Z"
-      },
-      {
-        "id": "own_1974_calendar",
-        "url": null,
-        "type": "Video",
-        "caption": "In 1974, a man calculated the exact day he would die and spent a year preparing for it. What happened next is stranger than the prediction itself. Frank was obsessed with numerology. He told his family, quit his job, and gave away everything he owned. When the day came and went without incident, he thought he'd beaten fate. He hadn't.",
-        "hashtags": ["reelviral", "oddhours", "strangebuttrue", "truestory", "mysterytacklebox"],
-        "likes": 9,
-        "comments": 0,
-        "views": 134,
-        "timestamp": "2026-07-01T16:20:00.000Z"
+        "id": "https://www.instagram.com/quietlystrange09/",
+        "url": "https://www.instagram.com/quietlystrange09/",
+        "type": "Image",
+        "caption": "",
+        "hashtags": [],
+        "likes": null,
+        "comments": null,
+        "views": null,
+        "timestamp": null
       }
     ],
-    "engagementRate": 272.31
+    "engagementRate": null
   },
   "competitors": [
     {
@@ -83,7 +39,7 @@
           "type": "Image",
           "caption": "Your favorite shirt of the summer now comes with a very special souvenir from space!\n\nGet a free set of Space Tour Patches when you buy a Space Tour Shirt, this summer* ✨\nWe teamed up with artist @haxloeffler to create this exclusive, two-sided shirt design featuring a cosmic throwback to our most iconic space videos. Suit up, secure your free patches, and browse a few more cosmic essentials for the journey.\n\n*Starting from 23.06.2026 until 07.07.2026, when you purchase the Space Tour Shirt in t",
           "hashtags": [],
-          "likes": 444,
+          "likes": 448,
           "comments": 5,
           "views": null,
           "timestamp": "2026-07-01T14:00:52.000Z"
@@ -94,7 +50,7 @@
           "type": "Image",
           "caption": "Could YOU survive a royal marriage? Henry VIII had six wives, but becoming Queen of England is only the beginning of the challenge. To survive this, you have to navigate religious upheaval, political games, shifting alliances, and the unpredictable moods of one of history's most notorious monarchs. Some lost their crowns, and some lost their lives, but only one outlived the king.\n\nWho were Henry VIII's six wives, and why was marrying him a death sentence for most of them? And what about you, cou",
           "hashtags": [],
-          "likes": 3088,
+          "likes": 3105,
           "comments": 19,
           "views": null,
           "timestamp": "2026-06-30T14:02:32.000Z"
@@ -105,7 +61,7 @@
           "type": "Sidecar",
           "caption": "Yep, it do be like that sometimes... 💀",
           "hashtags": [],
-          "likes": 16823,
+          "likes": 16862,
           "comments": 72,
           "views": null,
           "timestamp": "2026-06-29T14:02:05.000Z"
@@ -116,9 +72,9 @@
           "type": "Video",
           "caption": "This is the deadliest virus on our planet… However, human cells are safe. The deadliest virus on our planet only feasts on bacteria, hence its name: Bacteriophage - bacteria eater. Now that our antibiotics aren't as effective against the ever-evolving multiresistant bacteria, phages are a promising tool for defending ourselves in the future. They are highly specialized so they only attack the bacteria they’re supposed to, reducing the side effects of a treatment.",
           "hashtags": [],
-          "likes": 13718,
+          "likes": 13733,
           "comments": 59,
-          "views": 116906,
+          "views": 117131,
           "timestamp": "2026-06-27T14:30:53.000Z"
         },
         {
@@ -127,9 +83,9 @@
           "type": "Video",
           "caption": "If the Moon tasted like cheese, we are sure this asteroid would taste like an orange-flavored jellybean!\n\nHave you already started your space adventure? Star Birds, which we developed together with our friends at Toukana Interactive, is available on Steam!",
           "hashtags": [],
-          "likes": 1730,
+          "likes": 1740,
           "comments": 13,
-          "views": 15858,
+          "views": 15892,
           "timestamp": "2026-06-26T14:00:36.000Z"
         },
         {
@@ -138,9 +94,9 @@
           "type": "Video",
           "caption": "Which year of your life is the most dangerous? For many people, it’s not old age but infancy. Where you're born can dramatically change your chances of survival, and millions of child deaths are still preventable today.",
           "hashtags": [],
-          "likes": 9986,
+          "likes": 9992,
           "comments": 57,
-          "views": 83306,
+          "views": 83380,
           "timestamp": "2026-06-25T18:52:58.000Z"
         },
         {
@@ -149,7 +105,7 @@
           "type": "Image",
           "caption": "Behind every one of our videos is a producer keeping hundreds of moving pieces in orbit.\nNow we're looking for two more. ✨\nIf you want to work with a team that's making science and history accessible and inspiring curiosity for millions of people around the world, check out our open Producer roles. \nLink in Bio 💌",
           "hashtags": [],
-          "likes": 11236,
+          "likes": 11244,
           "comments": 201,
           "views": null,
           "timestamp": "2026-06-25T15:59:14.000Z"
@@ -160,7 +116,7 @@
           "type": "Image",
           "caption": "Plop Plop Plop 🌚\n\nThis is what Nightshift scribbles look like before we paint the final scene",
           "hashtags": [],
-          "likes": 1625,
+          "likes": 1626,
           "comments": 6,
           "views": null,
           "timestamp": "2026-06-22T12:00:42.000Z"
@@ -171,7 +127,7 @@
           "type": "Image",
           "caption": "STAR BIRDS IS ON MAC NOW!\nMany of you have asked for it, and after months of work, here it finally is: Star Birds is now officially on Mac! No need to wait for RAM prices to go down to build your own PC, play Star Birds now on Steam! 🚀✨",
           "hashtags": [],
-          "likes": 2252,
+          "likes": 2254,
           "comments": 20,
           "views": null,
           "timestamp": "2026-06-20T14:01:48.000Z"
@@ -206,7 +162,7 @@
           "hashtags": [],
           "likes": 3728,
           "comments": 18,
-          "views": 37459,
+          "views": 37462,
           "timestamp": "2026-06-15T16:03:10.000Z"
         }
       ],
@@ -860,7 +816,7 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22469873,
+      "followers": 22469783,
       "following": 33,
       "postsCount": 11254,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
@@ -871,9 +827,9 @@
           "type": "Video",
           "caption": "Ogoh-Ogoh is a traditional Balinese event held on the eve of Nyepi (Day of Silence). Giant handcrafted effigies, often depicting mythological beings and negative spirits, are paraded through the streets before being symbolically removed or burned. The procession represents the cleansing of negative energies and marks the transition into Bali’s day of reflection, silence, and renewal.\n\n📷 by @klingofhustle",
           "hashtags": [],
-          "likes": 25707,
-          "comments": 1141,
-          "views": 555899,
+          "likes": 27558,
+          "comments": 1216,
+          "views": 595673,
           "timestamp": "2026-07-02T23:05:14.000Z"
         },
         {
@@ -882,8 +838,8 @@
           "type": "Sidecar",
           "caption": "In 2025, Chinese artist Cai Guo-Qiang lit a ladder of fire into the sky for his grandmother’s final goodbye.⁠\n⁠\nUsing a giant helium balloon and controlled pyrotechnic charges, he lifted a 500-meter steel ladder into the air off the coast of China. For a few minutes, it rose silently into the night, glowing as if it were climbing all the way to the moon.⁠\n⁠\nBy: @caistudio",
           "hashtags": [],
-          "likes": 26007,
-          "comments": 127,
+          "likes": 27221,
+          "comments": 131,
           "views": null,
           "timestamp": "2026-07-02T21:03:31.000Z"
         },
@@ -893,9 +849,9 @@
           "type": "Video",
           "caption": "@kristinmyshkin shows us what horseback riding 🐎 in Kazakhstan 🇰🇿 is like",
           "hashtags": [],
-          "likes": 5644,
-          "comments": 43,
-          "views": 49495,
+          "likes": 6048,
+          "comments": 46,
+          "views": 52413,
           "timestamp": "2026-07-02T19:57:09.000Z"
         },
         {
@@ -904,9 +860,9 @@
           "type": "Video",
           "caption": "Kathak & Flamenco 💃 \n\n📷 by @nikita_.thapliyal & @andaluzaenbelgica",
           "hashtags": [],
-          "likes": 4535,
+          "likes": 4597,
           "comments": 55,
-          "views": 191080,
+          "views": 193614,
           "timestamp": "2026-07-01T22:15:32.000Z"
         },
         {
@@ -915,7 +871,7 @@
           "type": "Sidecar",
           "caption": "On multi-day “big wall” climbs, rock climbers don’t return to the ground at night; they sleep directly on the cliff face.⁠\n⁠\nUsing a suspended platform called a portaledge, they create a small hanging camp anchored into the rock, often hundreds of meters above the ground.⁠\n⁠\nIt becomes a temporary home on the wall, where climbers can rest, prepare simple meals, and recover after hours of ascent.⁠\n⁠\nBy: @wildhartt_eu @stu_climbing_company @rise_and_summit Zak Bentley",
           "hashtags": [],
-          "likes": 6113,
+          "likes": 6158,
           "comments": 342,
           "views": null,
           "timestamp": "2026-07-01T21:00:26.000Z"
@@ -926,8 +882,8 @@
           "type": "Sidecar",
           "caption": "A few times each year, the sea between Jindo and Modo Island in South Korea appears to split in two.⁠\n⁠\nAs the tide retreats, a narrow pathway emerges from beneath the water, allowing people to walk across the seabed for a short period before the sea returns and covers it once again. The phenomenon is caused by exceptionally low tides and has become one of South Korea's most famous natural events.⁠\n⁠\nToday, thousands of visitors gather during the Jindo Sea Parting Festival to witness the rare sp",
           "hashtags": [],
-          "likes": 58433,
-          "comments": 223,
+          "likes": 58952,
+          "comments": 224,
           "views": null,
           "timestamp": "2026-07-01T17:00:48.000Z"
         },
@@ -937,9 +893,9 @@
           "type": "Video",
           "caption": "When a Bengali meets the Masai Tribe \n\n📷 by @miss_dutta1",
           "hashtags": [],
-          "likes": 10053,
+          "likes": 10071,
           "comments": 79,
-          "views": 607516,
+          "views": 609689,
           "timestamp": "2026-07-01T01:21:43.000Z"
         },
         {
@@ -948,7 +904,7 @@
           "type": "Sidecar",
           "caption": "Some of the most surreal places on Earth exist because two completely different worlds meet.⁠\n⁠\nA desert meets the ocean. Ice washes onto a black volcanic beach. Mountains rise straight out of the sea.⁠\n⁠\nOn their own, each of these landscapes would be remarkable. Together, they create scenes that almost don't look real.⁠\n⁠\nWhich one would you visit first?⁠\n⁠\nBy: @joshuakettle.photography @guidetoiceland @leocastrofilms @rayburn_tours @antarcticsouthernocean",
           "hashtags": [],
-          "likes": 8635,
+          "likes": 8654,
           "comments": 24,
           "views": null,
           "timestamp": "2026-06-30T19:00:36.000Z"
@@ -959,7 +915,7 @@
           "type": "Sidecar",
           "caption": "For more than a century, this palace has been part of Budapest's story.⁠\n⁠\nOriginally built in the early 1900s, the historic building has now been transformed into a luxury hotel, combining its aristocratic past with modern design and comfort.⁠\n⁠\nMany of the palace's original details have been preserved, from grand staircases and decorative ceilings to elegant architectural features that reflect the city's rich history.⁠\n⁠\nToday, guests can experience what it feels like to stay inside a building",
           "hashtags": [],
-          "likes": 3331,
+          "likes": 3341,
           "comments": 17,
           "views": null,
           "timestamp": "2026-06-30T17:01:08.000Z"
@@ -970,7 +926,7 @@
           "type": "Sidecar",
           "caption": "In Japan, you can pay for a service that helps you disappear from your current life and start over somewhere else with no trace left behind. This practice is known as “jouhatsu,” meaning “evaporation.”⁠\n⁠\nThese services assist people in leaving quietly, often arranging relocation, housing, and the steps needed to rebuild life under the radar.⁠\n⁠\nIt is commonly used by those trying to escape debt, pressure, or difficult personal situations where starting over feels like the only option.⁠\n⁠\nBy: @j",
           "hashtags": [],
-          "likes": 30504,
+          "likes": 30536,
           "comments": 464,
           "views": null,
           "timestamp": "2026-06-29T19:00:39.000Z"
@@ -981,9 +937,9 @@
           "type": "Video",
           "caption": "This is Iceland’s Icelandic horses 🇮🇸, a unique breed known for their small stature, strength, and distinctive five gaits, including the famous tölt, a smooth four-beat riding pace.\n\nBrought to Iceland by Norse settlers over 1,000 years ago, these horses have remained isolated from other breeds. Today, they are deeply connected to Icelandic culture and can often be seen roaming the country’s landscapes of mountains, lava fields, and coastlines. \n\n📷 by @linaimages",
           "hashtags": [],
-          "likes": 46473,
-          "comments": 234,
-          "views": 455241,
+          "likes": 46565,
+          "comments": 235,
+          "views": 456295,
           "timestamp": "2026-06-29T19:00:10.000Z"
         },
         {
@@ -992,7 +948,7 @@
           "type": "Sidecar",
           "caption": "After 144 years of construction, Barcelona’s Sagrada Família was lit up during a historic moment marked by a special papal blessing.⁠\n⁠\nDesigned by Antoni Gaudí, the basilica has become one of the most iconic landmarks in the world. Its towering spires and intricate facades took on a new presence as lights illuminated the structure during the ceremony, marking another chapter in its long history.⁠\n⁠\nBy: @basilicasagradafamilia @kassisien.playground",
           "hashtags": [],
-          "likes": 32054,
+          "likes": 32101,
           "comments": 141,
           "views": null,
           "timestamp": "2026-06-29T17:03:50.000Z"
@@ -1003,7 +959,7 @@
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 269136738,
+      "followers": 269136429,
       "following": 193,
       "postsCount": 31764,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
@@ -1016,9 +972,9 @@
           "hashtags": [
             "PompeiiOutOfTime"
           ],
-          "likes": 127791,
-          "comments": 1044,
-          "views": 1187096,
+          "likes": 127829,
+          "comments": 1045,
+          "views": 1187348,
           "timestamp": "2026-06-16T16:00:07.000Z"
         },
         {
@@ -1031,7 +987,7 @@
           ],
           "likes": 56441,
           "comments": 826,
-          "views": 910951,
+          "views": 910973,
           "timestamp": "2026-05-19T16:00:09.000Z"
         },
         {
@@ -1040,8 +996,8 @@
           "type": "Image",
           "caption": "Photographed by Emily Whitney, two Eriskay ponies embrace each other in Eriskay, Scotland. Known for their fine gray coat that develops as they age, these ponies are an ancient breed native to the Outer Hebrides of western Scotland. With only around 400 remaining, locals care for them as they roam the village, and the Eriskay Pony Society works with the Rare Breeds Survival Trust to bolster the population.\n\nSee more Photos of the Day at the link in bio.",
           "hashtags": [],
-          "likes": 32873,
-          "comments": 135,
+          "likes": 34937,
+          "comments": 141,
           "views": null,
           "timestamp": "2026-07-02T22:00:02.000Z"
         },
@@ -1051,9 +1007,9 @@
           "type": "Video",
           "caption": "A moment of awe. While searching for the Seven Natural Wonders of America, @debrobertsabc and National Geographic Explorer James Edward Mills (@thejoytripproject) captured this beautiful view. Can you guess where they are? \n\nDiscover more beauty and nature in the final Wonders of America list, revealed during the 24-hour “Disney Celebrates America” live event special on July 4th on ABC, Disney+ and Nat Geo.",
           "hashtags": [],
-          "likes": 76417,
-          "comments": 673,
-          "views": 624125,
+          "likes": 77740,
+          "comments": 678,
+          "views": 639826,
           "timestamp": "2026-07-02T12:00:36.000Z"
         },
         {
@@ -1062,9 +1018,9 @@
           "type": "Video",
           "caption": "A fish has been documented appearing to hold its breath—but it's not the only marine animal to do it. Hammerhead sharks also hold their breath to conserve heat while hunting, and National Geographic Explorer Arzucan Askin (@zuzu_askin) says this unique ability could be useful in other ways.",
           "hashtags": [],
-          "likes": 14386,
+          "likes": 14550,
           "comments": 98,
-          "views": 405879,
+          "views": 411056,
           "timestamp": "2026-07-01T22:17:04.000Z"
         },
         {
@@ -1075,7 +1031,7 @@
           "hashtags": [
             "PhotoArk"
           ],
-          "likes": 33185,
+          "likes": 33342,
           "comments": 84,
           "views": null,
           "timestamp": "2026-07-01T10:00:01.000Z"
@@ -1086,7 +1042,7 @@
           "type": "Image",
           "caption": "For years, women were told to train differently because of their hormones. But new research suggests the fundamentals of building strength and muscle look remarkably similar across sexes, and many women may be missing out on crucial regimens.\n\nFind out what the experts say about how women should be training at the link in bio.\n\nPhotograph by Lustre Art Group, Adobe Stock",
           "hashtags": [],
-          "likes": 16880,
+          "likes": 16926,
           "comments": 203,
           "views": null,
           "timestamp": "2026-06-30T22:00:02.000Z"
@@ -1097,9 +1053,9 @@
           "type": "Video",
           "caption": "After sunset, thousands of stars emerge across the sky above Big Bend National Park. Darkness is hard to measure definitively, but Texas’s largest national park sits within the world’s biggest certified dark sky area—the 15,000-square-mile (38,850 square-kilometer) Greater Big Bend International Dark Sky Reserve. This is one of the finest places in the country to see the Milky Way, offering nighttime visitors a star-spangled sky much as it looked 250 years ago. \n\nWith the 250th anniversary of U.",
           "hashtags": [],
-          "likes": 26820,
-          "comments": 173,
-          "views": 183277,
+          "likes": 26907,
+          "comments": 174,
+          "views": 184141,
           "timestamp": "2026-06-30T19:02:48.000Z"
         },
         {
@@ -1108,7 +1064,7 @@
           "type": "Image",
           "caption": "Photographed by Karolina Norée (@karolinanoreewild), a male African jacana protects his chick on the Chobe River in Namibia. Often called the \"Jesus bird,\" the species' long legs and claws enable it to walk across lily pads and other vegetation found atop bodies of water across sub-Saharan Africa, including flooded grasslands, marshes, ponds, and shallow lakes. Male African jacanas typically care for chicks and can carry them under their wings.\n\nSee more Photos of the Day at the link in bio.",
           "hashtags": [],
-          "likes": 50987,
+          "likes": 51167,
           "comments": 182,
           "views": null,
           "timestamp": "2026-06-30T13:00:01.000Z"
@@ -1119,8 +1075,8 @@
           "type": "Image",
           "caption": "It's the fourth leading type of cancer for women across the world, but cervical cancer has possibly met its match. A new study of the human papillomavirus (HPV) vaccine in the U.K. has demonstrated a 100 percent decrease in cancer deaths across five years—an incredibly rare result. While zero doesn’t mean there’s no chance of death, it still indicates a remarkable level of effectiveness.\n\nDiscover what the results mean for the future of HPV and cervical cancer at the link in bio. \n\nPhotograph by",
           "hashtags": [],
-          "likes": 55985,
-          "comments": 456,
+          "likes": 56132,
+          "comments": 459,
           "views": null,
           "timestamp": "2026-06-29T22:00:02.000Z"
         },
@@ -1130,7 +1086,7 @@
           "type": "Image",
           "caption": "A brown bear peers into the window of a stopped car in Wyoming's Yellowstone National Park. The image by Dean Cogner was featured in a July 1966 National Geographic story describing the progress of Mission 66, a government effort to revitalize the country's national parks after decades of increased visitation but poor maintenance. The efforts of Mission 66 have had a longstanding effect on U.S. National Park infrastructure, which continues to serve millions of visitors each year.\n\nSee more Photo",
           "hashtags": [],
-          "likes": 36457,
+          "likes": 36586,
           "comments": 141,
           "views": null,
           "timestamp": "2026-06-29T13:00:01.000Z"
@@ -1141,8 +1097,8 @@
           "type": "Image",
           "caption": "Health research has historically overlooked women, and especially women of color. But new research is finally yielding biological insights that are leading to better diagnoses and treatments for everything from ADHD to the leading causes of maternal mortality. \n\nFind out what researchers are beginning to learn as they fill gaps in women’s health at the link in bio.\n\nPhotograph by Stígur Már Karlsson, Heimsmyndir/Getty Images",
           "hashtags": [],
-          "likes": 37969,
-          "comments": 735,
+          "likes": 38028,
+          "comments": 736,
           "views": null,
           "timestamp": "2026-06-28T19:00:03.000Z"
         }
@@ -1152,7 +1108,7 @@
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10812029,
+      "followers": 10812041,
       "following": 416,
       "postsCount": 7483,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
@@ -1167,9 +1123,9 @@
             "DavidAttenborough",
             "BluePlanetIII"
           ],
-          "likes": 783898,
+          "likes": 784064,
           "comments": 3665,
-          "views": 3481563,
+          "views": 3482282,
           "timestamp": "2026-05-08T21:07:02.000Z"
         },
         {
@@ -1181,8 +1137,8 @@
             "Evolution",
             "ChrisPackham"
           ],
-          "likes": 6645,
-          "comments": 124,
+          "likes": 6773,
+          "comments": 127,
           "views": null,
           "timestamp": "2026-07-02T13:00:05.000Z"
         },
@@ -1196,9 +1152,9 @@
             "Flamingo",
             "ExtremeClimate"
           ],
-          "likes": 13893,
-          "comments": 77,
-          "views": 275192,
+          "likes": 13967,
+          "comments": 78,
+          "views": 276815,
           "timestamp": "2026-06-30T15:05:08.000Z"
         },
         {
@@ -1212,9 +1168,9 @@
             "Birds",
             "Wadingbirds"
           ],
-          "likes": 76821,
-          "comments": 447,
-          "views": 433021,
+          "likes": 76968,
+          "comments": 446,
+          "views": 434013,
           "timestamp": "2026-06-28T08:00:09.000Z"
         },
         {
@@ -1229,9 +1185,9 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 7560,
-          "comments": 29,
-          "views": 111190,
+          "likes": 7569,
+          "comments": 30,
+          "views": 111304,
           "timestamp": "2026-06-26T11:30:09.000Z"
         },
         {
@@ -1245,9 +1201,9 @@
             "PE20",
             "PEII"
           ],
-          "likes": 4474,
+          "likes": 4480,
           "comments": 30,
-          "views": 34132,
+          "views": 34179,
           "timestamp": "2026-06-25T15:00:11.000Z"
         },
         {
@@ -1261,9 +1217,9 @@
             "BehindTheScene",
             "Nepal"
           ],
-          "likes": 3607,
+          "likes": 3612,
           "comments": 26,
-          "views": 35975,
+          "views": 36007,
           "timestamp": "2026-06-21T14:05:08.000Z"
         },
         {
@@ -1277,9 +1233,9 @@
             "BehindTheScene",
             "Nepal"
           ],
-          "likes": 4514,
+          "likes": 4517,
           "comments": 41,
-          "views": 137634,
+          "views": 137649,
           "timestamp": "2026-06-19T11:05:10.000Z"
         },
         {
@@ -1295,7 +1251,7 @@
           ],
           "likes": 9757,
           "comments": 67,
-          "views": 74148,
+          "views": 74150,
           "timestamp": "2026-06-18T16:00:09.000Z"
         },
         {
@@ -1308,9 +1264,9 @@
             "TigerCubs",
             "NewBehaviour"
           ],
-          "likes": 16989,
+          "likes": 17004,
           "comments": 72,
-          "views": 143991,
+          "views": 144046,
           "timestamp": "2026-06-17T14:01:51.000Z"
         },
         {
@@ -1325,7 +1281,7 @@
           ],
           "likes": 43964,
           "comments": 334,
-          "views": 511082,
+          "views": 511086,
           "timestamp": "2026-06-15T14:00:40.000Z"
         },
         {
@@ -1338,9 +1294,9 @@
             "TigerCubs",
             "BehindTheScene"
           ],
-          "likes": 10682,
+          "likes": 10685,
           "comments": 64,
-          "views": 80631,
+          "views": 80652,
           "timestamp": "2026-06-14T14:05:04.000Z"
         }
       ],
