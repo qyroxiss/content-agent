@@ -114,6 +114,14 @@ async function realPull() {
   return buildOutput(details, ownPosts);
 }
 
+// --- fallback for own account when Apify's guest scraper can't reach it
+// (known Instagram behavior for small/new accounts, independent of privacy setting) ---
+const OWN_MANUAL_FILE = path.join(__dirname, "own_manual.json");
+function loadOwnManual() {
+  if (!fs.existsSync(OWN_MANUAL_FILE)) return null;
+  return JSON.parse(fs.readFileSync(OWN_MANUAL_FILE, "utf8"));
+}
+
 function buildOutput(details, ownPostsRaw) {
   const profiles = {};
   for (const d of details) {
@@ -130,9 +138,19 @@ function buildOutput(details, ownPostsRaw) {
     };
   }
 
-  const own = profiles[OWN_HANDLE] || { handle: OWN_HANDLE, recentPosts: [] };
+  let own = profiles[OWN_HANDLE] || { handle: OWN_HANDLE, recentPosts: [] };
   own.posts = ownPostsRaw.map(normPost)
     .sort((a, b) => new Date(b.timestamp || 0) - new Date(a.timestamp || 0));
+
+  let usedManualOwnData = false;
+  const scrapeFailed = own.followers == null && !own.posts.some(p => p.likes != null);
+  if (scrapeFailed) {
+    const manual = loadOwnManual();
+    if (manual) {
+      own = { ...manual, recentPosts: manual.posts };
+      usedManualOwnData = true;
+    }
+  }
   own.engagementRate = engagement(own.posts, own.followers);
 
   const competitors = COMPETITORS.map(h => {
@@ -143,7 +161,9 @@ function buildOutput(details, ownPostsRaw) {
 
   return {
     generatedAt: new Date().toISOString(),
-    source: "apify/instagram-scraper",
+    source: usedManualOwnData
+      ? "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)"
+      : "apify/instagram-scraper",
     own,
     competitors,
   };

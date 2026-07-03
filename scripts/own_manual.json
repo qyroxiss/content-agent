@@ -1,0 +1,65 @@
+{
+  "handle": "quietlystrange09",
+  "fullName": "Quietly Strange",
+  "followers": 13,
+  "following": 5,
+  "postsCount": 5,
+  "bio": "Strange but true stories, told quietly. New odd hour, every week.",
+  "posts": [
+    {
+      "id": "own_internet_en",
+      "url": null,
+      "type": "Video",
+      "caption": "In 2021, one engineer typed one wrong command and 3.5 billion people lost the internet in a single instant. Not hacked. Not attacked. Just one wrong line of code during a routine maintenance check. Facebook's own engineers couldn't even log in to fix it, their access tools were on the same servers that just vanished. They had to physically drive to data centers and override servers by hand. One by one. 6 hours. $60 million lost every single hour. And the exact same vulnerability? Still exists right now. The internet is more fragile than you think.",
+      "hashtags": ["quietlystrange", "facebook", "internet", "tech", "viral"],
+      "likes": 8,
+      "comments": 1,
+      "views": 379,
+      "timestamp": "2026-07-03T12:25:00.000Z"
+    },
+    {
+      "id": "own_internet_hi",
+      "url": null,
+      "type": "Video",
+      "caption": "2021 mein ek engineer ne ek galat command type ki aur 3.5 billion logon ka internet ek pal mein band ho gaya. Hack nahi hua. Attack nahi hua. Bas ek routine maintenance check ke dauran ek galat line of code. 6 ghante. Har ghante 60 million dollar ka nuksaan. Internet utna strong nahi jitna hum sochte hain.",
+      "hashtags": ["quietlystrange", "hindishorts", "facebook", "internet", "technology"],
+      "likes": 6,
+      "comments": 1,
+      "views": 248,
+      "timestamp": "2026-07-03T12:15:00.000Z"
+    },
+    {
+      "id": "own_the_hum",
+      "url": null,
+      "type": "Video",
+      "caption": "There is a sound that only 2% of people can hear. Scientists have studied it for 50 years and still have no answer. It's called The Hum — and the leading theory is that it's the Earth itself vibrating at a frequency most humans aren't built to detect. A woman heard it for 11 years, moved across the country to escape it, and it followed her to the new house. Stop right now, close your eyes, and listen. What do you hear?",
+      "hashtags": ["quietlystrange", "mystery", "thehum", "unexplained", "earthfacts"],
+      "likes": 9,
+      "comments": 0,
+      "views": 390,
+      "timestamp": "2026-07-02T23:20:00.000Z"
+    },
+    {
+      "id": "own_earth_strange",
+      "url": null,
+      "type": "Video",
+      "caption": "We call space the final frontier. But we've barely explored our own planet. Earth is stranger than anything we've found out there — and most people have no idea. From perfect solar eclipses to oceans deeper than mountains are tall, this is the planet you thought you knew.",
+      "hashtags": ["space", "earthfacts", "naturefacts", "didyouknow", "viral"],
+      "likes": 136,
+      "comments": 7,
+      "views": 6788,
+      "timestamp": "2026-07-02T16:20:00.000Z"
+    },
+    {
+      "id": "own_1974_calendar",
+      "url": null,
+      "type": "Video",
+      "caption": "In 1974, a man calculated the exact day he would die and spent a year preparing for it. What happened next is stranger than the prediction itself. Frank was obsessed with numerology. He told his family, quit his job, and gave away everything he owned. When the day came and went without incident, he thought he'd beaten fate. He hadn't.",
+      "hashtags": ["reelviral", "oddhours", "strangebuttrue", "truestory", "mysterytacklebox"],
+      "likes": 9,
+      "comments": 0,
+      "views": 134,
+      "timestamp": "2026-07-01T16:20:00.000Z"
+    }
+  ]
+}
