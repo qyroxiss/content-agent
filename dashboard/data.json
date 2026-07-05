@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T17:37:26.894Z",
+  "generatedAt": "2026-07-05T17:41:45.491Z",
   "source": "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)",
   "own": {
     "handle": "quietlystrange09",
@@ -188,7 +188,7 @@
     {
       "handle": "kurzgesagt",
       "fullName": "Kurzgesagt - In a nutshell",
-      "followers": 1598771,
+      "followers": 1598804,
       "following": 695,
       "postsCount": 2305,
       "bio": "Sciency videos made with love, a lot of time and after effects.\nLinks to our videos, shop, website & more:",
@@ -199,8 +199,8 @@
           "type": "Image",
           "caption": "When someone opens snacks in the office",
           "hashtags": [],
-          "likes": 1231,
-          "comments": 16,
+          "likes": 2380,
+          "comments": 18,
           "views": null,
           "timestamp": "2026-07-04T14:00:32.000Z"
         },
@@ -210,9 +210,9 @@
           "type": "Video",
           "caption": "What could 1% of the richest countries’ income achieve? From malaria vaccines and clean water to renewable energy, a surprisingly small fraction of global wealth could transform millions of lives.",
           "hashtags": [],
-          "likes": 8442,
-          "comments": 112,
-          "views": 48489,
+          "likes": 9958,
+          "comments": 134,
+          "views": 55729,
           "timestamp": "2026-07-03T14:01:07.000Z"
         },
         {
@@ -221,8 +221,8 @@
           "type": "Image",
           "caption": "Your favorite shirt of the summer now comes with a very special souvenir from space!\n\nGet a free set of Space Tour Patches when you buy a Space Tour Shirt, this summer* ✨\nWe teamed up with artist @haxloeffler to create this exclusive, two-sided shirt design featuring a cosmic throwback to our most iconic space videos. Suit up, secure your free patches, and browse a few more cosmic essentials for the journey.\n\n*Starting from 23.06.2026 until 07.07.2026, when you purchase the Space Tour Shirt in t",
           "hashtags": [],
-          "likes": 462,
-          "comments": 5,
+          "likes": 471,
+          "comments": 3,
           "views": null,
           "timestamp": "2026-07-01T14:00:52.000Z"
         },
@@ -232,8 +232,8 @@
           "type": "Image",
           "caption": "Could YOU survive a royal marriage? Henry VIII had six wives, but becoming Queen of England is only the beginning of the challenge. To survive this, you have to navigate religious upheaval, political games, shifting alliances, and the unpredictable moods of one of history's most notorious monarchs. Some lost their crowns, and some lost their lives, but only one outlived the king.\n\nWho were Henry VIII's six wives, and why was marrying him a death sentence for most of them? And what about you, cou",
           "hashtags": [],
-          "likes": 3309,
-          "comments": 19,
+          "likes": 3448,
+          "comments": 20,
           "views": null,
           "timestamp": "2026-06-30T14:02:32.000Z"
         },
@@ -243,8 +243,8 @@
           "type": "Sidecar",
           "caption": "Yep, it do be like that sometimes... 💀",
           "hashtags": [],
-          "likes": 17365,
-          "comments": 75,
+          "likes": 17807,
+          "comments": 77,
           "views": null,
           "timestamp": "2026-06-29T14:02:05.000Z"
         },
@@ -254,9 +254,9 @@
           "type": "Video",
           "caption": "This is the deadliest virus on our planet… However, human cells are safe. The deadliest virus on our planet only feasts on bacteria, hence its name: Bacteriophage - bacteria eater. Now that our antibiotics aren't as effective against the ever-evolving multiresistant bacteria, phages are a promising tool for defending ourselves in the future. They are highly specialized so they only attack the bacteria they’re supposed to, reducing the side effects of a treatment.",
           "hashtags": [],
-          "likes": 14136,
+          "likes": 14458,
           "comments": 65,
-          "views": 121176,
+          "views": 123725,
           "timestamp": "2026-06-27T14:30:53.000Z"
         },
         {
@@ -265,9 +265,9 @@
           "type": "Video",
           "caption": "If the Moon tasted like cheese, we are sure this asteroid would taste like an orange-flavored jellybean!\n\nHave you already started your space adventure? Star Birds, which we developed together with our friends at Toukana Interactive, is available on Steam!",
           "hashtags": [],
-          "likes": 1788,
-          "comments": 13,
-          "views": 16342,
+          "likes": 1823,
+          "comments": 14,
+          "views": 16810,
           "timestamp": "2026-06-26T14:00:36.000Z"
         },
         {
@@ -276,9 +276,9 @@
           "type": "Video",
           "caption": "Which year of your life is the most dangerous? For many people, it’s not old age but infancy. Where you're born can dramatically change your chances of survival, and millions of child deaths are still preventable today.",
           "hashtags": [],
-          "likes": 10081,
+          "likes": 10199,
           "comments": 57,
-          "views": 84363,
+          "views": 85450,
           "timestamp": "2026-06-25T18:52:58.000Z"
         },
         {
@@ -287,8 +287,8 @@
           "type": "Image",
           "caption": "Behind every one of our videos is a producer keeping hundreds of moving pieces in orbit.\nNow we're looking for two more. ✨\nIf you want to work with a team that's making science and history accessible and inspiring curiosity for millions of people around the world, check out our open Producer roles. \nLink in Bio 💌",
           "hashtags": [],
-          "likes": 11414,
-          "comments": 204,
+          "likes": 11601,
+          "comments": 211,
           "views": null,
           "timestamp": "2026-06-25T15:59:14.000Z"
         },
@@ -298,7 +298,7 @@
           "type": "Image",
           "caption": "Plop Plop Plop 🌚\n\nThis is what Nightshift scribbles look like before we paint the final scene",
           "hashtags": [],
-          "likes": 1644,
+          "likes": 1666,
           "comments": 6,
           "views": null,
           "timestamp": "2026-06-22T12:00:42.000Z"
@@ -309,7 +309,7 @@
           "type": "Image",
           "caption": "STAR BIRDS IS ON MAC NOW!\nMany of you have asked for it, and after months of work, here it finally is: Star Birds is now officially on Mac! No need to wait for RAM prices to go down to build your own PC, play Star Birds now on Steam! 🚀✨",
           "hashtags": [],
-          "likes": 2282,
+          "likes": 2284,
           "comments": 20,
           "views": null,
           "timestamp": "2026-06-20T14:01:48.000Z"
@@ -320,18 +320,18 @@
           "type": "Image",
           "caption": "Don't mind us throwing a little ragebait into the next Nightshift video for you 🌚",
           "hashtags": [],
-          "likes": 2283,
+          "likes": 2285,
           "comments": 15,
           "views": null,
           "timestamp": "2026-06-18T12:00:48.000Z"
         }
       ],
-      "engagementRate": 0.39
+      "engagementRate": 0.41
     },
     {
       "handle": "spacefacts.ig",
       "fullName": "Astronomy",
-      "followers": 46,
+      "followers": 47,
       "following": 81,
       "postsCount": 16,
       "bio": "Follow for great facts about our great universe 🌎🌕⭐️☄️",
@@ -685,12 +685,12 @@
           "timestamp": "2018-09-13T01:01:30.000Z"
         }
       ],
-      "engagementRate": 38.04
+      "engagementRate": 37.23
     },
     {
       "handle": "didyouknowfacts",
       "fullName": "Fact of the Day",
-      "followers": 49,
+      "followers": 51,
       "following": 46,
       "postsCount": 4,
       "bio": "⏰New Facts Daily⏰\n🔥Follow for More🔥\n📥Submit Your Facts for Shoutout📥\n🔴Like 3 Pics When You Follow🔵\n📲Kik: didyouknowfactsdaily📲",
@@ -809,7 +809,7 @@
           "timestamp": "2015-01-25T19:09:02.000Z"
         }
       ],
-      "engagementRate": 63.27
+      "engagementRate": 60.78
     },
     {
       "handle": "sciencefactshindi",
@@ -976,19 +976,41 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22468645,
+      "followers": 22467322,
       "following": 33,
-      "postsCount": 11258,
+      "postsCount": 11260,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
       "recentPosts": [
+        {
+          "id": "3934683292801120288",
+          "url": "https://www.instagram.com/p/DaazZujEzgg/",
+          "type": "Sidecar",
+          "caption": "Rolex has just opened its highest boutique in the world, nearly 10,000 feet above sea level.⁠\n⁠\nLocated in St. Moritz, Switzerland, the new store sits in one of Europe's most famous mountain destinations, known for luxury, skiing, and breathtaking alpine views.⁠\n⁠\nThe location may seem unusual at first, but it reflects the brand's long connection to exploration, adventure, and some of the world's most extreme environments.⁠\n⁠\nWould you visit the world's highest Rolex boutique? ⌚⁠\n⁠\nBy: @titlis_t",
+          "hashtags": [],
+          "likes": 924,
+          "comments": 16,
+          "views": null,
+          "timestamp": "2026-07-05T17:00:25.000Z"
+        },
+        {
+          "id": "3934079343577279074",
+          "url": "https://www.instagram.com/p/DaYqFHAICpi/",
+          "type": "Sidecar",
+          "caption": "At first glance, it looks like a movie set from Squid Game.⁠\n⁠\nBut this colorful maze of staircases and bright facades is actually a real apartment complex in Spain. Its bold architecture and geometric design have made it one of the most photographed residential buildings in the country.⁠\n⁠\nWith its pastel colors, endless stairs, and surreal layout, it's easy to see why so many people compare it to scenes from the hit Netflix series.⁠\n⁠\nBy: @edsuter",
+          "hashtags": [],
+          "likes": 3594,
+          "comments": 22,
+          "views": null,
+          "timestamp": "2026-07-04T21:00:30.000Z"
+        },
         {
           "id": "3933959981695463376",
           "url": "https://www.instagram.com/p/DaYO8Klj2_Q/",
           "type": "Sidecar",
           "caption": "In 1928, cave explorer Leo Lambert was searching through narrow underground passages when he came across something unexpected: a 145-foot waterfall hidden deep inside a cave system.⁠\n⁠\nTo reach it, he had to squeeze through tight, unmarked tunnels far below the surface. What he found was a massive underground chamber where water cascaded down in complete silence from the outside world.⁠\n⁠\nHe named the discovery Ruby Falls, in honor of his wife, Ruby.⁠\n⁠\nToday, visitors can descend deep into the ",
           "hashtags": [],
-          "likes": 707,
-          "comments": 5,
+          "likes": 3150,
+          "comments": 17,
           "views": null,
           "timestamp": "2026-07-04T17:03:36.000Z"
         },
@@ -998,8 +1020,8 @@
           "type": "Sidecar",
           "caption": "Italy is turning tiramisù into a race.⁠\n⁠\nFor the first time, Treviso will host the Tiramisù Run, a 10.1 km fun run through the birthplace of the iconic dessert. The route takes runners through the city’s historic streets, canals, and squares, turning the entire setting into part of the experience.⁠\n⁠\nIt’s not a traditional race with a typical prize. Instead, those who finish are rewarded with something very fitting for the theme: unlimited fresh tiramisù waiting at the finish line.⁠\n⁠\nBy: @cnnn",
           "hashtags": [],
-          "likes": 12748,
-          "comments": 176,
+          "likes": 16257,
+          "comments": 228,
           "views": null,
           "timestamp": "2026-07-03T21:01:02.000Z"
         },
@@ -1009,8 +1031,8 @@
           "type": "Sidecar",
           "caption": "What if your good deeds could pay for part of your vacation?⁠\n⁠\nIn Copenhagen, visitors can earn rewards through a program called CopenPay by making environmentally friendly choices during their trip.⁠\n⁠\nTaking public transport, cycling instead of driving, or helping with local clean-up activities can unlock perks such as museum visits, guided tours, meals, and other experiences around the city.⁠\n⁠\nThe initiative encourages travelers to explore responsibly while giving something back to the plac",
           "hashtags": [],
-          "likes": 3606,
-          "comments": 17,
+          "likes": 4463,
+          "comments": 21,
           "views": null,
           "timestamp": "2026-07-03T17:00:41.000Z"
         },
@@ -1020,9 +1042,9 @@
           "type": "Video",
           "caption": "This is Xianqiao Cave Scenic Area in Hangzhou, China 🇨🇳\n\n📷 by @hoshiyeru",
           "hashtags": [],
-          "likes": 9379,
-          "comments": 41,
-          "views": 78166,
+          "likes": 11323,
+          "comments": 44,
+          "views": 96972,
           "timestamp": "2026-07-03T16:34:20.000Z"
         },
         {
@@ -1031,9 +1053,9 @@
           "type": "Video",
           "caption": "Ogoh-Ogoh is a traditional Balinese event held on the eve of Nyepi (Day of Silence). Giant handcrafted effigies, often depicting mythological beings and negative spirits, are paraded through the streets before being symbolically removed or burned. The procession represents the cleansing of negative energies and marks the transition into Bali’s day of reflection, silence, and renewal.\n\n📷 by @klingofhustle",
           "hashtags": [],
-          "likes": 41106,
-          "comments": 1832,
-          "views": 874820,
+          "likes": 43769,
+          "comments": 1900,
+          "views": 944457,
           "timestamp": "2026-07-02T23:05:14.000Z"
         },
         {
@@ -1042,8 +1064,8 @@
           "type": "Sidecar",
           "caption": "In 2025, Chinese artist Cai Guo-Qiang lit a ladder of fire into the sky for his grandmother’s final goodbye.⁠\n⁠\nUsing a giant helium balloon and controlled pyrotechnic charges, he lifted a 500-meter steel ladder into the air off the coast of China. For a few minutes, it rose silently into the night, glowing as if it were climbing all the way to the moon.⁠\n⁠\nBy: @caistudio",
           "hashtags": [],
-          "likes": 36266,
-          "comments": 155,
+          "likes": 38560,
+          "comments": 163,
           "views": null,
           "timestamp": "2026-07-02T21:03:31.000Z"
         },
@@ -1053,9 +1075,9 @@
           "type": "Video",
           "caption": "@kristinmyshkin shows us what horseback riding 🐎 in Kazakhstan 🇰🇿 is like",
           "hashtags": [],
-          "likes": 8409,
-          "comments": 61,
-          "views": 74699,
+          "likes": 9344,
+          "comments": 62,
+          "views": 84493,
           "timestamp": "2026-07-02T19:57:09.000Z"
         },
         {
@@ -1064,9 +1086,9 @@
           "type": "Video",
           "caption": "Kathak & Flamenco 💃 \n\n📷 by @nikita_.thapliyal & @andaluzaenbelgica",
           "hashtags": [],
-          "likes": 5127,
-          "comments": 55,
-          "views": 220392,
+          "likes": 5317,
+          "comments": 58,
+          "views": 232485,
           "timestamp": "2026-07-01T22:15:32.000Z"
         },
         {
@@ -1075,8 +1097,8 @@
           "type": "Sidecar",
           "caption": "On multi-day “big wall” climbs, rock climbers don’t return to the ground at night; they sleep directly on the cliff face.⁠\n⁠\nUsing a suspended platform called a portaledge, they create a small hanging camp anchored into the rock, often hundreds of meters above the ground.⁠\n⁠\nIt becomes a temporary home on the wall, where climbers can rest, prepare simple meals, and recover after hours of ascent.⁠\n⁠\nBy: @wildhartt_eu @stu_climbing_company @rise_and_summit Zak Bentley",
           "hashtags": [],
-          "likes": 6664,
-          "comments": 360,
+          "likes": 6960,
+          "comments": 369,
           "views": null,
           "timestamp": "2026-07-01T21:00:26.000Z"
         },
@@ -1086,32 +1108,10 @@
           "type": "Sidecar",
           "caption": "A few times each year, the sea between Jindo and Modo Island in South Korea appears to split in two.⁠\n⁠\nAs the tide retreats, a narrow pathway emerges from beneath the water, allowing people to walk across the seabed for a short period before the sea returns and covers it once again. The phenomenon is caused by exceptionally low tides and has become one of South Korea's most famous natural events.⁠\n⁠\nToday, thousands of visitors gather during the Jindo Sea Parting Festival to witness the rare sp",
           "hashtags": [],
-          "likes": 67941,
-          "comments": 250,
+          "likes": 73507,
+          "comments": 261,
           "views": null,
           "timestamp": "2026-07-01T17:00:48.000Z"
-        },
-        {
-          "id": "3931311280438491514",
-          "url": "https://www.instagram.com/p/DaO0sfUBbl6/",
-          "type": "Video",
-          "caption": "When a Bengali meets the Masai Tribe \n\n📷 by @miss_dutta1",
-          "hashtags": [],
-          "likes": 10389,
-          "comments": 85,
-          "views": 641210,
-          "timestamp": "2026-07-01T01:21:43.000Z"
-        },
-        {
-          "id": "3931119900840675007",
-          "url": "https://www.instagram.com/p/DaOJLjLE8a_/",
-          "type": "Sidecar",
-          "caption": "Some of the most surreal places on Earth exist because two completely different worlds meet.⁠\n⁠\nA desert meets the ocean. Ice washes onto a black volcanic beach. Mountains rise straight out of the sea.⁠\n⁠\nOn their own, each of these landscapes would be remarkable. Together, they create scenes that almost don't look real.⁠\n⁠\nWhich one would you visit first?⁠\n⁠\nBy: @joshuakettle.photography @guidetoiceland @leocastrofilms @rayburn_tours @antarcticsouthernocean",
-          "hashtags": [],
-          "likes": 8989,
-          "comments": 24,
-          "views": null,
-          "timestamp": "2026-06-30T19:00:36.000Z"
         }
       ],
       "engagementRate": 0.08
@@ -1119,9 +1119,9 @@
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 269126079,
+      "followers": 269118906,
       "following": 193,
-      "postsCount": 31769,
+      "postsCount": 31774,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
       "recentPosts": [
         {
@@ -1132,9 +1132,9 @@
           "hashtags": [
             "PompeiiOutOfTime"
           ],
-          "likes": 128230,
-          "comments": 1066,
-          "views": 1191314,
+          "likes": 128572,
+          "comments": 1074,
+          "views": 1194499,
           "timestamp": "2026-06-16T16:00:07.000Z"
         },
         {
@@ -1145,10 +1145,74 @@
           "hashtags": [
             "BestOfTheWorld"
           ],
-          "likes": 56488,
-          "comments": 830,
-          "views": 911744,
+          "likes": 56529,
+          "comments": 832,
+          "views": 912394,
           "timestamp": "2026-05-19T16:00:09.000Z"
+        },
+        {
+          "id": "3934238592977110769",
+          "url": "https://www.instagram.com/p/DaZOSfkCIbx/",
+          "type": "Video",
+          "caption": "As close as it gets.\n\n#HammerheadSharksUpClose with Bertie Gregory is now streaming on @DisneyPlus and @hulu, part of #Sharkfest on National Geographic.",
+          "hashtags": [
+            "HammerheadSharksUpClose",
+            "Sharkfest"
+          ],
+          "likes": 6394,
+          "comments": 35,
+          "views": 117625,
+          "timestamp": "2026-07-05T15:00:05.000Z"
+        },
+        {
+          "id": "3934056773069853472",
+          "url": "https://www.instagram.com/p/DaYk8qlDFMg/",
+          "type": "Video",
+          "caption": "When Artemis II blasted off in April for its historic 10-day mission around the far side of the moon, National Geographic partnered with NASA to send cameras along for the ride—and the astronauts captured clips for their fellow Earthlings of what life was like inside the Orion spacecraft, including one very emotional moment on their flyby. \n\nNestled into the capsule side-by-side after their first shift of lunar observations, NASA mission commander Reid Wiseman and Jeremy Hansen of the Canadian S",
+          "hashtags": [],
+          "likes": 6732,
+          "comments": 64,
+          "views": 336065,
+          "timestamp": "2026-07-04T20:16:05.000Z"
+        },
+        {
+          "id": "3934028311168164785",
+          "url": "https://www.instagram.com/p/DaYeefXgiOx/",
+          "type": "Video",
+          "caption": "David Muir journeys to one of the nation's \"Seven Wonders of America\" — the Grand Canyon — and is joined by National Geographic Explorer, Pete McBride, who spent 14 months hiking the entire length of the canyon. Its iconic scenery defines America's beauty, history, and people.\n\n#DisneyCelebratesAmerica",
+          "hashtags": [
+            "DisneyCelebratesAmerica"
+          ],
+          "likes": 14739,
+          "comments": 127,
+          "views": 136351,
+          "timestamp": "2026-07-04T19:20:45.000Z"
+        },
+        {
+          "id": "3934015577513436216",
+          "url": "https://www.instagram.com/p/DaYblMOiqQ4/",
+          "type": "Video",
+          "caption": "NFL star Myles Garrett follows his childhood passions, from football fields to fossils. #DisneyCelebratesAmerica",
+          "hashtags": [
+            "DisneyCelebratesAmerica"
+          ],
+          "likes": 17428,
+          "comments": 119,
+          "views": 611334,
+          "timestamp": "2026-07-04T18:55:50.000Z"
+        },
+        {
+          "id": "3933991527977747032",
+          "url": "https://www.instagram.com/p/DaYWHOWgoJY/",
+          "type": "Video",
+          "caption": "One of the most powerful forces of nature on Earth. Michael Strahan reveals our next Natural Wonder of America: Niagara Falls. Beneath the roar of the falls where 700,000 gallons of water pour over the edge every second, the mist and rainbows play a key part of American history. #DisneyCelebratesAmerica",
+          "hashtags": [
+            "DisneyCelebratesAmerica"
+          ],
+          "likes": 18285,
+          "comments": 89,
+          "views": 325981,
+          "timestamp": "2026-07-04T18:08:37.000Z"
         },
         {
           "id": "3933801718014725359",
@@ -1156,8 +1220,8 @@
           "type": "Sidecar",
           "caption": "Sparkling sands, majestic mountains, sweeping forests. The United States is home to a diverse range of landscapes. Inspired by the beauty of America's natural scenery, National Geographic Explorers have dedicated their careers to preserving and documenting these extraordinary places. As the United States reaches its 250th birthday, join them in admiring some of the wonders found across the U.S. \n\nDiscover the Seven Natural Wonders of America at the link in bio and watch the 24-hour “Disney Celeb",
           "hashtags": [],
-          "likes": 13472,
-          "comments": 82,
+          "likes": 27820,
+          "comments": 132,
           "views": null,
           "timestamp": "2026-07-04T13:00:00.000Z"
         },
@@ -1167,8 +1231,8 @@
           "type": "Sidecar",
           "caption": "Living with both ADHD and autism can feel like a constant tug-of-war. Scientists are now studying the overlap—sometimes called AuDHD—to uncover how the two conditions interact and what it means for diagnosis and treatment plans. \n\nLearn more about the complex interplay between these conditions at the link in bio.\n\nPhotograph by @emilyjunesmithy",
           "hashtags": [],
-          "likes": 26340,
-          "comments": 421,
+          "likes": 32206,
+          "comments": 481,
           "views": null,
           "timestamp": "2026-07-03T22:00:00.000Z"
         },
@@ -1178,9 +1242,9 @@
           "type": "Video",
           "caption": "Would you ride the country’s loopiest wooden roller coaster? \n\nBuilt in 2013 from 450,000 board feet of lumber, Outlaw Run at Silver Dollar City in Branson, Missouri, is the only wooden roller coaster in the U.S. to flip riders upside down three times. “Woodies,” as wooden coasters are known, lack the strength and rigidity of steel coasters, and require clever engineering for twists and spirals. An 81-degree first drop helps launch Outlaw Run through its inversions. \n\nWith the 250th anniversary ",
           "hashtags": [],
-          "likes": 12338,
-          "comments": 166,
-          "views": 1074162,
+          "likes": 14312,
+          "comments": 215,
+          "views": 1306575,
           "timestamp": "2026-07-03T19:15:37.000Z"
         },
         {
@@ -1191,9 +1255,9 @@
           "hashtags": [
             "DisneyCelebratesAmerica"
           ],
-          "likes": 11404,
-          "comments": 120,
-          "views": 677015,
+          "likes": 12936,
+          "comments": 143,
+          "views": 824105,
           "timestamp": "2026-07-03T14:45:22.000Z"
         },
         {
@@ -1202,77 +1266,20 @@
           "type": "Image",
           "caption": "Photo by Keith Ladzinski @ladzinski | Broadly found throughout North America, Europe, and Asia, ravens are highly adaptable birds known for remarkable intelligence. Ravens can solve puzzles, communicate complex information, and adapt to changing conditions with a level of cognitive ability rarely seen outside mammals. I photographed this beautiful bird in Yellowstone National Park, Wyoming.",
           "hashtags": [],
-          "likes": 40374,
-          "comments": 193,
+          "likes": 44734,
+          "comments": 217,
           "views": null,
           "timestamp": "2026-07-03T13:00:01.000Z"
-        },
-        {
-          "id": "3932444719884431215",
-          "url": "https://www.instagram.com/p/DaS2aNDkm9v/",
-          "type": "Image",
-          "caption": "Photographed by Emily Whitney, two Eriskay ponies embrace each other in Eriskay, Scotland. Known for their fine gray coat that develops as they age, these ponies are an ancient breed native to the Outer Hebrides of western Scotland. With only around 400 remaining, locals care for them as they roam the village, and the Eriskay Pony Society works with the Rare Breeds Survival Trust to bolster the population.\n\nSee more Photos of the Day at the link in bio.",
-          "hashtags": [],
-          "likes": 48416,
-          "comments": 189,
-          "views": null,
-          "timestamp": "2026-07-02T22:00:02.000Z"
-        },
-        {
-          "id": "3932357843969243147",
-          "url": "https://www.instagram.com/p/DaSip_jgfgL/",
-          "type": "Video",
-          "caption": "A moment of awe. While searching for the Seven Natural Wonders of America, @debrobertsabc and National Geographic Explorer James Edward Mills (@thejoytripproject) captured this beautiful view. Can you guess where they are? \n\nDiscover more beauty and nature in the final Wonders of America list, revealed during the 24-hour “Disney Celebrates America” live event special on July 4th on ABC, Disney+ and Nat Geo.",
-          "hashtags": [],
-          "likes": 89409,
-          "comments": 771,
-          "views": 775369,
-          "timestamp": "2026-07-02T12:00:36.000Z"
-        },
-        {
-          "id": "3931943045297119893",
-          "url": "https://www.instagram.com/p/DaREV4MAKKV/",
-          "type": "Video",
-          "caption": "A fish has been documented appearing to hold its breath—but it's not the only marine animal to do it. Hammerhead sharks also hold their breath to conserve heat while hunting, and National Geographic Explorer Arzucan Askin (@zuzu_askin) says this unique ability could be useful in other ways.",
-          "hashtags": [],
-          "likes": 16345,
-          "comments": 106,
-          "views": 467104,
-          "timestamp": "2026-07-01T22:17:04.000Z"
-        },
-        {
-          "id": "3930980126389684583",
-          "url": "https://www.instagram.com/p/DaNpZkEk8ln/",
-          "type": "Sidecar",
-          "caption": "Photos by @joelsartore | Spotted moray eels may resemble snakes, but they are actually fish without pelvic or pectoral fins. Their thick skin has a shiny, almost slippery appearance thanks to a layer of protective mucus that coats their bodies. These photos were taken at @bluecornerjapan. To see more species featured in the Photo Ark, follow @joelsartore. #PhotoArk",
-          "hashtags": [
-            "PhotoArk"
-          ],
-          "likes": 36090,
-          "comments": 87,
-          "views": null,
-          "timestamp": "2026-07-01T10:00:01.000Z"
-        },
-        {
-          "id": "3930952964689282607",
-          "url": "https://www.instagram.com/p/DaNjOTxEsYv/",
-          "type": "Image",
-          "caption": "For years, women were told to train differently because of their hormones. But new research suggests the fundamentals of building strength and muscle look remarkably similar across sexes, and many women may be missing out on crucial regimens.\n\nFind out what the experts say about how women should be training at the link in bio.\n\nPhotograph by Lustre Art Group, Adobe Stock",
-          "hashtags": [],
-          "likes": 17606,
-          "comments": 208,
-          "views": null,
-          "timestamp": "2026-06-30T22:00:02.000Z"
         }
       ],
-      "engagementRate": 0.02
+      "engagementRate": 0.01
     },
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10813162,
+      "followers": 10813563,
       "following": 415,
-      "postsCount": 7484,
+      "postsCount": 7485,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
       "recentPosts": [
         {
@@ -1285,10 +1292,25 @@
             "DavidAttenborough",
             "BluePlanetIII"
           ],
-          "likes": 788607,
-          "comments": 3677,
-          "views": 3502720,
+          "likes": 792044,
+          "comments": 3687,
+          "views": 3517958,
           "timestamp": "2026-05-08T21:07:02.000Z"
+        },
+        {
+          "id": "3934592589712372354",
+          "url": "https://www.instagram.com/p/Daaex0tsLKC/",
+          "type": "Video",
+          "caption": "You’ll never look at a tennis player’s racket arm the same way again 🎾\n \nAs a professional tennis player trains year after year, their skeleton adapts to the repeated impact of every shot. This causes the bones in their racket arm to become up to 20% thicker and stronger than the other and reduces the risk of breaking.\n \nWatch the full clip and other videos from Secrets of the Human Body via the link in bio 🔗\n \n#Tennis #Wimbeldon #RacketSport",
+          "hashtags": [
+            "Tennis",
+            "Wimbeldon",
+            "RacketSport"
+          ],
+          "likes": 1792,
+          "comments": 8,
+          "views": 52454,
+          "timestamp": "2026-07-05T14:00:06.000Z"
         },
         {
           "id": "3933057303335655690",
@@ -1300,9 +1322,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 14398,
-          "comments": 159,
-          "views": 105124,
+          "likes": 17214,
+          "comments": 184,
+          "views": 128184,
           "timestamp": "2026-07-03T13:02:03.000Z"
         },
         {
@@ -1314,8 +1336,8 @@
             "Evolution",
             "ChrisPackham"
           ],
-          "likes": 8059,
-          "comments": 137,
+          "likes": 8539,
+          "comments": 143,
           "views": null,
           "timestamp": "2026-07-02T13:00:05.000Z"
         },
@@ -1329,9 +1351,9 @@
             "Flamingo",
             "ExtremeClimate"
           ],
-          "likes": 15230,
-          "comments": 84,
-          "views": 304202,
+          "likes": 16107,
+          "comments": 88,
+          "views": 323680,
           "timestamp": "2026-06-30T15:05:08.000Z"
         },
         {
@@ -1345,9 +1367,9 @@
             "Birds",
             "Wadingbirds"
           ],
-          "likes": 80154,
-          "comments": 466,
-          "views": 454751,
+          "likes": 82510,
+          "comments": 471,
+          "views": 470069,
           "timestamp": "2026-06-28T08:00:09.000Z"
         },
         {
@@ -1362,9 +1384,9 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 7732,
+          "likes": 7852,
           "comments": 30,
-          "views": 113565,
+          "views": 115346,
           "timestamp": "2026-06-26T11:30:09.000Z"
         },
         {
@@ -1378,9 +1400,9 @@
             "PE20",
             "PEII"
           ],
-          "likes": 4566,
+          "likes": 4625,
           "comments": 30,
-          "views": 35183,
+          "views": 35921,
           "timestamp": "2026-06-25T15:00:11.000Z"
         },
         {
@@ -1394,9 +1416,9 @@
             "BehindTheScene",
             "Nepal"
           ],
-          "likes": 3654,
+          "likes": 3691,
           "comments": 26,
-          "views": 36650,
+          "views": 37123,
           "timestamp": "2026-06-21T14:05:08.000Z"
         },
         {
@@ -1410,9 +1432,9 @@
             "BehindTheScene",
             "Nepal"
           ],
-          "likes": 4526,
+          "likes": 4532,
           "comments": 41,
-          "views": 137725,
+          "views": 137764,
           "timestamp": "2026-06-19T11:05:10.000Z"
         },
         {
@@ -1426,9 +1448,9 @@
             "PE20",
             "PEII"
           ],
-          "likes": 9779,
+          "likes": 9794,
           "comments": 67,
-          "views": 74316,
+          "views": 74436,
           "timestamp": "2026-06-18T16:00:09.000Z"
         },
         {
@@ -1441,28 +1463,13 @@
             "TigerCubs",
             "NewBehaviour"
           ],
-          "likes": 17170,
+          "likes": 17321,
           "comments": 75,
-          "views": 145039,
+          "views": 145813,
           "timestamp": "2026-06-17T14:01:51.000Z"
-        },
-        {
-          "id": "3920095315015897676",
-          "url": "https://www.instagram.com/p/DZm-ethMhJM/",
-          "type": "Video",
-          "caption": "Every now and then, nature rewrites the script.\n \nFor decades, tigers were thought to be solitary animals. However, encounters like this reveal there is still much to discover about their lives and relationships. \n \nFind out where to watch via the link in our bio and discover a hidden world 🧡\n \n#TigerIsland #TigerCubs #SolitaryAnimals",
-          "hashtags": [
-            "TigerIsland",
-            "TigerCubs",
-            "SolitaryAnimals"
-          ],
-          "likes": 43989,
-          "comments": 336,
-          "views": 511255,
-          "timestamp": "2026-06-15T14:00:40.000Z"
         }
       ],
-      "engagementRate": 0.77
+      "engagementRate": 0.75
     }
   ]
 }
