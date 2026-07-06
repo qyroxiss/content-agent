@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T07:25:02.776Z",
+  "generatedAt": "2026-07-06T10:49:01.492Z",
   "source": "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)",
   "own": {
     "handle": "quietlystrange09",
@@ -189,7 +189,7 @@
     {
       "handle": "kurzgesagt",
       "fullName": "Kurzgesagt - In a nutshell",
-      "followers": 1598746,
+      "followers": 1598710,
       "following": 695,
       "postsCount": 2305,
       "bio": "Sciency videos made with love, a lot of time and after effects.\nLinks to our videos, shop, website & more:",
@@ -200,7 +200,7 @@
           "type": "Image",
           "caption": "When someone opens snacks in the office",
           "hashtags": [],
-          "likes": 2605,
+          "likes": 2650,
           "comments": 19,
           "views": null,
           "timestamp": "2026-07-04T14:00:32.000Z"
@@ -211,9 +211,9 @@
           "type": "Video",
           "caption": "What could 1% of the richest countries’ income achieve? From malaria vaccines and clean water to renewable energy, a surprisingly small fraction of global wealth could transform millions of lives.",
           "hashtags": [],
-          "likes": 10349,
+          "likes": 10467,
           "comments": 142,
-          "views": 57756,
+          "views": 58380,
           "timestamp": "2026-07-03T14:01:07.000Z"
         },
         {
@@ -233,7 +233,7 @@
           "type": "Image",
           "caption": "Could YOU survive a royal marriage? Henry VIII had six wives, but becoming Queen of England is only the beginning of the challenge. To survive this, you have to navigate religious upheaval, political games, shifting alliances, and the unpredictable moods of one of history's most notorious monarchs. Some lost their crowns, and some lost their lives, but only one outlived the king.\n\nWho were Henry VIII's six wives, and why was marrying him a death sentence for most of them? And what about you, cou",
           "hashtags": [],
-          "likes": 3517,
+          "likes": 3535,
           "comments": 20,
           "views": null,
           "timestamp": "2026-06-30T14:02:32.000Z"
@@ -244,8 +244,8 @@
           "type": "Sidecar",
           "caption": "Yep, it do be like that sometimes... 💀",
           "hashtags": [],
-          "likes": 17954,
-          "comments": 77,
+          "likes": 17995,
+          "comments": 78,
           "views": null,
           "timestamp": "2026-06-29T14:02:05.000Z"
         },
@@ -255,9 +255,9 @@
           "type": "Video",
           "caption": "This is the deadliest virus on our planet… However, human cells are safe. The deadliest virus on our planet only feasts on bacteria, hence its name: Bacteriophage - bacteria eater. Now that our antibiotics aren't as effective against the ever-evolving multiresistant bacteria, phages are a promising tool for defending ourselves in the future. They are highly specialized so they only attack the bacteria they’re supposed to, reducing the side effects of a treatment.",
           "hashtags": [],
-          "likes": 14581,
+          "likes": 14618,
           "comments": 66,
-          "views": 125091,
+          "views": 125458,
           "timestamp": "2026-06-27T14:30:53.000Z"
         },
         {
@@ -266,9 +266,9 @@
           "type": "Video",
           "caption": "If the Moon tasted like cheese, we are sure this asteroid would taste like an orange-flavored jellybean!\n\nHave you already started your space adventure? Star Birds, which we developed together with our friends at Toukana Interactive, is available on Steam!",
           "hashtags": [],
-          "likes": 1840,
+          "likes": 1844,
           "comments": 14,
-          "views": 17043,
+          "views": 17113,
           "timestamp": "2026-06-26T14:00:36.000Z"
         },
         {
@@ -277,9 +277,9 @@
           "type": "Video",
           "caption": "Which year of your life is the most dangerous? For many people, it’s not old age but infancy. Where you're born can dramatically change your chances of survival, and millions of child deaths are still preventable today.",
           "hashtags": [],
-          "likes": 10255,
+          "likes": 10283,
           "comments": 57,
-          "views": 85944,
+          "views": 86094,
           "timestamp": "2026-06-25T18:52:58.000Z"
         },
         {
@@ -288,7 +288,7 @@
           "type": "Image",
           "caption": "Behind every one of our videos is a producer keeping hundreds of moving pieces in orbit.\nNow we're looking for two more. ✨\nIf you want to work with a team that's making science and history accessible and inspiring curiosity for millions of people around the world, check out our open Producer roles. \nLink in Bio 💌",
           "hashtags": [],
-          "likes": 11693,
+          "likes": 11712,
           "comments": 211,
           "views": null,
           "timestamp": "2026-06-25T15:59:14.000Z"
@@ -321,7 +321,7 @@
           "type": "Image",
           "caption": "Don't mind us throwing a little ragebait into the next Nightshift video for you 🌚",
           "hashtags": [],
-          "likes": 2285,
+          "likes": 2286,
           "comments": 15,
           "views": null,
           "timestamp": "2026-06-18T12:00:48.000Z"
@@ -977,7 +977,7 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22466401,
+      "followers": 22466328,
       "following": 33,
       "postsCount": 11262,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
@@ -988,9 +988,9 @@
           "type": "Video",
           "caption": "@matthiasdandois shows us the Orient Express from station Venezia Santa Lucia in Venice Italy",
           "hashtags": [],
-          "likes": 26289,
-          "comments": 156,
-          "views": 490264,
+          "likes": 34295,
+          "comments": 207,
+          "views": 632886,
           "timestamp": "2026-07-05T22:20:45.000Z"
         },
         {
@@ -999,8 +999,8 @@
           "type": "Sidecar",
           "caption": "You can visit 3 countries in just one trip.⁠\n⁠\nIn Europe, borders often feel almost invisible, and in some regions, you can move from one country to another in a matter of minutes without even realizing it.⁠\n⁠\nIt’s a rare kind of travel experience where your day can start in one country, include lunch in another, and end somewhere completely different.⁠\n⁠\nHave you ever experienced visiting 3 countries in just a few days?",
           "hashtags": [],
-          "likes": 5519,
-          "comments": 44,
+          "likes": 6503,
+          "comments": 52,
           "views": null,
           "timestamp": "2026-07-05T21:00:26.000Z"
         },
@@ -1010,8 +1010,8 @@
           "type": "Sidecar",
           "caption": "Rolex has just opened its highest boutique in the world, nearly 10,000 feet above sea level.⁠\n⁠\nLocated in St. Moritz, Switzerland, the new store sits in one of Europe's most famous mountain destinations, known for luxury, skiing, and breathtaking alpine views.⁠\n⁠\nThe location may seem unusual at first, but it reflects the brand's long connection to exploration, adventure, and some of the world's most extreme environments.⁠\n⁠\nWould you visit the world's highest Rolex boutique? ⌚⁠\n⁠\nBy: @titlis_t",
           "hashtags": [],
-          "likes": 3802,
-          "comments": 63,
+          "likes": 4031,
+          "comments": 71,
           "views": null,
           "timestamp": "2026-07-05T17:00:25.000Z"
         },
@@ -1021,7 +1021,7 @@
           "type": "Sidecar",
           "caption": "At first glance, it looks like a movie set from Squid Game.⁠\n⁠\nBut this colorful maze of staircases and bright facades is actually a real apartment complex in Spain. Its bold architecture and geometric design have made it one of the most photographed residential buildings in the country.⁠\n⁠\nWith its pastel colors, endless stairs, and surreal layout, it's easy to see why so many people compare it to scenes from the hit Netflix series.⁠\n⁠\nBy: @edsuter",
           "hashtags": [],
-          "likes": 3950,
+          "likes": 4003,
           "comments": 23,
           "views": null,
           "timestamp": "2026-07-04T21:00:30.000Z"
@@ -1032,7 +1032,7 @@
           "type": "Sidecar",
           "caption": "In 1928, cave explorer Leo Lambert was searching through narrow underground passages when he came across something unexpected: a 145-foot waterfall hidden deep inside a cave system.⁠\n⁠\nTo reach it, he had to squeeze through tight, unmarked tunnels far below the surface. What he found was a massive underground chamber where water cascaded down in complete silence from the outside world.⁠\n⁠\nHe named the discovery Ruby Falls, in honor of his wife, Ruby.⁠\n⁠\nToday, visitors can descend deep into the ",
           "hashtags": [],
-          "likes": 3461,
+          "likes": 3506,
           "comments": 18,
           "views": null,
           "timestamp": "2026-07-04T17:03:36.000Z"
@@ -1043,8 +1043,8 @@
           "type": "Sidecar",
           "caption": "Italy is turning tiramisù into a race.⁠\n⁠\nFor the first time, Treviso will host the Tiramisù Run, a 10.1 km fun run through the birthplace of the iconic dessert. The route takes runners through the city’s historic streets, canals, and squares, turning the entire setting into part of the experience.⁠\n⁠\nIt’s not a traditional race with a typical prize. Instead, those who finish are rewarded with something very fitting for the theme: unlimited fresh tiramisù waiting at the finish line.⁠\n⁠\nBy: @cnnn",
           "hashtags": [],
-          "likes": 17101,
-          "comments": 230,
+          "likes": 17231,
+          "comments": 231,
           "views": null,
           "timestamp": "2026-07-03T21:01:02.000Z"
         },
@@ -1054,7 +1054,7 @@
           "type": "Sidecar",
           "caption": "What if your good deeds could pay for part of your vacation?⁠\n⁠\nIn Copenhagen, visitors can earn rewards through a program called CopenPay by making environmentally friendly choices during their trip.⁠\n⁠\nTaking public transport, cycling instead of driving, or helping with local clean-up activities can unlock perks such as museum visits, guided tours, meals, and other experiences around the city.⁠\n⁠\nThe initiative encourages travelers to explore responsibly while giving something back to the plac",
           "hashtags": [],
-          "likes": 4703,
+          "likes": 4740,
           "comments": 23,
           "views": null,
           "timestamp": "2026-07-03T17:00:41.000Z"
@@ -1065,9 +1065,9 @@
           "type": "Video",
           "caption": "This is Xianqiao Cave Scenic Area in Hangzhou, China 🇨🇳\n\n📷 by @hoshiyeru",
           "hashtags": [],
-          "likes": 11774,
+          "likes": 11855,
           "comments": 46,
-          "views": 101332,
+          "views": 102133,
           "timestamp": "2026-07-03T16:34:20.000Z"
         },
         {
@@ -1076,9 +1076,9 @@
           "type": "Video",
           "caption": "Ogoh-Ogoh is a traditional Balinese event held on the eve of Nyepi (Day of Silence). Giant handcrafted effigies, often depicting mythological beings and negative spirits, are paraded through the streets before being symbolically removed or burned. The procession represents the cleansing of negative energies and marks the transition into Bali’s day of reflection, silence, and renewal.\n\n📷 by @klingofhustle",
           "hashtags": [],
-          "likes": 44601,
-          "comments": 1923,
-          "views": 966391,
+          "likes": 44725,
+          "comments": 1927,
+          "views": 969942,
           "timestamp": "2026-07-02T23:05:14.000Z"
         },
         {
@@ -1087,8 +1087,8 @@
           "type": "Sidecar",
           "caption": "In 2025, Chinese artist Cai Guo-Qiang lit a ladder of fire into the sky for his grandmother’s final goodbye.⁠\n⁠\nUsing a giant helium balloon and controlled pyrotechnic charges, he lifted a 500-meter steel ladder into the air off the coast of China. For a few minutes, it rose silently into the night, glowing as if it were climbing all the way to the moon.⁠\n⁠\nBy: @caistudio",
           "hashtags": [],
-          "likes": 39217,
-          "comments": 165,
+          "likes": 39316,
+          "comments": 167,
           "views": null,
           "timestamp": "2026-07-02T21:03:31.000Z"
         },
@@ -1098,9 +1098,9 @@
           "type": "Video",
           "caption": "@kristinmyshkin shows us what horseback riding 🐎 in Kazakhstan 🇰🇿 is like",
           "hashtags": [],
-          "likes": 9626,
-          "comments": 63,
-          "views": 87878,
+          "likes": 9690,
+          "comments": 65,
+          "views": 88579,
           "timestamp": "2026-07-02T19:57:09.000Z"
         },
         {
@@ -1109,9 +1109,9 @@
           "type": "Video",
           "caption": "Kathak & Flamenco 💃 \n\n📷 by @nikita_.thapliyal & @andaluzaenbelgica",
           "hashtags": [],
-          "likes": 5394,
+          "likes": 5407,
           "comments": 59,
-          "views": 236940,
+          "views": 237892,
           "timestamp": "2026-07-01T22:15:32.000Z"
         }
       ],
@@ -1120,7 +1120,7 @@
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 269113677,
+      "followers": 269111748,
       "following": 193,
       "postsCount": 31775,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
@@ -1133,9 +1133,9 @@
           "hashtags": [
             "PompeiiOutOfTime"
           ],
-          "likes": 128742,
+          "likes": 128785,
           "comments": 1076,
-          "views": 1195813,
+          "views": 1196125,
           "timestamp": "2026-06-16T16:00:07.000Z"
         },
         {
@@ -1146,9 +1146,9 @@
           "hashtags": [
             "BestOfTheWorld"
           ],
-          "likes": 56550,
+          "likes": 56557,
           "comments": 837,
-          "views": 912742,
+          "views": 912798,
           "timestamp": "2026-05-19T16:00:09.000Z"
         },
         {
@@ -1157,8 +1157,8 @@
           "type": "Sidecar",
           "caption": "Photos by Keith Ladzinski @ladzinski | A rotating supercell looms ominously over the Kansas prairie. These powerful systems form when warm, moisture-rich air rises into cooler, drier air above, creating an atmosphere capable of producing lightning, hail, and tornadoes. The Great Plains is a land long shaped around weather events like these, reliant on the rainfall they bring for grasslands, replenishing rivers and aquifers, all the while sustaining one of the most productive agrarian ecosystems ",
           "hashtags": [],
-          "likes": 135819,
-          "comments": 471,
+          "likes": 157750,
+          "comments": 533,
           "views": null,
           "timestamp": "2026-07-05T22:00:01.000Z"
         },
@@ -1171,9 +1171,9 @@
             "HammerheadSharksUpClose",
             "Sharkfest"
           ],
-          "likes": 12404,
-          "comments": 65,
-          "views": 209696,
+          "likes": 12921,
+          "comments": 67,
+          "views": 219461,
           "timestamp": "2026-07-05T15:00:05.000Z"
         },
         {
@@ -1182,9 +1182,9 @@
           "type": "Video",
           "caption": "When Artemis II blasted off in April for its historic 10-day mission around the far side of the moon, National Geographic partnered with NASA to send cameras along for the ride—and the astronauts captured clips for their fellow Earthlings of what life was like inside the Orion spacecraft, including one very emotional moment on their flyby. \n\nNestled into the capsule side-by-side after their first shift of lunar observations, NASA mission commander Reid Wiseman and Jeremy Hansen of the Canadian S",
           "hashtags": [],
-          "likes": 7705,
-          "comments": 80,
-          "views": 384503,
+          "likes": 7831,
+          "comments": 71,
+          "views": 391779,
           "timestamp": "2026-07-04T20:16:05.000Z"
         },
         {
@@ -1195,9 +1195,9 @@
           "hashtags": [
             "DisneyCelebratesAmerica"
           ],
-          "likes": 16197,
-          "comments": 142,
-          "views": 153848,
+          "likes": 16381,
+          "comments": 147,
+          "views": 155953,
           "timestamp": "2026-07-04T19:20:45.000Z"
         },
         {
@@ -1208,9 +1208,9 @@
           "hashtags": [
             "DisneyCelebratesAmerica"
           ],
-          "likes": 20139,
-          "comments": 129,
-          "views": 703690,
+          "likes": 20383,
+          "comments": 131,
+          "views": 717184,
           "timestamp": "2026-07-04T18:55:50.000Z"
         },
         {
@@ -1221,9 +1221,9 @@
           "hashtags": [
             "DisneyCelebratesAmerica"
           ],
-          "likes": 20719,
-          "comments": 106,
-          "views": 374565,
+          "likes": 21054,
+          "comments": 111,
+          "views": 380561,
           "timestamp": "2026-07-04T18:08:37.000Z"
         },
         {
@@ -1232,7 +1232,7 @@
           "type": "Sidecar",
           "caption": "Sparkling sands, majestic mountains, sweeping forests. The United States is home to a diverse range of landscapes. Inspired by the beauty of America's natural scenery, National Geographic Explorers have dedicated their careers to preserving and documenting these extraordinary places. As the United States reaches its 250th birthday, join them in admiring some of the wonders found across the U.S. \n\nDiscover the Seven Natural Wonders of America at the link in bio and watch the 24-hour “Disney Celeb",
           "hashtags": [],
-          "likes": 30639,
+          "likes": 31118,
           "comments": 137,
           "views": null,
           "timestamp": "2026-07-04T13:00:00.000Z"
@@ -1243,8 +1243,8 @@
           "type": "Sidecar",
           "caption": "Living with both ADHD and autism can feel like a constant tug-of-war. Scientists are now studying the overlap—sometimes called AuDHD—to uncover how the two conditions interact and what it means for diagnosis and treatment plans. \n\nLearn more about the complex interplay between these conditions at the link in bio.\n\nPhotograph by @emilyjunesmithy",
           "hashtags": [],
-          "likes": 33458,
-          "comments": 491,
+          "likes": 33670,
+          "comments": 494,
           "views": null,
           "timestamp": "2026-07-03T22:00:00.000Z"
         },
@@ -1254,9 +1254,9 @@
           "type": "Video",
           "caption": "Would you ride the country’s loopiest wooden roller coaster? \n\nBuilt in 2013 from 450,000 board feet of lumber, Outlaw Run at Silver Dollar City in Branson, Missouri, is the only wooden roller coaster in the U.S. to flip riders upside down three times. “Woodies,” as wooden coasters are known, lack the strength and rigidity of steel coasters, and require clever engineering for twists and spirals. An 81-degree first drop helps launch Outlaw Run through its inversions. \n\nWith the 250th anniversary ",
           "hashtags": [],
-          "likes": 14733,
+          "likes": 14816,
           "comments": 215,
-          "views": 1360983,
+          "views": 1372495,
           "timestamp": "2026-07-03T19:15:37.000Z"
         },
         {
@@ -1267,9 +1267,9 @@
           "hashtags": [
             "DisneyCelebratesAmerica"
           ],
-          "likes": 13414,
-          "comments": 145,
-          "views": 869844,
+          "likes": 13463,
+          "comments": 146,
+          "views": 877431,
           "timestamp": "2026-07-03T14:45:22.000Z"
         }
       ],
@@ -1278,7 +1278,7 @@
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10813516,
+      "followers": 10813469,
       "following": 415,
       "postsCount": 7485,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
@@ -1293,9 +1293,9 @@
             "DavidAttenborough",
             "BluePlanetIII"
           ],
-          "likes": 793634,
-          "comments": 3688,
-          "views": 3524775,
+          "likes": 793967,
+          "comments": 3690,
+          "views": 3526044,
           "timestamp": "2026-05-08T21:07:02.000Z"
         },
         {
@@ -1308,9 +1308,9 @@
             "Wimbeldon",
             "RacketSport"
           ],
-          "likes": 3589,
+          "likes": 3848,
           "comments": 11,
-          "views": 105317,
+          "views": 113312,
           "timestamp": "2026-07-05T14:00:06.000Z"
         },
         {
@@ -1323,9 +1323,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 17865,
-          "comments": 187,
-          "views": 133530,
+          "likes": 17989,
+          "comments": 189,
+          "views": 134507,
           "timestamp": "2026-07-03T13:02:03.000Z"
         },
         {
@@ -1337,7 +1337,7 @@
             "Evolution",
             "ChrisPackham"
           ],
-          "likes": 8750,
+          "likes": 8782,
           "comments": 145,
           "views": null,
           "timestamp": "2026-07-02T13:00:05.000Z"
@@ -1352,9 +1352,9 @@
             "Flamingo",
             "ExtremeClimate"
           ],
-          "likes": 16502,
-          "comments": 89,
-          "views": 331676,
+          "likes": 16575,
+          "comments": 93,
+          "views": 333239,
           "timestamp": "2026-06-30T15:05:08.000Z"
         },
         {
@@ -1368,9 +1368,9 @@
             "Birds",
             "Wadingbirds"
           ],
-          "likes": 83492,
-          "comments": 477,
-          "views": 475978,
+          "likes": 83689,
+          "comments": 480,
+          "views": 477113,
           "timestamp": "2026-06-28T08:00:09.000Z"
         },
         {
@@ -1385,9 +1385,9 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 7890,
+          "likes": 7899,
           "comments": 30,
-          "views": 116057,
+          "views": 116228,
           "timestamp": "2026-06-26T11:30:09.000Z"
         },
         {
@@ -1401,9 +1401,9 @@
             "PE20",
             "PEII"
           ],
-          "likes": 4665,
+          "likes": 4673,
           "comments": 30,
-          "views": 36255,
+          "views": 36322,
           "timestamp": "2026-06-25T15:00:11.000Z"
         },
         {
@@ -1417,9 +1417,9 @@
             "BehindTheScene",
             "Nepal"
           ],
-          "likes": 3696,
+          "likes": 3697,
           "comments": 26,
-          "views": 37164,
+          "views": 37172,
           "timestamp": "2026-06-21T14:05:08.000Z"
         },
         {
@@ -1435,7 +1435,7 @@
           ],
           "likes": 4533,
           "comments": 41,
-          "views": 137779,
+          "views": 137783,
           "timestamp": "2026-06-19T11:05:10.000Z"
         },
         {
@@ -1449,9 +1449,9 @@
             "PE20",
             "PEII"
           ],
-          "likes": 9799,
+          "likes": 9801,
           "comments": 67,
-          "views": 74480,
+          "views": 74487,
           "timestamp": "2026-06-18T16:00:09.000Z"
         },
         {
@@ -1464,9 +1464,9 @@
             "TigerCubs",
             "NewBehaviour"
           ],
-          "likes": 17383,
+          "likes": 17399,
           "comments": 75,
-          "views": 146139,
+          "views": 146214,
           "timestamp": "2026-06-17T14:01:51.000Z"
         }
       ],
@@ -1476,10 +1476,10 @@
   "ideas": [
     {
       "title": "Retiring Years Chance",
-      "rationale": "Inspired by @bbcearth's post (793634 likes, 3688 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (793967 likes, 3690 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 793634,
-      "comments": 3688,
+      "likes": 793967,
+      "comments": 3690,
       "tags": [
         "DavidAttenborough100",
         "DavidAttenborough",
@@ -1488,17 +1488,17 @@
     },
     {
       "title": "Photos Keith Ladzinski",
-      "rationale": "Inspired by @natgeo's post (135819 likes, 471 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (157750 likes, 533 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 135819,
-      "comments": 471,
+      "likes": 157750,
+      "comments": 533,
       "tags": []
     },
     {
       "title": "There Story Pompeii",
-      "rationale": "Inspired by @natgeo's post (128742 likes, 1076 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (128785 likes, 1076 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 128742,
+      "likes": 128785,
       "comments": 1076,
       "tags": [
         "PompeiiOutOfTime"
@@ -1506,10 +1506,10 @@
     },
     {
       "title": "Caution Hazard These",
-      "rationale": "Inspired by @bbcearth's post (83492 likes, 477 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (83689 likes, 480 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 83492,
-      "comments": 477,
+      "likes": 83689,
+      "comments": 480,
       "tags": [
         "Earthcapture",
         "Oystercatcher",
@@ -1519,9 +1519,9 @@
     },
     {
       "title": "Antoni Quest Sights",
-      "rationale": "Inspired by @natgeo's post (56550 likes, 837 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (56557 likes, 837 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 56550,
+      "likes": 56557,
       "comments": 837,
       "tags": [
         "BestOfTheWorld"
@@ -1529,26 +1529,26 @@
     },
     {
       "title": "Traditional Balinese Event",
-      "rationale": "Inspired by @earthpix's post (44601 likes, 1923 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @earthpix's post (44725 likes, 1927 comments) — adapt the angle for @quietlystrange09.",
       "handle": "earthpix",
-      "likes": 44601,
-      "comments": 1923,
+      "likes": 44725,
+      "comments": 1927,
       "tags": []
     },
     {
       "title": "Chinese Artist Qiang",
-      "rationale": "Inspired by @earthpix's post (39217 likes, 165 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @earthpix's post (39316 likes, 167 comments) — adapt the angle for @quietlystrange09.",
       "handle": "earthpix",
-      "likes": 39217,
-      "comments": 165,
+      "likes": 39316,
+      "comments": 167,
       "tags": []
     },
     {
-      "title": "Living Autism Constant",
-      "rationale": "Inspired by @natgeo's post (33458 likes, 491 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 33458,
-      "comments": 491,
+      "title": "Matthiasdandois Shows Orient",
+      "rationale": "Inspired by @earthpix's post (34295 likes, 207 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "earthpix",
+      "likes": 34295,
+      "comments": 207,
       "tags": []
     }
   ],
