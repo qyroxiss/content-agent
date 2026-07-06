@@ -87,6 +87,64 @@ function engagement(posts, followers) {
   return +((avg / followers) * 100).toFixed(2);
 }
 
+// --- Ideator: rank competitor posts, dedupe into distinct ideas.
+// Computed once here (not separately in the dashboard/Telegram report) so
+// both consumers agree on the same ranked list and the same "featured" pick. ---
+const THEME_WORDS = new Set([
+  "the", "and", "for", "are", "but", "with", "that", "this", "you",
+  "your", "our", "have", "from", "will", "can", "not", "was", "were",
+  "about",
+]);
+
+function keywordsFromCaption(caption) {
+  return (caption || "")
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, " ")
+    .split(/\s+/)
+    .filter(w => w.length > 4 && !THEME_WORDS.has(w))
+    .slice(0, 6);
+}
+
+function titleCase(s) {
+  return s.replace(/\b\w/g, c => c.toUpperCase());
+}
+
+function deriveIdeas(ownHandle, competitors) {
+  const pool = [];
+  for (const c of competitors) {
+    for (const p of c.recentPosts) {
+      if (p.likes == null) continue;
+      pool.push({ ...p, handle: c.handle, score: p.likes + (p.comments || 0) });
+    }
+  }
+  pool.sort((a, b) => b.score - a.score);
+
+  const seen = new Set();
+  const ideas = [];
+  for (const p of pool) {
+    const words = keywordsFromCaption(p.caption);
+    const key = words.slice(0, 2).join("-") || p.id;
+    if (seen.has(key) || !words.length) continue;
+    seen.add(key);
+    ideas.push({
+      title: titleCase(words.slice(0, 3).join(" ")) || "Untitled angle",
+      rationale: `Inspired by @${p.handle}'s post (${p.likes} likes, ${p.comments || 0} comments) — adapt the angle for @${ownHandle}.`,
+      handle: p.handle,
+      likes: p.likes,
+      comments: p.comments || 0,
+      tags: (p.hashtags || []).slice(0, 4),
+    });
+    if (ideas.length >= 8) break;
+  }
+  return ideas;
+}
+
+function dayOfYear(iso) {
+  const d = new Date(iso);
+  const start = new Date(Date.UTC(d.getUTCFullYear(), 0, 0));
+  return Math.floor((d - start) / 86400000);
+}
+
 async function realPull() {
   const env = loadEnv();
   const token = env.APIFY_TOKEN;
@@ -159,13 +217,19 @@ function buildOutput(details, ownPostsRaw) {
     return c;
   });
 
+  const generatedAt = new Date().toISOString();
+  const ideas = deriveIdeas(OWN_HANDLE, competitors);
+  const featuredIdeaIndex = ideas.length ? dayOfYear(generatedAt) % ideas.length : 0;
+
   return {
-    generatedAt: new Date().toISOString(),
+    generatedAt,
     source: usedManualOwnData
       ? "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)"
       : "apify/instagram-scraper",
     own,
     competitors,
+    ideas,
+    featuredIdeaIndex,
   };
 }
 

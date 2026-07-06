@@ -2,7 +2,7 @@ name: Daily Content Report
 
 on:
   schedule:
-    - cron: "50 13 * * *"   # TEMP: one-off test trigger for Step 6 proof, revert to "30 3 * * *" (09:00 IST) after
+    - cron: "30 3 * * *"   # 09:00 IST (best-effort — GitHub Actions schedules can run late, especially on low-traffic repos)
   workflow_dispatch: {}
 
 permissions:

@@ -16,12 +16,6 @@ const path = require("path");
 const ROOT = path.join(__dirname, "..");
 const DATA_FILE = path.join(ROOT, "dashboard", "data.json");
 
-const THEME_WORDS = new Set([
-  "the", "and", "for", "are", "but", "with", "that", "this", "you",
-  "your", "our", "have", "from", "will", "can", "not", "was", "were",
-  "about",
-]);
-
 function loadEnv() {
   const envPath = path.join(ROOT, ".env");
   if (!fs.existsSync(envPath)) return {};
@@ -33,34 +27,14 @@ function loadEnv() {
   return env;
 }
 
-function keywordsFromCaption(caption) {
-  return (caption || "")
-    .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, " ")
-    .split(/\s+/)
-    .filter(w => w.length > 4 && !THEME_WORDS.has(w))
-    .slice(0, 3);
-}
-
-function titleCase(s) {
-  return s.replace(/\b\w/g, c => c.toUpperCase());
-}
-
-function topIdea(data) {
-  const pool = [];
-  for (const c of data.competitors) {
-    for (const p of c.recentPosts) {
-      if (p.likes == null) continue;
-      pool.push({ ...p, handle: c.handle, score: p.likes + (p.comments || 0) });
-    }
-  }
-  pool.sort((a, b) => b.score - a.score);
-  for (const p of pool) {
-    const words = keywordsFromCaption(p.caption);
-    if (!words.length) continue;
-    return { title: titleCase(words.join(" ")), handle: p.handle, likes: p.likes, comments: p.comments || 0 };
-  }
-  return null;
+// Ideas are pre-computed in scripts/pull_data.js (data.ideas / data.featuredIdeaIndex)
+// so the Telegram report and the dashboard always agree on the same ranked ideas
+// and rotate through the same "featured" pick day to day, instead of both
+// recomputing independently and getting stuck on the single all-time top post.
+function featuredIdea(data) {
+  const ideas = data.ideas || [];
+  if (!ideas.length) return null;
+  return ideas[(data.featuredIdeaIndex || 0) % ideas.length];
 }
 
 function bestWorstOwnPosts(data) {
@@ -75,7 +49,7 @@ function escapeMd(s) {
 }
 
 function buildReport(data) {
-  const idea = topIdea(data);
+  const idea = featuredIdea(data);
   const { best, worst } = bestWorstOwnPosts(data);
   const missing = data.competitors.filter(c => !c.followers && !c.recentPosts.length);
   const withData = data.competitors.filter(c => c.engagementRate != null);
@@ -88,6 +62,10 @@ function buildReport(data) {
   lines.push(`_${new Date(data.generatedAt).toDateString()}_`);
   lines.push("");
   lines.push(`*Own* — @${escapeMd(data.own.handle)}: ${data.own.followers ?? "—"} followers, ${data.own.engagementRate ?? "—"}% engagement`);
+  if (data.own.asOf) {
+    const days = Math.floor((Date.now() - new Date(data.own.asOf).getTime()) / 86400000);
+    lines.push(`⚠ own stats are manually entered, as of ${data.own.asOf} (${days}d old) — Instagram still blocks the automated scraper for this account`);
+  }
   lines.push(`*Competitors* — ${avgCompetitor != null ? avgCompetitor.toFixed(2) + "%" : "—"} avg engagement (${withData.length}/${data.competitors.length} with data)`);
   if (missing.length) {
     lines.push(`⚠ no data: ${missing.map(c => "@" + c.handle).join(", ")}`);

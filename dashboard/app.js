@@ -1,13 +1,10 @@
 // app.js — reads dashboard/data.json and renders the 5-agent dashboard.
 // Ideator/Hook&Script/Planner are simple heuristics over real pulled data
-// (no LLM wired up yet — that lands with the automation step). Analyst
-// renders real numbers only. DM Manager shows templates until Step 4
-// connects a real inbox.
-
-const THEME_WORDS = new Set([
-  "the", "and", "for", "are", "but", "with", "that", "this", "you",
-  "your", "our", "have", "from", "will", "can", "not", "was", "were",
-]);
+// (no LLM wired up yet — that lands with the automation step), computed
+// once in scripts/pull_data.js so the dashboard and the Telegram report
+// always agree on the same ranked ideas and the same daily "featured" pick.
+// Analyst renders real numbers only. DM Manager shows templates until a
+// real inbox is wired up.
 
 function fmtPct(n) {
   return n == null ? "—" : `${n.toFixed(2)}%`;
@@ -26,19 +23,6 @@ function timeAgo(iso) {
   return `${Math.round(h / 24)}d ago`;
 }
 
-function keywordsFromCaption(caption) {
-  return (caption || "")
-    .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, " ")
-    .split(/\s+/)
-    .filter(w => w.length > 4 && !THEME_WORDS.has(w))
-    .slice(0, 6);
-}
-
-function titleCase(s) {
-  return s.replace(/\b\w/g, c => c.toUpperCase());
-}
-
 async function main() {
   let data;
   try {
@@ -51,8 +35,9 @@ async function main() {
 
   renderHeader(data);
   const ideas = renderIdeator(data);
-  renderHookScript(ideas, data.own.handle);
-  renderPlanner(ideas);
+  const featuredIndex = ideas.length ? (data.featuredIdeaIndex || 0) % ideas.length : 0;
+  renderHookScript(ideas, featuredIndex, data.own.handle);
+  renderPlanner(ideas, featuredIndex);
   renderAnalyst(data);
   renderDM(data);
 }
@@ -63,12 +48,17 @@ function renderHeader(data) {
   document.getElementById("generatedAt").textContent =
     `data pulled ${timeAgo(data.generatedAt)}`;
 
-  const all = [data.own, ...data.competitors];
   const missing = data.competitors.filter(c => !c.followers && !c.recentPosts.length);
   const badgeEl = document.getElementById("dataBadge");
+  const badges = [];
   if (missing.length) {
-    badgeEl.innerHTML = `<span class="badge warning">${missing.length} of ${data.competitors.length} competitors: no data (${missing.map(c => c.handle).join(", ")})</span>`;
+    badges.push(`<span class="badge warning">${missing.length} of ${data.competitors.length} competitors: no data (${missing.map(c => c.handle).join(", ")})</span>`);
   }
+  if (data.own.asOf) {
+    const days = Math.floor((Date.now() - new Date(data.own.asOf).getTime()) / 86400000);
+    badges.push(`<span class="badge warning">own stats manually entered, as of ${data.own.asOf} (${days}d old)</span>`);
+  }
+  badgeEl.innerHTML = badges.join(" ");
 
   const kpiRow = document.getElementById("kpiRow");
   const withData = data.competitors.filter(c => c.engagementRate != null);
@@ -93,31 +83,7 @@ function renderHeader(data) {
 
 // ---------- 01 Ideator ----------
 function renderIdeator(data) {
-  const pool = [];
-  for (const c of data.competitors) {
-    for (const p of c.recentPosts) {
-      if (p.likes == null) continue;
-      pool.push({ ...p, handle: c.handle, score: p.likes + (p.comments || 0) });
-    }
-  }
-  pool.sort((a, b) => b.score - a.score);
-
-  const seen = new Set();
-  const ideas = [];
-  for (const p of pool) {
-    const words = keywordsFromCaption(p.caption);
-    const key = words.slice(0, 2).join("-") || p.id;
-    if (seen.has(key) || !words.length) continue;
-    seen.add(key);
-    ideas.push({
-      title: titleCase(words.slice(0, 3).join(" ")) || "Untitled angle",
-      rationale: `Inspired by @${p.handle}'s post (${fmtNum(p.likes)} likes, ${fmtNum(p.comments)} comments) — adapt the angle for @${data.own.handle}.`,
-      tags: (p.hashtags || []).slice(0, 4),
-      source: p,
-    });
-    if (ideas.length >= 5) break;
-  }
-
+  const ideas = data.ideas || [];
   const listEl = document.getElementById("ideaList");
   if (!ideas.length) {
     listEl.innerHTML = `<div class="idea"><div class="rationale">Not enough competitor post data yet to derive ideas — re-pull once more competitor handles are confirmed.</div></div>`;
@@ -134,13 +100,13 @@ function renderIdeator(data) {
 }
 
 // ---------- 02 Hook & Script ----------
-function renderHookScript(ideas, ownHandle) {
+function renderHookScript(ideas, featuredIndex, ownHandle) {
   const el = document.getElementById("scriptOut");
   if (!ideas.length) {
     el.innerHTML = `<div class="script-card">No idea to draft from yet — waiting on the Ideator.</div>`;
     return;
   }
-  const idea = ideas[0];
+  const idea = ideas[featuredIndex];
   const hooks = [
     `Everyone's talking about ${idea.title.toLowerCase()}. Here's what most people get wrong.`,
     `This fact about ${idea.title.toLowerCase()} sounds fake. It isn't.`,
@@ -158,12 +124,12 @@ function renderHookScript(ideas, ownHandle) {
 }
 
 // ---------- 03 Planner ----------
-function renderPlanner(ideas) {
+function renderPlanner(ideas, featuredIndex) {
   const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
   const formats = ["Video", "Sidecar", "Image"];
   const body = document.getElementById("calendarBody");
   body.innerHTML = days.map((d, i) => {
-    const idea = ideas.length ? ideas[i % ideas.length] : null;
+    const idea = ideas.length ? ideas[(featuredIndex + i) % ideas.length] : null;
     return `
       <tr>
         <td class="day">${d}</td>
