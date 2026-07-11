@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T12:38:44.155Z",
+  "generatedAt": "2026-07-11T09:10:14.036Z",
   "source": "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)",
   "own": {
     "handle": "quietlystrange09",
@@ -189,19 +189,30 @@
     {
       "handle": "kurzgesagt",
       "fullName": "Kurzgesagt - In a nutshell",
-      "followers": 1598266,
+      "followers": 1598419,
       "following": 694,
-      "postsCount": 2308,
+      "postsCount": 2309,
       "bio": "Sciency videos made with love, a lot of time and after effects.\nLinks to our videos, shop, website & more:",
       "recentPosts": [
+        {
+          "id": "3938257729582527185",
+          "url": "https://www.instagram.com/p/DangIoNs_LR/",
+          "type": "Video",
+          "caption": "What exactly is caffeine, and how does it affect your brain? Its special chemistry is what makes it helpful in keeping you focused, but it also comes with a cost.",
+          "hashtags": [],
+          "likes": 6625,
+          "comments": 34,
+          "views": 0,
+          "timestamp": "2026-07-10T15:23:39.000Z"
+        },
         {
           "id": "3937491893500907392",
           "url": "https://www.instagram.com/p/DakyAPyGg-A/",
           "type": "Image",
           "caption": "Caption this Nightshift scene",
           "hashtags": [],
-          "likes": 1493,
-          "comments": 17,
+          "likes": 1737,
+          "comments": 22,
           "views": null,
           "timestamp": "2026-07-09T14:00:41.000Z"
         },
@@ -211,8 +222,8 @@
           "type": "Sidecar",
           "caption": "Yesterday we talked about the top 3 microbe predators, and today we share the top 3 memes from that video 😌",
           "hashtags": [],
-          "likes": 18896,
-          "comments": 52,
+          "likes": 20381,
+          "comments": 56,
           "views": null,
           "timestamp": "2026-07-08T14:10:43.000Z"
         },
@@ -222,7 +233,7 @@
           "type": "Image",
           "caption": "There is a hidden world filled with monsters you never heard of, from predators who spit acid and shoot harpoons, to armored hunters that devour their prey alive! Deep in the oceans, and even in fresh water from puddles and lakes, these microscopic super predators remained hidden in plain sight, and evolved over the last 2 billion years.\n\nWhat are the deadliest predators of the microworld, and what kind of bizarre biological weapons have they evolved over the past billions of years? Watch our fu",
           "hashtags": [],
-          "likes": 3134,
+          "likes": 3225,
           "comments": 6,
           "views": null,
           "timestamp": "2026-07-07T14:02:04.000Z"
@@ -233,7 +244,7 @@
           "type": "Image",
           "caption": "When someone opens snacks in the office",
           "hashtags": [],
-          "likes": 3059,
+          "likes": 3111,
           "comments": 20,
           "views": null,
           "timestamp": "2026-07-04T14:00:32.000Z"
@@ -244,8 +255,8 @@
           "type": "Video",
           "caption": "What could 1% of the richest countries’ income achieve? From malaria vaccines and clean water to renewable energy, a surprisingly small fraction of global wealth could transform millions of lives.",
           "hashtags": [],
-          "likes": 12475,
-          "comments": 168,
+          "likes": 12748,
+          "comments": 172,
           "views": 64780,
           "timestamp": "2026-07-03T14:01:07.000Z"
         },
@@ -255,7 +266,7 @@
           "type": "Image",
           "caption": "Your favorite shirt of the summer now comes with a very special souvenir from space!\n\nGet a free set of Space Tour Patches when you buy a Space Tour Shirt, this summer* ✨\nWe teamed up with artist @haxloeffler to create this exclusive, two-sided shirt design featuring a cosmic throwback to our most iconic space videos. Suit up, secure your free patches, and browse a few more cosmic essentials for the journey.\n\n*Starting from 23.06.2026 until 07.07.2026, when you purchase the Space Tour Shirt in t",
           "hashtags": [],
-          "likes": 505,
+          "likes": 508,
           "comments": 3,
           "views": null,
           "timestamp": "2026-07-01T14:00:52.000Z"
@@ -266,7 +277,7 @@
           "type": "Image",
           "caption": "Could YOU survive a royal marriage? Henry VIII had six wives, but becoming Queen of England is only the beginning of the challenge. To survive this, you have to navigate religious upheaval, political games, shifting alliances, and the unpredictable moods of one of history's most notorious monarchs. Some lost their crowns, and some lost their lives, but only one outlived the king.\n\nWho were Henry VIII's six wives, and why was marrying him a death sentence for most of them? And what about you, cou",
           "hashtags": [],
-          "likes": 3748,
+          "likes": 3783,
           "comments": 21,
           "views": null,
           "timestamp": "2026-06-30T14:02:32.000Z"
@@ -277,7 +288,7 @@
           "type": "Sidecar",
           "caption": "Yep, it do be like that sometimes... 💀",
           "hashtags": [],
-          "likes": 18772,
+          "likes": 18951,
           "comments": 83,
           "views": null,
           "timestamp": "2026-06-29T14:02:05.000Z"
@@ -288,8 +299,8 @@
           "type": "Video",
           "caption": "This is the deadliest virus on our planet… However, human cells are safe. The deadliest virus on our planet only feasts on bacteria, hence its name: Bacteriophage - bacteria eater. Now that our antibiotics aren't as effective against the ever-evolving multiresistant bacteria, phages are a promising tool for defending ourselves in the future. They are highly specialized so they only attack the bacteria they’re supposed to, reducing the side effects of a treatment.",
           "hashtags": [],
-          "likes": 15445,
-          "comments": 69,
+          "likes": 15651,
+          "comments": 70,
           "views": 130190,
           "timestamp": "2026-06-27T14:30:53.000Z"
         },
@@ -299,7 +310,7 @@
           "type": "Video",
           "caption": "If the Moon tasted like cheese, we are sure this asteroid would taste like an orange-flavored jellybean!\n\nHave you already started your space adventure? Star Birds, which we developed together with our friends at Toukana Interactive, is available on Steam!",
           "hashtags": [],
-          "likes": 1961,
+          "likes": 1966,
           "comments": 16,
           "views": 18102,
           "timestamp": "2026-06-26T14:00:36.000Z"
@@ -310,24 +321,13 @@
           "type": "Video",
           "caption": "Which year of your life is the most dangerous? For many people, it’s not old age but infancy. Where you're born can dramatically change your chances of survival, and millions of child deaths are still preventable today.",
           "hashtags": [],
-          "likes": 10512,
+          "likes": 10516,
           "comments": 58,
           "views": 87650,
           "timestamp": "2026-06-25T18:52:58.000Z"
-        },
-        {
-          "id": "3927404697154629497",
-          "url": "https://www.instagram.com/p/DaA8cOHGi95/",
-          "type": "Image",
-          "caption": "Behind every one of our videos is a producer keeping hundreds of moving pieces in orbit.\nNow we're looking for two more. ✨\nIf you want to work with a team that's making science and history accessible and inspiring curiosity for millions of people around the world, check out our open Producer roles. \nLink in Bio 💌",
-          "hashtags": [],
-          "likes": 12244,
-          "comments": 218,
-          "views": null,
-          "timestamp": "2026-06-25T15:59:14.000Z"
         }
       ],
-      "engagementRate": 0.54
+      "engagementRate": 0.52
     },
     {
       "handle": "spacefacts.ig",
@@ -977,19 +977,52 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22461428,
+      "followers": 22461145,
       "following": 33,
-      "postsCount": 11277,
+      "postsCount": 11280,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
       "recentPosts": [
+        {
+          "id": "3938428216856851728",
+          "url": "https://www.instagram.com/p/DaoG5i3ILUQ/",
+          "type": "Sidecar",
+          "caption": "In the Faroe Islands, Sørvágsvatn (also known as Leitisvatn) creates one of the most famous optical illusions in the world.⁠\n⁠\nFrom certain viewpoints, it appears as if the lake is floating high above the Atlantic Ocean, defying gravity itself.⁠\n⁠\nBut the truth is, the lake sits on a cliff only about 30 meters above sea level. The dramatic cliffs and perspective from the ocean below create the illusion.⁠\n⁠\nBy: @tomas_malco_malik @the_real_avh",
+          "hashtags": [],
+          "likes": 6107,
+          "comments": 19,
+          "views": null,
+          "timestamp": "2026-07-10T21:00:57.000Z"
+        },
+        {
+          "id": "3938307390391392103",
+          "url": "https://www.instagram.com/p/DanrbSckxdn/",
+          "type": "Sidecar",
+          "caption": "One of the most unusual chess performances in history took place in St. Petersburg, where an entire match was brought to life using real people instead of chess pieces.⁠\n⁠\nThirty-two participants stood on a giant board, each acting as a living piece, moving only when instructed as the game unfolded like a live theatrical performance.⁠\n⁠\nBy: @republicworld Russia Beyond, (Alexander Bulla)",
+          "hashtags": [],
+          "likes": 7107,
+          "comments": 51,
+          "views": null,
+          "timestamp": "2026-07-10T17:01:19.000Z"
+        },
+        {
+          "id": "3938268728470567998",
+          "url": "https://www.instagram.com/p/DanioruhHw-/",
+          "type": "Video",
+          "caption": "@dindakarrtika shows us how three countries can unite for one celebration. The Fulan Fehan Festival is at Fulan Fehan, East Nusa Tenggara (NTT), Indonesia.",
+          "hashtags": [],
+          "likes": 6804,
+          "comments": 40,
+          "views": 0,
+          "timestamp": "2026-07-10T15:45:05.000Z"
+        },
         {
           "id": "3937703176044779675",
           "url": "https://www.instagram.com/p/DaliCz_E5ib/",
           "type": "Sidecar",
-          "caption": "This Shark-Free Lagoon looks like a perfect tropical escape,  but what makes it even more fascinating is ‘what you don’t find there’.⁠\n⁠\nDespite being part of the Red Sea region, this lagoon is completely safe from sharks due to its extreme salinity and shallow depth. The water is also unusually warm, creating a calm, almost surreal swimming environment.⁠\n⁠\nIt’s one of those rare places where nature quietly creates a space that feels both beautiful and unusual at the same time.⁠\n⁠\nBy: Matriki Be",
+          "caption": "This Shark-Free Lagoon looks like a perfect tropical escape,  but what makes it even more fascinating is ‘what you don’t find there’.⁠\n⁠\nDespite being part of the Pacific Island region, this lagoon is completely safe from sharks due to its extreme salinity and shallow depth. The water is also unusually warm, creating a calm, almost surreal swimming environment.⁠\n⁠\nIt’s one of those rare places where nature quietly creates a space that feels both beautiful and unusual at the same time.⁠\n⁠\nBy: Mat",
           "hashtags": [],
-          "likes": 32390,
-          "comments": 226,
+          "likes": 47579,
+          "comments": 316,
           "views": null,
           "timestamp": "2026-07-09T21:00:23.000Z"
         },
@@ -999,8 +1032,8 @@
           "type": "Sidecar",
           "caption": "Lake Natron in Tanzania is one of the most extreme environments on Earth.⁠\n⁠\nIts waters are highly alkaline and rich in minerals, giving the lake its striking red color and creating conditions so harsh that most life cannot survive.⁠\n⁠\nIn some cases, animals that come into contact with the lake can become naturally preserved by the minerals, taking on a stone-like appearance over time.⁠\n⁠\nYet despite its harshness, Lake Natron is also a crucial breeding ground for thousands of flamingos, who thr",
           "hashtags": [],
-          "likes": 9161,
-          "comments": 39,
+          "likes": 11843,
+          "comments": 50,
           "views": null,
           "timestamp": "2026-07-09T19:00:47.000Z"
         },
@@ -1010,8 +1043,8 @@
           "type": "Sidecar",
           "caption": "In Japan, one of the most expensive coffees in the world is so exclusive that even a single drop can cost around $20.⁠\n⁠\nThe beans are carefully sourced and processed in extremely limited quantities, so every cup feels more like a luxury experience than a daily drink.⁠\n⁠\nWhat makes it even more surprising is that despite the price, it attracts coffee lovers from around the world who are curious to try something this rare.⁠\n⁠\nWould you try this special coffee?⁠\n⁠\nBy: @tripadvisor (GINA, juneshun)",
           "hashtags": [],
-          "likes": 3131,
-          "comments": 85,
+          "likes": 3908,
+          "comments": 112,
           "views": null,
           "timestamp": "2026-07-09T17:00:58.000Z"
         },
@@ -1021,8 +1054,8 @@
           "type": "Video",
           "caption": "Red pandas may look like tiny bears, but they’re actually more closely related to raccoons than giant pandas. Native to the forests of the Himalayas and southwestern China, they spend most of their time in trees and feed mainly on bamboo.\n\n📷 by @rustamnazimov13",
           "hashtags": [],
-          "likes": 19768,
-          "comments": 66,
+          "likes": 23017,
+          "comments": 81,
           "views": 0,
           "timestamp": "2026-07-09T14:33:58.000Z"
         },
@@ -1032,8 +1065,8 @@
           "type": "Sidecar",
           "caption": "Inside Microsoft's headquarters is a room so quiet that silence itself becomes uncomfortable.⁠\n⁠\nThe anechoic chamber in Redmond, Washington, absorbs almost every sound, reaching an astonishing -20.35 decibels, making it the quietest place on Earth.⁠\n⁠\nPeople who go inside can hear things they normally never notice: their heartbeat, breathing, and even the sounds coming from inside their own bodies.⁠\n⁠\nBy: @microsoft @guinnessworldrecords @cnn",
           "hashtags": [],
-          "likes": 7137,
-          "comments": 245,
+          "likes": 7555,
+          "comments": 257,
           "views": null,
           "timestamp": "2026-07-08T21:00:28.000Z"
         },
@@ -1043,8 +1076,8 @@
           "type": "Sidecar",
           "caption": "Africa’s largest airport is currently being built in Ethiopia, a massive $12.5 billion project set to transform aviation on the continent.⁠\n⁠\nLocated near Bishoftu, the new hub is designed to handle millions of passengers annually, significantly expanding international connectivity and positioning Ethiopia as a key gateway between Africa and the rest of the world.⁠\n⁠\nBeyond its scale, the project reflects the country’s long-term investment in infrastructure, trade, and tourism growth.⁠\n⁠\nBy: @cn",
           "hashtags": [],
-          "likes": 12622,
-          "comments": 509,
+          "likes": 13157,
+          "comments": 524,
           "views": null,
           "timestamp": "2026-07-08T19:00:33.000Z"
         },
@@ -1054,7 +1087,7 @@
           "type": "Sidecar",
           "caption": "“Paul the Octopus,” rose to global fame during the 2010 FIFA World Cup after correctly “predicting” several match outcomes by choosing between food boxes marked with different flags.⁠\n⁠\nMillions watched each decision as it turned into a viral moment around the world.⁠\n⁠\nWhile it appeared to have an extraordinary ability, experts later explained it was most likely a coincidence.⁠\n⁠\nPaul has since passed away, but his legacy remains one of the most unusual stories in sports history.⁠\n⁠\nBy: @wired ",
           "hashtags": [],
-          "likes": 3701,
+          "likes": 3796,
           "comments": 20,
           "views": null,
           "timestamp": "2026-07-07T21:00:18.000Z"
@@ -1065,8 +1098,8 @@
           "type": "Sidecar",
           "caption": "Some lakes on Earth don’t look real at all.⁠\n⁠\nFrom neon pink waters filled with salt-loving bacteria to deep volcanic lakes that change color depending on the light, these places feel like they belong on another planet rather than our own.⁠\n⁠\nNature has created landscapes so surreal that at first glance, you almost don’t believe they’re real.⁠\n⁠\nBy: @refoorest @fishnfins_palau @newsweek @followalice.travel @mohdatirazmi @geologyscience",
           "hashtags": [],
-          "likes": 21025,
-          "comments": 57,
+          "likes": 22181,
+          "comments": 60,
           "views": null,
           "timestamp": "2026-07-07T19:01:09.000Z"
         },
@@ -1076,53 +1109,20 @@
           "type": "Sidecar",
           "caption": "You can watch Jaws while floating in the water in Texas.⁠\n⁠\nIn Austin, a floating cinema experience turns classic movie nights into something completely different, with viewers relaxing on inflatable rafts as films play on a giant outdoor screen.⁠\n⁠\nWatching a shark movie while surrounded by water adds a whole new layer to the experience, making it both fun and thrilling at the same time.⁠\n⁠\nBy: @drafthouse",
           "hashtags": [],
-          "likes": 4446,
-          "comments": 66,
+          "likes": 4641,
+          "comments": 67,
           "views": null,
           "timestamp": "2026-07-07T17:03:55.000Z"
-        },
-        {
-          "id": "3935661123717848132",
-          "url": "https://www.instagram.com/p/DaeRvCjhFxE/",
-          "type": "Video",
-          "caption": "This is what Mexican water-tubing looks like \n📷 by @huastecapotosina_rutaturquesa",
-          "hashtags": [],
-          "likes": 11943,
-          "comments": 47,
-          "views": 469591,
-          "timestamp": "2026-07-07T01:24:15.000Z"
-        },
-        {
-          "id": "3935589355587482969",
-          "url": "https://www.instagram.com/p/DaeBarRmbVZ/",
-          "type": "Sidecar",
-          "caption": "Meet Merlin, a duck from Mexico City who somehow ended up becoming part of the World Cup story in the most unexpected way.⁠\n⁠\nHe was already known around the neighborhood, often seen walking through the streets with his owner, but everything changed when videos of him wearing a tiny Mexico jersey during World Cup celebrations started circulating online.⁠\n⁠\nFrom there, people began recognizing him, stopping for photos, and sharing clips of him as he moved through the city.⁠\n⁠\nBy: @mexiconewsdaily",
-          "hashtags": [],
-          "likes": 13293,
-          "comments": 30,
-          "views": null,
-          "timestamp": "2026-07-06T23:00:36.000Z"
-        },
-        {
-          "id": "3935528847467079609",
-          "url": "https://www.instagram.com/p/DadzqKsk-e5/",
-          "type": "Sidecar",
-          "caption": "China built a skyscraper the length of three football fields.⁠\n⁠\nIn Chongqing, a 300-meter-long glass structure connects four skyscrapers and sits more than 250 meters above the ground.⁠\n⁠\nInstead of expanding outward or upward, engineers built across the skyline, creating one of the most unusual architectural projects in the world.⁠\n⁠\nBy: @safdiearchitects @metalocus @capitaland",
-          "hashtags": [],
-          "likes": 5321,
-          "comments": 95,
-          "views": null,
-          "timestamp": "2026-07-06T21:00:23.000Z"
         }
       ],
-      "engagementRate": 0.05
+      "engagementRate": 0.06
     },
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 269074380,
+      "followers": 269068745,
       "following": 193,
-      "postsCount": 31787,
+      "postsCount": 31790,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
       "recentPosts": [
         {
@@ -1133,8 +1133,8 @@
           "hashtags": [
             "PompeiiOutOfTime"
           ],
-          "likes": 132029,
-          "comments": 1129,
+          "likes": 132431,
+          "comments": 1134,
           "views": 1208997,
           "timestamp": "2026-06-16T16:00:07.000Z"
         },
@@ -1146,19 +1146,57 @@
           "hashtags": [
             "BestOfTheWorld"
           ],
-          "likes": 56750,
-          "comments": 854,
+          "likes": 56786,
+          "comments": 855,
           "views": 914693,
           "timestamp": "2026-05-19T16:00:09.000Z"
+        },
+        {
+          "id": "3938367641542741384",
+          "url": "https://www.instagram.com/p/Dan5IDtDE2I/",
+          "type": "Sidecar",
+          "caption": "The true story of four children who survived 40 days and 40 nights stranded in the Colombian rainforest. The siblings recount what happened in #LostInTheJungle, now streaming on @disneyplus and @hulu.",
+          "hashtags": [
+            "LostInTheJungle,"
+          ],
+          "likes": 98873,
+          "comments": 455,
+          "views": null,
+          "timestamp": "2026-07-10T19:00:01.000Z"
+        },
+        {
+          "id": "3938289270275749246",
+          "url": "https://www.instagram.com/p/DannTmxhLV-/",
+          "type": "Video",
+          "caption": "For the first time in more than 900 years, the Bayeux Tapestry—a 225-foot-long work of medieval art depicting the Norman Conquest of England—has arrived in the U.K. Transporting one of the world's most famous and fragile antiquities meant navigating numerous practical and political hurdles and required years of planning, with conservators and engineers developing a highly specialized process to protect the tapestry. \n \nNat Geo writer Chris Heath and photographer @zed_nelson witnessed its arrival",
+          "hashtags": [],
+          "likes": 24893,
+          "comments": 180,
+          "views": 0,
+          "timestamp": "2026-07-10T16:25:49.000Z"
+        },
+        {
+          "id": "3938165180760377462",
+          "url": "https://www.instagram.com/p/DanLF3aCMh2/",
+          "type": "Sidecar",
+          "caption": "The migratory patterns of hammerheads, who can travel thousands of miles, make it complicated to protect them.\n\n#HammerheadSharksUpClose with @bertiegregory is now streaming on @DisneyPlus and @hulu, part of #Sharkfest on National Geographic.",
+          "hashtags": [
+            "HammerheadSharksUpClose",
+            "Sharkfest"
+          ],
+          "likes": 22550,
+          "comments": 54,
+          "views": null,
+          "timestamp": "2026-07-10T13:00:01.000Z"
         },
         {
           "id": "3937824681877847637",
           "url": "https://www.instagram.com/p/Dal9q9HGD5V/",
           "type": "Sidecar",
-          "caption": "When archaeologists excavated a medieval toilet in Germany, they uncovered a 700-year-old reusable wax notebook. Likened to an \"Etch A Sketch,\" wax page journals could be erased using heat from a fire. Kept surprisingly intact by a sealed leather pouch, researchers say the Latin inscriptions could shed new light on life in medieval Germany. \n\nLearn more about the journal and what it says at the link in bio. \n\nPhotograph courtesy of LWL-Archaeology for Westphalia/E. Daood",
+          "caption": "When archaeologists excavated a medieval toilet in Germany, they uncovered a 700-year-old reusable wax notebook. Likened to an \"Etch A Sketch,\" wax page journals could be erased using heat from a fire. Kept surprisingly intact by a sealed leather pouch, researchers say the Latin inscriptions could shed new light on life in medieval Germany. \n\nLearn more about the journal and what it says at the link in bio. \n\nPhotograph 1 courtesy of LWL-Archaeology for Westphalia/E. Daood, Photograph 2 by LWL/ ",
           "hashtags": [],
-          "likes": 18341,
-          "comments": 159,
+          "likes": 25888,
+          "comments": 238,
           "views": null,
           "timestamp": "2026-07-10T01:01:49.000Z"
         },
@@ -1168,8 +1206,8 @@
           "type": "Video",
           "caption": "In 2025, Kazi and 15 other cheetahs undertook a grueling 53-hour translocation from South Africa to Mozambique—the largest cheetah relocation ever attempted. Such a journey can be risky, but it's necessary to ensure the survival of a species with fewer than 7,100 individuals remaining worldwide, both in the wild and in captivity. After navigating bureaucracy, torrential rain, and a car crash, the effort has proven initially successful one year on, with Kazi giving birth to these three cubs.\n\nFol",
           "hashtags": [],
-          "likes": 42756,
-          "comments": 132,
+          "likes": 54633,
+          "comments": 165,
           "views": 0,
           "timestamp": "2026-07-09T22:06:38.000Z"
         },
@@ -1182,8 +1220,8 @@
             "HammerheadSharksUpClose",
             "Sharkfest"
           ],
-          "likes": 52760,
-          "comments": 154,
+          "likes": 69595,
+          "comments": 199,
           "views": 0,
           "timestamp": "2026-07-09T21:00:37.000Z"
         },
@@ -1193,8 +1231,8 @@
           "type": "Video",
           "caption": "Living on the steepest street in the continental United States comes with some uphill battles—from icy winter commutes to runaway trash cans.\n \nMichael Hartman, a certified first responder who has lived on Canton Avenue, in Pittsburgh's Beechview neighborhood, for five years, has been known to administer first aid to the cyclists who regularly test their mettle on the climb during an annual race.\n \nWith a maximum grade of 37 percent, Canton is not the kind of street you leisurely stroll—or bike—",
           "hashtags": [],
-          "likes": 30032,
-          "comments": 639,
+          "likes": 36045,
+          "comments": 758,
           "views": 0,
           "timestamp": "2026-07-09T16:18:56.000Z"
         },
@@ -1208,8 +1246,8 @@
             "Sharkfest",
             "Moana,"
           ],
-          "likes": 10235,
-          "comments": 82,
+          "likes": 10959,
+          "comments": 86,
           "views": 31630,
           "timestamp": "2026-07-08T19:00:03.000Z"
         },
@@ -1219,8 +1257,8 @@
           "type": "Sidecar",
           "caption": "Ready to go back in time? Two weeks until Pompeii: Out of Time with Tom Hiddleston premieres on @natgeotv",
           "hashtags": [],
-          "likes": 92402,
-          "comments": 346,
+          "likes": 100089,
+          "comments": 358,
           "views": null,
           "timestamp": "2026-07-08T15:02:11.000Z"
         },
@@ -1230,48 +1268,10 @@
           "type": "Image",
           "caption": "Some of the Bible's best-known stories are gaining new historical context as archaeologists uncover long-hidden evidence. Across ancient cities, early Christian sites, and centuries-old manuscripts—including recovered traces of the Apostle Paul's letters—six new discoveries shed light on early church history.\n\nLearn more about the latest archaeological breakthroughs at the link in bio. \n\nPhotograph by Khalil Hamra/Ap Photo",
           "hashtags": [],
-          "likes": 10926,
-          "comments": 553,
+          "likes": 11405,
+          "comments": 587,
           "views": null,
           "timestamp": "2026-07-08T13:00:02.000Z"
-        },
-        {
-          "id": "3936069658943710411",
-          "url": "https://www.instagram.com/p/DafuoAoiGTL/",
-          "type": "Video",
-          "caption": "Several Hawaiian spots contend for the title of rainiest place, but Mount Waiʻaleʻale on the island of Kauaʻi has set eye-popping records, topping a hundred inches in a month as recently as 2021. The nearly mile-high peak snags moist trade winds, which cool and condense around its summit, enrobing the mountain in waterfalls.\n \nIn recognition of the 250th anniversary of U.S. independence, we're celebrating the grandest, wildest, and strangest bits of American geography and culture across every st",
-          "hashtags": [],
-          "likes": 23715,
-          "comments": 233,
-          "views": 394761,
-          "timestamp": "2026-07-07T17:00:04.000Z"
-        },
-        {
-          "id": "3936007259251595615",
-          "url": "https://www.instagram.com/p/Dafgb-ZDNlf/",
-          "type": "Video",
-          "caption": "Would you swim with sharks like @bertiegregory? 🦈\n\n#HammerheadSharksUpClose with Bertie Gregory is now streaming on @DisneyPlus and @hulu, part of #Sharkfest on National Geographic.",
-          "hashtags": [
-            "HammerheadSharksUpClose",
-            "Sharkfest"
-          ],
-          "likes": 9276,
-          "comments": 60,
-          "views": 213603,
-          "timestamp": "2026-07-07T14:00:04.000Z"
-        },
-        {
-          "id": "3935644859390912037",
-          "url": "https://www.instagram.com/p/DaeOCXOFmYl/",
-          "type": "Sidecar",
-          "caption": "Photos by @joelsartore | Meet the giant snake-necked turtle, the largest of the long-necked turtles found in Australia. Turtles like this one play an important role in river ecosystems, especially after a fish kill. They will feed on dead fish, returning ammonia and dissolved oxygen back into the river in just three to six days (natural decomposition can take nearly a month). These photos were taken at @tennesseeaquarium. To see more species featured in the Photo Ark, follow @joelsartore. #Photo",
-          "hashtags": [
-            "PhotoArk"
-          ],
-          "likes": 40343,
-          "comments": 135,
-          "views": null,
-          "timestamp": "2026-07-07T10:00:01.000Z"
         }
       ],
       "engagementRate": 0.02
@@ -1279,9 +1279,9 @@
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10813758,
+      "followers": 10813873,
       "following": 415,
-      "postsCount": 7487,
+      "postsCount": 7488,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
       "recentPosts": [
         {
@@ -1294,10 +1294,26 @@
             "DavidAttenborough",
             "BluePlanetIII"
           ],
-          "likes": 812110,
-          "comments": 3737,
+          "likes": 815031,
+          "comments": 3741,
           "views": 3580518,
           "timestamp": "2026-05-08T21:07:02.000Z"
+        },
+        {
+          "id": "3938261857213616793",
+          "url": "https://www.instagram.com/p/DanhEsXsBKZ/",
+          "type": "Video",
+          "caption": "Looks can be deceptive 🌈\n \nThe rainbow sea slug is a marine mollusk known for a striking neon appearance. Its glowing colours are for protection warning predators they are toxic to eat.\n \n#EarthCapture by @jjrheams.photography\n.\n.\n.\n.\n#Seaslug #Wildlife #Nature",
+          "hashtags": [
+            "EarthCapture",
+            "Seaslug",
+            "Wildlife",
+            "Nature"
+          ],
+          "likes": 21371,
+          "comments": 99,
+          "views": 0,
+          "timestamp": "2026-07-10T15:30:04.000Z"
         },
         {
           "id": "3936780214292544602",
@@ -1310,8 +1326,8 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 17700,
-          "comments": 243,
+          "likes": 19011,
+          "comments": 258,
           "views": 30831,
           "timestamp": "2026-07-08T14:29:04.000Z"
         },
@@ -1325,8 +1341,8 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 2991,
-          "comments": 20,
+          "likes": 3110,
+          "comments": 21,
           "views": 21333,
           "timestamp": "2026-07-07T13:00:51.000Z"
         },
@@ -1340,7 +1356,7 @@
             "Wimbeldon",
             "RacketSport"
           ],
-          "likes": 5280,
+          "likes": 5450,
           "comments": 19,
           "views": 150187,
           "timestamp": "2026-07-05T14:00:06.000Z"
@@ -1355,8 +1371,8 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 20372,
-          "comments": 203,
+          "likes": 20670,
+          "comments": 205,
           "views": 146174,
           "timestamp": "2026-07-03T13:02:03.000Z"
         },
@@ -1369,7 +1385,7 @@
             "Evolution",
             "ChrisPackham"
           ],
-          "likes": 9459,
+          "likes": 9576,
           "comments": 158,
           "views": null,
           "timestamp": "2026-07-02T13:00:05.000Z"
@@ -1384,8 +1400,8 @@
             "Flamingo",
             "ExtremeClimate"
           ],
-          "likes": 18409,
-          "comments": 95,
+          "likes": 18864,
+          "comments": 99,
           "views": 353967,
           "timestamp": "2026-06-30T15:05:08.000Z"
         },
@@ -1400,8 +1416,8 @@
             "Birds",
             "Wadingbirds"
           ],
-          "likes": 88478,
-          "comments": 510,
+          "likes": 89409,
+          "comments": 515,
           "views": 495588,
           "timestamp": "2026-06-28T08:00:09.000Z"
         },
@@ -1417,7 +1433,7 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 8153,
+          "likes": 8167,
           "comments": 30,
           "views": 118405,
           "timestamp": "2026-06-26T11:30:09.000Z"
@@ -1433,7 +1449,7 @@
             "PE20",
             "PEII"
           ],
-          "likes": 4835,
+          "likes": 4841,
           "comments": 32,
           "views": 37409,
           "timestamp": "2026-06-25T15:00:11.000Z"
@@ -1449,38 +1465,22 @@
             "BehindTheScene",
             "Nepal"
           ],
-          "likes": 3729,
+          "likes": 3736,
           "comments": 26,
           "views": 37345,
           "timestamp": "2026-06-21T14:05:08.000Z"
-        },
-        {
-          "id": "3922908339976215481",
-          "url": "https://www.instagram.com/p/DZw-FnKsxu5/",
-          "type": "Video",
-          "caption": "Behind the lens with Dan O’Neill 🎥 (Part 3/4)\n \nJoin wildlife biologist, broadcaster and filmmaker Dan as he answers questions about Tiger Island, from remarkable new tiger behaviours, to what it was like filming in Nepal.\n \nSee unseen footage from Tiger Island and watch the full Q&A via the link in bio 🔗\n \n#TigerIsland #TigerCubs #BehindTheScene #Nepal",
-          "hashtags": [
-            "TigerIsland",
-            "TigerCubs",
-            "BehindTheScene",
-            "Nepal"
-          ],
-          "likes": 4546,
-          "comments": 41,
-          "views": 137855,
-          "timestamp": "2026-06-19T11:05:10.000Z"
         }
       ],
-      "engagementRate": 0.77
+      "engagementRate": 0.79
     }
   ],
   "ideas": [
     {
       "title": "Retiring Years Chance",
-      "rationale": "Inspired by @bbcearth's post (812110 likes, 3737 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (815031 likes, 3741 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 812110,
-      "comments": 3737,
+      "likes": 815031,
+      "comments": 3741,
       "tags": [
         "DavidAttenborough100",
         "DavidAttenborough",
@@ -1489,28 +1489,38 @@
     },
     {
       "title": "There Story Pompeii",
-      "rationale": "Inspired by @natgeo's post (132029 likes, 1129 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (132431 likes, 1134 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 132029,
-      "comments": 1129,
+      "likes": 132431,
+      "comments": 1134,
       "tags": [
         "PompeiiOutOfTime"
       ]
     },
     {
       "title": "Ready Weeks Until",
-      "rationale": "Inspired by @natgeo's post (92402 likes, 346 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (100089 likes, 358 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 92402,
-      "comments": 346,
+      "likes": 100089,
+      "comments": 358,
       "tags": []
     },
     {
+      "title": "Story Children Survived",
+      "rationale": "Inspired by @natgeo's post (98873 likes, 455 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "natgeo",
+      "likes": 98873,
+      "comments": 455,
+      "tags": [
+        "LostInTheJungle,"
+      ]
+    },
+    {
       "title": "Caution Hazard These",
-      "rationale": "Inspired by @bbcearth's post (88478 likes, 510 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (89409 likes, 515 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 88478,
-      "comments": 510,
+      "likes": 89409,
+      "comments": 515,
       "tags": [
         "Earthcapture",
         "Oystercatcher",
@@ -1519,44 +1529,34 @@
       ]
     },
     {
-      "title": "Antoni Quest Sights",
-      "rationale": "Inspired by @natgeo's post (56750 likes, 854 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 56750,
-      "comments": 854,
-      "tags": [
-        "BestOfTheWorld"
-      ]
-    },
-    {
       "title": "Sharks Constantly Result",
-      "rationale": "Inspired by @natgeo's post (52760 likes, 154 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (69595 likes, 199 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 52760,
-      "comments": 154,
+      "likes": 69595,
+      "comments": 199,
       "tags": [
         "HammerheadSharksUpClose",
         "Sharkfest"
       ]
     },
     {
-      "title": "Other Cheetahs Undertook",
-      "rationale": "Inspired by @natgeo's post (42756 likes, 132 comments) — adapt the angle for @quietlystrange09.",
+      "title": "Antoni Quest Sights",
+      "rationale": "Inspired by @natgeo's post (56786 likes, 855 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 42756,
-      "comments": 132,
-      "tags": []
+      "likes": 56786,
+      "comments": 855,
+      "tags": [
+        "BestOfTheWorld"
+      ]
     },
     {
-      "title": "Photos Joelsartore Giant",
-      "rationale": "Inspired by @natgeo's post (40343 likes, 135 comments) — adapt the angle for @quietlystrange09.",
+      "title": "Other Cheetahs Undertook",
+      "rationale": "Inspired by @natgeo's post (54633 likes, 165 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 40343,
-      "comments": 135,
-      "tags": [
-        "PhotoArk"
-      ]
+      "likes": 54633,
+      "comments": 165,
+      "tags": []
     }
   ],
-  "featuredIdeaIndex": 7
+  "featuredIdeaIndex": 0
 }
