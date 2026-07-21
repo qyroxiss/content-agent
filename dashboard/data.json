@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T12:06:50.605Z",
+  "generatedAt": "2026-07-21T11:20:31.480Z",
   "source": "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)",
   "own": {
     "handle": "quietlystrange09",
@@ -189,19 +189,30 @@
     {
       "handle": "kurzgesagt",
       "fullName": "Kurzgesagt - In a nutshell",
-      "followers": 1598858,
-      "following": 693,
-      "postsCount": 2314,
+      "followers": 1599009,
+      "following": 694,
+      "postsCount": 2315,
       "bio": "Sciency videos made with love, a lot of time and after effects.\nLinks to our videos, shop, website & more:",
       "recentPosts": [
+        {
+          "id": "3945479433076526464",
+          "url": "https://www.instagram.com/p/DbBKKPtIs2A/",
+          "type": "Video",
+          "caption": "It seems that Midas have stumbled over a rock and fell on the ground. Surely nothing bad can come out of that... 👀",
+          "hashtags": [],
+          "likes": 6282,
+          "comments": 50,
+          "views": null,
+          "timestamp": "2026-07-20T14:30:09.000Z"
+        },
         {
           "id": "3944014761088034725",
           "url": "https://www.instagram.com/p/Da79IdnjKel/",
           "type": "Image",
           "caption": "On the vast, cold seas with endless waves in all directions, there is one constant companion: the stars. Whenever they were visible, sailors knew they could find their way. Their guidance meant ships could dare to cross the oceans with nothing more than keen eyesight and the ability to read the signs in the sky. Just like the brave sailors aboard Chinese junks that can be seen on the July page of our 12,026 Human Era calendar, who left familiar shores to cross oceans and head into the unknown.",
           "hashtags": [],
-          "likes": 5136,
-          "comments": 12,
+          "likes": 5468,
+          "comments": 13,
           "views": null,
           "timestamp": "2026-07-18T14:00:28.000Z"
         },
@@ -211,7 +222,7 @@
           "type": "Video",
           "caption": "War costs far more than weapons and destroyed buildings. It leaves countries poorer, disrupts education, drives migration, and passes trauma to future generations. Some of its highest costs are paid decades later.",
           "hashtags": [],
-          "likes": 6387,
+          "likes": 6648,
           "comments": 75,
           "views": null,
           "timestamp": "2026-07-17T15:00:11.000Z"
@@ -222,8 +233,8 @@
           "type": "Image",
           "caption": "If you don't know, don't worry! You'll find out soon on our Nightshift channel... 🌚",
           "hashtags": [],
-          "likes": 17372,
-          "comments": 150,
+          "likes": 18078,
+          "comments": 151,
           "views": null,
           "timestamp": "2026-07-15T14:01:54.000Z"
         },
@@ -233,7 +244,7 @@
           "type": "Video",
           "caption": "Things that can help during a panic attack: \n1. Breathe. Practice abdominal breathing: Breathe slowly from your abdomen through your nose to reduce symptoms of hyperventilation.\n2.  Stay in the present. Staying in the present and focussing on external objects will help minimize the attention you might give to troublesome physical symptoms or catastrophic thoughts. If possible, you might try actually touching objects nearby to reinforce staying in the immediate present or use the 5-4-3-2-1 exerci",
           "hashtags": [],
-          "likes": 8577,
+          "likes": 8692,
           "comments": 48,
           "views": null,
           "timestamp": "2026-07-14T15:41:39.000Z"
@@ -244,7 +255,7 @@
           "type": "Video",
           "caption": "You've heard about synchronized swimming, but have you heard about synchronized rocket launching?\n\nDon't miss out, and join us on this space adventure! Get Star Birds, which we developed together with our friends at @toukana_interactive on Steam!",
           "hashtags": [],
-          "likes": 2127,
+          "likes": 2153,
           "comments": 11,
           "views": null,
           "timestamp": "2026-07-11T14:00:14.000Z"
@@ -255,7 +266,7 @@
           "type": "Video",
           "caption": "What exactly is caffeine, and how does it affect your brain? Its special chemistry is what makes it helpful in keeping you focused, but it also comes with a cost.",
           "hashtags": [],
-          "likes": 10659,
+          "likes": 10723,
           "comments": 66,
           "views": null,
           "timestamp": "2026-07-10T15:23:39.000Z"
@@ -266,8 +277,8 @@
           "type": "Image",
           "caption": "Caption this Nightshift scene",
           "hashtags": [],
-          "likes": 2675,
-          "comments": 31,
+          "likes": 2738,
+          "comments": 32,
           "views": null,
           "timestamp": "2026-07-09T14:00:41.000Z"
         },
@@ -277,7 +288,7 @@
           "type": "Sidecar",
           "caption": "Yesterday we talked about the top 3 microbe predators, and today we share the top 3 memes from that video 😌",
           "hashtags": [],
-          "likes": 27271,
+          "likes": 27513,
           "comments": 70,
           "views": null,
           "timestamp": "2026-07-08T14:10:43.000Z"
@@ -288,7 +299,7 @@
           "type": "Image",
           "caption": "There is a hidden world filled with monsters you never heard of, from predators who spit acid and shoot harpoons, to armored hunters that devour their prey alive! Deep in the oceans, and even in fresh water from puddles and lakes, these microscopic super predators remained hidden in plain sight, and evolved over the last 2 billion years.\n\nWhat are the deadliest predators of the microworld, and what kind of bizarre biological weapons have they evolved over the past billions of years? Watch our fu",
           "hashtags": [],
-          "likes": 3691,
+          "likes": 3713,
           "comments": 6,
           "views": null,
           "timestamp": "2026-07-07T14:02:04.000Z"
@@ -299,7 +310,7 @@
           "type": "Image",
           "caption": "When someone opens snacks in the office",
           "hashtags": [],
-          "likes": 3507,
+          "likes": 3508,
           "comments": 22,
           "views": null,
           "timestamp": "2026-07-04T14:00:32.000Z"
@@ -310,24 +321,13 @@
           "type": "Video",
           "caption": "What could 1% of the richest countries’ income achieve? From malaria vaccines and clean water to renewable energy, a surprisingly small fraction of global wealth could transform millions of lives.",
           "hashtags": [],
-          "likes": 14683,
-          "comments": 196,
+          "likes": 14706,
+          "comments": 198,
           "views": 64780,
           "timestamp": "2026-07-03T14:01:07.000Z"
-        },
-        {
-          "id": "3931693776344061645",
-          "url": "https://www.instagram.com/p/DaQLqiYmhbN/",
-          "type": "Image",
-          "caption": "Your favorite shirt of the summer now comes with a very special souvenir from space!\n\nGet a free set of Space Tour Patches when you buy a Space Tour Shirt, this summer* ✨\nWe teamed up with artist @haxloeffler to create this exclusive, two-sided shirt design featuring a cosmic throwback to our most iconic space videos. Suit up, secure your free patches, and browse a few more cosmic essentials for the journey.\n\n*Starting from 23.06.2026 until 07.07.2026, when you purchase the Space Tour Shirt in t",
-          "hashtags": [],
-          "likes": 530,
-          "comments": 5,
-          "views": null,
-          "timestamp": "2026-07-01T14:00:52.000Z"
         }
       ],
-      "engagementRate": 0.54
+      "engagementRate": 0.58
     },
     {
       "handle": "spacefacts.ig",
@@ -977,19 +977,52 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22452112,
+      "followers": 22450567,
       "following": 33,
-      "postsCount": 11304,
+      "postsCount": 11307,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
       "recentPosts": [
+        {
+          "id": "3945677241048843849",
+          "url": "https://www.instagram.com/p/DbB3IuvD0ZJ/",
+          "type": "Sidecar",
+          "caption": "Ulaman Eco Luxury Resort in Bali is surrounded by jungle, waterfalls, and a river that runs through the property.⁠\n⁠\nThe rooms are surrounded by trees, with natural pools, gardens, and walkways that make the whole place feel far removed from the outside world.⁠\n⁠\nBuilt with sustainability in mind, Ulaman shows how architecture can create something that feels completely different from a typical resort.⁠\n⁠\nIt’s easy to see why visitors compare it to the world of Avatar.⁠\n⁠⁠\nBy: @ulamanbali @offtos",
+          "hashtags": [],
+          "likes": 3795,
+          "comments": 18,
+          "views": null,
+          "timestamp": "2026-07-20T21:03:43.000Z"
+        },
+        {
+          "id": "3945615465763624365",
+          "url": "https://www.instagram.com/p/DbBpFyBINWt/",
+          "type": "Sidecar",
+          "caption": "Semana Santa is an annual religious tradition held in Seville, Spain, during the week leading up to Easter.⁠\n⁠\nFor centuries, local brotherhoods have honored the Passion of Christ through processions that bring together faith, art, and history.⁠\n⁠\nThe celebration is one of the best-known events in Spain, with visitors arriving from around the world to experience Seville’s unique atmosphere during Holy Week.⁠\n⁠\nBy: @sbam_design, @sebasvalencia_fotografia, @createdbyalaritammsalu, alienganímedes, ",
+          "hashtags": [],
+          "likes": 6524,
+          "comments": 401,
+          "views": null,
+          "timestamp": "2026-07-20T19:01:08.000Z"
+        },
+        {
+          "id": "3945556660847687169",
+          "url": "https://www.instagram.com/p/DbBbuDrALYB/",
+          "type": "Sidecar",
+          "caption": "For a few months each year, Mykines becomes a remarkable wildlife destination. Hundreds of thousands of puffins return to breed, temporarily outnumbering the people who call the island home. ⁠\n⁠\nBy the end of summer, they’re gone again, and the island returns to its quiet pace.",
+          "hashtags": [],
+          "likes": 5021,
+          "comments": 21,
+          "views": null,
+          "timestamp": "2026-07-20T17:04:09.000Z"
+        },
         {
           "id": "3944950961409121592",
           "url": "https://www.instagram.com/p/Da_R_-HIF04/",
           "type": "Sidecar",
           "caption": "When Casa Milà was unveiled in the early 1900s, it looked unlike anything people had ever seen.⁠\n⁠\nDesigned by Antoni Gaudí, the building challenged traditional architecture with flowing curves, organic shapes, and almost no straight lines. Inspired by nature, every detail was designed to feel alive, from the wave-like stone façade to the sculptural rooftop chimneys.⁠\n⁠\nMore than 100 years later, Casa Milà continues to attract visitors from around the world and stands as one of Barcelona's most ",
           "hashtags": [],
-          "likes": 7125,
-          "comments": 27,
+          "likes": 9193,
+          "comments": 35,
           "views": null,
           "timestamp": "2026-07-19T21:00:46.000Z"
         },
@@ -999,8 +1032,8 @@
           "type": "Sidecar",
           "caption": "Some places are more than just beautiful landscapes.⁠\n⁠\nFor the Wii Towai Tribe of Papua New Guinea, this waterfall is a sacred place deeply connected to their culture, traditions, and identity. Tribal members have protected it for generations, following customs that reflect respect for both nature and their ancestors.⁠\n⁠\nTo visitors, it may look like an unusual tradition, but to the community, it's simply part of who they are.⁠\n⁠\nBy: @adrift.vision @dianahdaisy",
           "hashtags": [],
-          "likes": 8229,
-          "comments": 95,
+          "likes": 10358,
+          "comments": 114,
           "views": null,
           "timestamp": "2026-07-19T19:00:31.000Z"
         },
@@ -1010,8 +1043,8 @@
           "type": "Sidecar",
           "caption": "If you've ever seen a blue jay that looked half gray and half blue, you were probably looking at a bird in the middle of one of nature's most fascinating transformations.⁠\n⁠\nAs young blue jays grow, they gradually replace their soft juvenile feathers with the vibrant blue plumage adults are known for. For a short period, both generations of feathers can appear at the same time, creating a striking patchwork of colors.⁠\n⁠\nIt's a brief stage that most people never notice, but it offers a rare glim",
           "hashtags": [],
-          "likes": 12585,
-          "comments": 53,
+          "likes": 15161,
+          "comments": 66,
           "views": null,
           "timestamp": "2026-07-19T17:00:33.000Z"
         },
@@ -1021,8 +1054,8 @@
           "type": "Sidecar",
           "caption": "This is what the end of the Great Wall of China looks like.⁠\n⁠\nWhile most people imagine it stretching endlessly through mountains, deserts, and valleys, it actually has a final point where stone meets the sea.⁠\n⁠\nAt Shanhai Pass, also known as “Old Dragon’s Head,” the wall extends into the Bohai Sea, marking the easternmost edge of one of the world’s greatest structures.⁠",
           "hashtags": [],
-          "likes": 6914,
-          "comments": 35,
+          "likes": 7264,
+          "comments": 36,
           "views": null,
           "timestamp": "2026-07-18T21:00:45.000Z"
         },
@@ -1032,8 +1065,8 @@
           "type": "Sidecar",
           "caption": "Every summer in Japan, forests and rivers quietly turn into something unforgettable.⁠\n⁠\nFireflies light up the night to communicate during mating season. As a result, entire landscapes begin to glow, almost like a natural “light concert” happening deep in the wild.⁠\n⁠\nLocal viewing spots protect this seasonal event, allowing people to experience it without disturbing the fireflies’ natural rhythm.⁠\n⁠\nBy: @settouchiguide",
           "hashtags": [],
-          "likes": 12162,
-          "comments": 47,
+          "likes": 12846,
+          "comments": 51,
           "views": null,
           "timestamp": "2026-07-18T19:04:11.000Z"
         },
@@ -1043,8 +1076,8 @@
           "type": "Sidecar",
           "caption": "Some libraries are more than just places to read. They’re works of art.⁠\n⁠\nAround the world, some libraries feel like stepping into a movie set, from grand historic halls filled with ancient books to futuristic spaces that look like something from another planet.⁠\n⁠\nEach one tells its own story through architecture, silence, and the knowledge it holds within its walls.⁠\n⁠\nWhich one would you visit first?⁠\n⁠\nBy: @calvinseng49 @olharesdowill @bildmomente @photo_macjac @trev.takes.photos @itsehsanh",
           "hashtags": [],
-          "likes": 21552,
-          "comments": 108,
+          "likes": 23640,
+          "comments": 120,
           "views": null,
           "timestamp": "2026-07-18T17:00:31.000Z"
         },
@@ -1054,8 +1087,8 @@
           "type": "Sidecar",
           "caption": "Koalas are known for spending most of their lives asleep, but there’s a reason behind it. Their diet consists of eucalyptus leaves, which provide very little energy.⁠\n⁠\nTo make the most of that, koalas can sleep up to 20 hours a day and avoid wasting energy whenever they can. That even extends to mating season, when some choose to stop searching for a mate and return to sleep instead. ⁠\n⁠\nBy: @eclipse.chasers @diefotoweltvonfabian @carolinecedam @maria_ch__ Chris F, Anthony's images",
           "hashtags": [],
-          "likes": 14899,
-          "comments": 181,
+          "likes": 15396,
+          "comments": 188,
           "views": null,
           "timestamp": "2026-07-17T21:00:50.000Z"
         },
@@ -1065,8 +1098,8 @@
           "type": "Sidecar",
           "caption": "The Leaning Tower of Pisa wasn’t supposed to look like this.⁠\n⁠\nBuilt between the 12th and 14th centuries, the tower began tilting shortly after construction due to soft, unstable ground beneath its foundation.⁠\n⁠\nAt one point in history, it leaned so dangerously that engineers feared it could collapse. But thanks to modern restoration efforts, the tower was stabilized and saved. ⁠\n⁠\nToday, it still stands proudly in its famous tilt, attracting millions of visitors every year.⁠\n⁠\nBy: teeixi22",
           "hashtags": [],
-          "likes": 2515,
-          "comments": 16,
+          "likes": 2601,
+          "comments": 17,
           "views": null,
           "timestamp": "2026-07-17T19:01:26.000Z"
         },
@@ -1076,53 +1109,20 @@
           "type": "Sidecar",
           "caption": "In parts of Japan, visitors are often greeted by an unexpected sight: wild deer bowing their heads just like humans.⁠\n⁠\nThe behavior is especially common in Nara, where generations of deer have learned that a polite bow is often rewarded with special deer crackers from tourists.⁠\n⁠\nOver time, what began as a simple association between food and people turned into one of Japan’s most charming wildlife traditions.⁠\n⁠\nToday, thousands of visitors travel to Nara each year to experience these surprisi",
           "hashtags": [],
-          "likes": 37568,
-          "comments": 163,
+          "likes": 39447,
+          "comments": 166,
           "views": null,
           "timestamp": "2026-07-17T17:03:43.000Z"
-        },
-        {
-          "id": "3943360117139201757",
-          "url": "https://www.instagram.com/p/Da5oSI7hl7d/",
-          "type": "Video",
-          "caption": "@darlinlavender checks into a cliff house deep in the Appalachian mountains. Would you stay here ?",
-          "hashtags": [],
-          "likes": 14080,
-          "comments": 199,
-          "views": null,
-          "timestamp": "2026-07-17T16:22:59.000Z"
-        },
-        {
-          "id": "3942778158608906032",
-          "url": "https://www.instagram.com/p/Da3j9h0DXcw/",
-          "type": "Sidecar",
-          "caption": "This is often called the world’s only 7-star hotel, and while the rating isn’t official, the experience inside Burj Al Arab feels like it exists on another level entirely.⁠\n⁠\nFrom its sail-shaped design rising above a private island to suites overlooking the Arabian Gulf, everything about it is built for extreme luxury.⁠\n⁠\nGuests arrive by Rolls-Royce or even helicopter, and every detail inside is designed to feel exclusive, private, and over the top.⁠\n⁠\nWould you book a suite here?⁠\n⁠\nBy: @jume",
-          "hashtags": [],
-          "likes": 3413,
-          "comments": 71,
-          "views": null,
-          "timestamp": "2026-07-16T21:03:48.000Z"
-        },
-        {
-          "id": "3942769328735370360",
-          "url": "https://www.instagram.com/p/Da3h9CWk7x4/",
-          "type": "Sidecar",
-          "caption": "Comment “HOTELS” and we’ll send you the full list of 500 hotels ready to collaborate with creators 👇\n\nThese aren’t generic info pages. You get the direct contact of the exact person who approves collabs at each hotel – the marketing and PR managers who decide who stays for free and who gets paid.\n\n500 hotels, all over the world, updated constantly.\n\nYou don’t need more followers. You need the right list and the right person to email.\n\nFollow @travelcreator.club for the system behind it.",
-          "hashtags": [],
-          "likes": 1464,
-          "comments": 547,
-          "views": null,
-          "timestamp": "2026-07-16T20:45:52.000Z"
         }
       ],
-      "engagementRate": 0.05
+      "engagementRate": 0.06
     },
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 268995317,
+      "followers": 268988990,
       "following": 194,
-      "postsCount": 31813,
+      "postsCount": 31818,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
       "recentPosts": [
         {
@@ -1133,23 +1133,69 @@
           "hashtags": [
             "PompeiiOutOfTime"
           ],
-          "likes": 135989,
-          "comments": 1184,
+          "likes": 137393,
+          "comments": 1193,
           "views": 1208997,
           "timestamp": "2026-06-16T16:00:07.000Z"
         },
         {
-          "id": "3900557621921709539",
-          "url": "https://www.instagram.com/p/DYhkH24lf3j/",
+          "id": "3946070802180599072",
+          "url": "https://www.instagram.com/p/DbDQnzGg-0g/",
           "type": "Video",
-          "caption": "@antoni is on a quest to find the best sights, tastes, and experiences the world has to offer, and you're invited. \n\n#BestOfTheWorld with Antoni Porowski premieres Sunday, June 7 at 9/8c on National Geographic. Stream on @DisneyPlus and @hulu",
+          "caption": "One bite is all it takes for this spider's trap to launch an ant into its web. The newly discovered ballista spider builds a sophisticated spring-loaded silk snare, using a hunting strategy unlike any scientists have documented in a spider before.\n\nLearn more about this arachnid and its prey at the link in bio.\n\nVideo by Ajay Narendra, Macquarie University",
+          "hashtags": [],
+          "likes": 4806,
+          "comments": 45,
+          "views": null,
+          "timestamp": "2026-07-21T10:05:52.000Z"
+        },
+        {
+          "id": "3945582292509963209",
+          "url": "https://www.instagram.com/p/DbBhjDBILPJ/",
+          "type": "Image",
+          "caption": "Several books of the New Testament refer to Jesus' brothers and sisters. Still, interpretations of the original Greek in which the Gospels were written and historical evidence have led to different conclusions about who those relatives were. While some scholars point to census records from Roman Egypt that shed light on family structures at the time, the question of whether Jesus was Mary's only child remains one of Christianity's longest-running debates.\n\nDive deeper into the questions surround",
+          "hashtags": [],
+          "likes": 13677,
+          "comments": 765,
+          "views": null,
+          "timestamp": "2026-07-20T22:00:01.000Z"
+        },
+        {
+          "id": "3945528991478101226",
+          "url": "https://www.instagram.com/p/DbBVbakDrTq/",
+          "type": "Sidecar",
+          "caption": "Photos by @joelsartore | The transparent skin of the sun glass frog gives us an impressive view of the inner workings of this amphibian, with its internal organs, bones, and muscles on full display. The remarkable frogs reside along streams and rivers in the tropical forests of Ecuador, Colombia, and Panama. These photos were taken @centrojambatu. To see more species featured in the Photo Ark, follow me, @joelsartore.  #PhotoArk",
           "hashtags": [
-            "BestOfTheWorld"
+            "PhotoArk"
           ],
-          "likes": 57329,
-          "comments": 882,
-          "views": 914693,
-          "timestamp": "2026-05-19T16:00:09.000Z"
+          "likes": 44342,
+          "comments": 104,
+          "views": null,
+          "timestamp": "2026-07-20T19:00:00.000Z"
+        },
+        {
+          "id": "3945586543553563451",
+          "url": "https://www.instagram.com/p/DbBig6HEks7/",
+          "type": "Video",
+          "caption": "Whether he's in nature or on the dance floor, there's one food @robertirwinphotography never leaves the house without 🥕 \n\nWatch a new episode of #DWTSNextPro tonight at 8/7c on @abc. Stream next day on @DisneyPlus and @hulu.",
+          "hashtags": [
+            "DWTSNextPro"
+          ],
+          "likes": 29163,
+          "comments": 126,
+          "views": null,
+          "timestamp": "2026-07-20T18:03:34.000Z"
+        },
+        {
+          "id": "3943265847717567545",
+          "url": "https://www.instagram.com/p/Da5S2VsIpw5/",
+          "type": "Video",
+          "caption": "One, two paws at a time, this red panda’s brightly colored fur stands out among the greenery as it moves through the branches at the Padmaja Naidu Himalayan Zoo in Darjeeling, India. It’s one of the few mammals that can climb down trees headfirst, using rotating hind feet, curved claws, and a bushy tail for balance.\n\nVideo by Munmun Dhalaria @moonpeakfilms",
+          "hashtags": [],
+          "likes": 14202,
+          "comments": 70,
+          "views": null,
+          "timestamp": "2026-07-17T13:13:12.000Z"
         },
         {
           "id": "3944274671445067768",
@@ -1157,8 +1203,8 @@
           "type": "Image",
           "caption": "Skydiver Gabriel C. Brown crossed the face of the sun in a carefully timed jump over Arizona's Sonoran Desert, giving photographer Andrew McCarthy (@cosmic_background) the chance to capture this remarkable image. To create the surreal backdrop, McCarthy used a modified telescope to reveal the sun's chromosphere, then combined multiple exposures to produce the final photograph.",
           "hashtags": [],
-          "likes": 173085,
-          "comments": 648,
+          "likes": 205884,
+          "comments": 1375,
           "views": null,
           "timestamp": "2026-07-19T13:00:01.000Z"
         },
@@ -1168,8 +1214,8 @@
           "type": "Video",
           "caption": "Some sharks navigate across entire ocean basins, covering distances comparable to Earth's circumference. Hidden within their snouts is the sensory system that helps guide these extraordinary journeys. But some species are adjusting their migrations—National Geographic Explorer Arzucan Askin (@zuzu_askin) explains why.",
           "hashtags": [],
-          "likes": 12571,
-          "comments": 95,
+          "likes": 13443,
+          "comments": 100,
           "views": null,
           "timestamp": "2026-07-18T19:07:39.000Z"
         },
@@ -1182,8 +1228,8 @@
             "Sharkfest",
             "HammerheadSharksUpClose"
           ],
-          "likes": 124451,
-          "comments": 589,
+          "likes": 134009,
+          "comments": 645,
           "views": null,
           "timestamp": "2026-07-18T16:04:43.000Z"
         },
@@ -1193,8 +1239,8 @@
           "type": "Image",
           "caption": "Without ropes or safety gear, Alex Honnold ascended the 3,000-foot (914-meter) southwest face of El Capitan in California’s Yosemite National Park. Director and photographer @jimmychin captured Honnold on the granite wall during the climb, a feat that followed nearly a decade of preparation and was documented in Chin's film Free Solo.\n\nFrom wildlife to wonder, explore more iconic images from the National Geographic archive at the link in bio.",
           "hashtags": [],
-          "likes": 44383,
-          "comments": 318,
+          "likes": 46594,
+          "comments": 350,
           "views": null,
           "timestamp": "2026-07-18T10:04:16.000Z"
         },
@@ -1204,8 +1250,8 @@
           "type": "Image",
           "caption": "During Since, an annual Quechua planting tradition, two farmers in the Peruvian village of Huaylacucho cover each other in corn flour. Photographer and National Geographic Explorer Florence Goupil (@florence.goupil) documented the playful ritual after growing up hearing stories about her grandmother's participation. “It was the first time I was able to see, with my own eyes, what my grandmother’s traditions looked like,” Goupil says.",
           "hashtags": [],
-          "likes": 26859,
-          "comments": 93,
+          "likes": 27743,
+          "comments": 99,
           "views": null,
           "timestamp": "2026-07-17T21:00:01.000Z"
         },
@@ -1215,56 +1261,10 @@
           "type": "Sidecar",
           "caption": "For millennia, treatments for pain have been administered with a one-size-fits-all approach. It wasn’t until recently that experts officially acknowledged one radical truth: Women experience pain differently than men. They’re also more likely to experience chronic pain conditions and don’t respond as well to painkillers like ibuprofen, steroids, and opioids.\n \nSo how can women find relief? Learn more about why women experience pain differently—as well as evolving approaches to treatment—at the l",
           "hashtags": [],
-          "likes": 53364,
-          "comments": 539,
+          "likes": 55863,
+          "comments": 557,
           "views": null,
           "timestamp": "2026-07-17T19:00:01.000Z"
-        },
-        {
-          "id": "3943323864645865897",
-          "url": "https://www.instagram.com/p/Da5gCmKiZGp/",
-          "type": "Video",
-          "caption": "Instead of going in for the kill, this mother orca spins the sea turtle, holds it beneath the surface, and drags it by the flipper as her calf watches on. Researchers examining this footage captured in the Gulf of California believe it may be evidence of teaching, rather than an orca simply playing with her food—especially since orca calves spend a great deal of time by their mothers' side during their infancy.\n\nFind out more about how animals share survival lessons at the link in bio. \n\nVideo b",
-          "hashtags": [],
-          "likes": 47184,
-          "comments": 381,
-          "views": null,
-          "timestamp": "2026-07-17T16:00:05.000Z"
-        },
-        {
-          "id": "3942746327205767191",
-          "url": "https://www.instagram.com/p/Da3cuUgk2gX/",
-          "type": "Sidecar",
-          "caption": "It's estimated that almost 300 species have been saved from extinction by the Endangered Species Act since it took effect in 1973. Established to prohibit the taking, importing, and exporting of endangered wildlife, or harming them by modifying their habitats, it has been revised several times in its history. \n\nThe U.S. government recently proposed four regulatory modifications that could make it easier to consider economic issues when deciding whether and how to protect a species. And now more ",
-          "hashtags": [],
-          "likes": 57347,
-          "comments": 325,
-          "views": null,
-          "timestamp": "2026-07-16T20:00:24.000Z"
-        },
-        {
-          "id": "3942524134119210075",
-          "url": "https://www.instagram.com/p/Da2qM_ElHxb/",
-          "type": "Image",
-          "caption": "While living in a fishing village on Mexico’s Baja California peninsula, photographer @nicolas.hahn noticed that the midday winds pushed all kinds of sea creatures close to shore. During one snorkeling session, he discovered this remarkable scene: a collection of mauve stingers, a type of small bioluminescent jellyfish. Hahn got stung a few times around his mask, but the pain was worth it as his underwater lens captured every last tentacle in astonishing detail.",
-          "hashtags": [],
-          "likes": 22903,
-          "comments": 129,
-          "views": null,
-          "timestamp": "2026-07-16T17:00:01.000Z"
-        },
-        {
-          "id": "3942545505992724004",
-          "url": "https://www.instagram.com/p/Da2vD_Lgk4k/",
-          "type": "Video",
-          "caption": "Don't let their size fool you. Elephants are as graceful as they are massive. 🐘 @joelsartore has so many reasons to love elephants—what's your favorite thing about them?\n\nWe’re celebrating 20 years of the National Geographic #PhotoArk, an audacious project documenting the world's incredible biodiversity and highlighting the importance of conservation through photography. Which animal do you want to see next?",
-          "hashtags": [
-            "PhotoArk,"
-          ],
-          "likes": 28046,
-          "comments": 188,
-          "views": null,
-          "timestamp": "2026-07-16T13:21:46.000Z"
         }
       ],
       "engagementRate": 0.02
@@ -1272,9 +1272,9 @@
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10814674,
+      "followers": 10814788,
       "following": 416,
-      "postsCount": 7493,
+      "postsCount": 7494,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
       "recentPosts": [
         {
@@ -1287,10 +1287,25 @@
             "DavidAttenborough",
             "BluePlanetIII"
           ],
-          "likes": 833302,
-          "comments": 3772,
+          "likes": 835733,
+          "comments": 3782,
           "views": 3580518,
           "timestamp": "2026-05-08T21:07:02.000Z"
+        },
+        {
+          "id": "3945534865576145546",
+          "url": "https://www.instagram.com/p/DbBWw5PlbKK/",
+          "type": "Video",
+          "caption": "How do you attract a female? 🦌🦕\n\nThe most attractive are usually the biggest and hairiest with prominent features. In reproduction, they pass their genes to the next generation, who inherit more exaggerated attributes. Over millions of years, animal traits modify for better mating chances.\n\nFind out where to watch Evolution via the link in our bio 🔗💚\n\n#Evolution #ChrisPackham #Nature",
+          "hashtags": [
+            "Evolution",
+            "ChrisPackham",
+            "Nature"
+          ],
+          "likes": 3245,
+          "comments": 25,
+          "views": null,
+          "timestamp": "2026-07-20T16:30:32.000Z"
         },
         {
           "id": "3944742049679615215",
@@ -1303,8 +1318,8 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 6007,
-          "comments": 22,
+          "likes": 7061,
+          "comments": 23,
           "views": null,
           "timestamp": "2026-07-19T14:05:05.000Z"
         },
@@ -1318,8 +1333,8 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 8076,
-          "comments": 69,
+          "likes": 8776,
+          "comments": 74,
           "views": null,
           "timestamp": "2026-07-18T14:01:33.000Z"
         },
@@ -1333,8 +1348,8 @@
             "Wildlife",
             "Nature"
           ],
-          "likes": 6662,
-          "comments": 36,
+          "likes": 6857,
+          "comments": 39,
           "views": null,
           "timestamp": "2026-07-16T15:00:05.000Z"
         },
@@ -1349,8 +1364,8 @@
             "JaneGoodall",
             "Nature"
           ],
-          "likes": 29337,
-          "comments": 153,
+          "likes": 29776,
+          "comments": 154,
           "views": null,
           "timestamp": "2026-07-14T08:00:02.000Z"
         },
@@ -1364,8 +1379,8 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 4791,
-          "comments": 35,
+          "likes": 4877,
+          "comments": 36,
           "views": null,
           "timestamp": "2026-07-13T13:10:22.000Z"
         },
@@ -1380,8 +1395,8 @@
             "BearCub",
             "Salmon"
           ],
-          "likes": 6307,
-          "comments": 35,
+          "likes": 6401,
+          "comments": 36,
           "views": null,
           "timestamp": "2026-07-12T14:05:06.000Z"
         },
@@ -1396,8 +1411,8 @@
             "Wildlife",
             "Nature"
           ],
-          "likes": 37761,
-          "comments": 185,
+          "likes": 38149,
+          "comments": 186,
           "views": null,
           "timestamp": "2026-07-10T15:30:04.000Z"
         },
@@ -1412,8 +1427,8 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 27616,
-          "comments": 363,
+          "likes": 28131,
+          "comments": 368,
           "views": 30831,
           "timestamp": "2026-07-08T14:29:04.000Z"
         },
@@ -1427,7 +1442,7 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 3596,
+          "likes": 3617,
           "comments": 23,
           "views": 21333,
           "timestamp": "2026-07-07T13:00:51.000Z"
@@ -1442,37 +1457,22 @@
             "Wimbeldon",
             "RacketSport"
           ],
-          "likes": 6336,
+          "likes": 6357,
           "comments": 23,
           "views": 150187,
           "timestamp": "2026-07-05T14:00:06.000Z"
-        },
-        {
-          "id": "3933057303335655690",
-          "url": "https://www.instagram.com/p/DaVBsd2k9kK/",
-          "type": "Video",
-          "caption": "Evolution: Official Trailer \n \nUncover the 4-billion-year story behind five iconic animals, from their simple origins to the complex creatures we see today. Chris Packham embarks on a series of adventures through deep time, revealing how evolution shaped them in the most surprising ways.\n \nFind out where to watch via the link in our bio 🔗💚\n\n#Evolution #ChrisPackham #Nature",
-          "hashtags": [
-            "Evolution",
-            "ChrisPackham",
-            "Nature"
-          ],
-          "likes": 22605,
-          "comments": 217,
-          "views": 146174,
-          "timestamp": "2026-07-03T13:02:03.000Z"
         }
       ],
-      "engagementRate": 0.77
+      "engagementRate": 0.76
     }
   ],
   "ideas": [
     {
       "title": "Retiring Years Chance",
-      "rationale": "Inspired by @bbcearth's post (833302 likes, 3772 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (835733 likes, 3782 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 833302,
-      "comments": 3772,
+      "likes": 835733,
+      "comments": 3782,
       "tags": [
         "DavidAttenborough100",
         "DavidAttenborough",
@@ -1481,67 +1481,67 @@
     },
     {
       "title": "Skydiver Gabriel Brown",
-      "rationale": "Inspired by @natgeo's post (173085 likes, 648 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (205884 likes, 1375 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 173085,
-      "comments": 648,
+      "likes": 205884,
+      "comments": 1375,
       "tags": []
     },
     {
       "title": "There Story Pompeii",
-      "rationale": "Inspired by @natgeo's post (135989 likes, 1184 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (137393 likes, 1193 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 135989,
-      "comments": 1184,
+      "likes": 137393,
+      "comments": 1193,
       "tags": [
         "PompeiiOutOfTime"
       ]
     },
     {
       "title": "Still Turtle Taurus",
-      "rationale": "Inspired by @natgeo's post (124451 likes, 589 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (134009 likes, 645 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 124451,
-      "comments": 589,
+      "likes": 134009,
+      "comments": 645,
       "tags": [
         "Sharkfest",
         "HammerheadSharksUpClose"
       ]
     },
     {
-      "title": "Antoni Quest Sights",
-      "rationale": "Inspired by @natgeo's post (57329 likes, 882 comments) — adapt the angle for @quietlystrange09.",
+      "title": "Millennia Treatments Administered",
+      "rationale": "Inspired by @natgeo's post (55863 likes, 557 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 57329,
-      "comments": 882,
+      "likes": 55863,
+      "comments": 557,
+      "tags": []
+    },
+    {
+      "title": "Without Ropes Safety",
+      "rationale": "Inspired by @natgeo's post (46594 likes, 350 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "natgeo",
+      "likes": 46594,
+      "comments": 350,
+      "tags": []
+    },
+    {
+      "title": "Photos Joelsartore Transparent",
+      "rationale": "Inspired by @natgeo's post (44342 likes, 104 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "natgeo",
+      "likes": 44342,
+      "comments": 104,
       "tags": [
-        "BestOfTheWorld"
+        "PhotoArk"
       ]
     },
     {
-      "title": "Estimated Almost Species",
-      "rationale": "Inspired by @natgeo's post (57347 likes, 325 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 57347,
-      "comments": 325,
-      "tags": []
-    },
-    {
-      "title": "Millennia Treatments Administered",
-      "rationale": "Inspired by @natgeo's post (53364 likes, 539 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 53364,
-      "comments": 539,
-      "tags": []
-    },
-    {
-      "title": "Instead Going Mother",
-      "rationale": "Inspired by @natgeo's post (47184 likes, 381 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 47184,
-      "comments": 381,
+      "title": "Parts Japan Visitors",
+      "rationale": "Inspired by @earthpix's post (39447 likes, 166 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "earthpix",
+      "likes": 39447,
+      "comments": 166,
       "tags": []
     }
   ],
-  "featuredIdeaIndex": 1
+  "featuredIdeaIndex": 2
 }
