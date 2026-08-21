@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:10:04.515Z",
+  "generatedAt": "2026-08-21T04:11:42.656Z",
   "source": "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)",
   "own": {
     "handle": "quietlystrange09",
@@ -189,20 +189,31 @@
     {
       "handle": "kurzgesagt",
       "fullName": "Kurzgesagt - In a nutshell",
-      "followers": 1603874,
+      "followers": 1603914,
       "following": 694,
-      "postsCount": 2331,
+      "postsCount": 2332,
       "bio": "Sciency videos made with love, a lot of time and after effects.\nLinks to our videos, shop, website & more:",
       "recentPosts": [
+        {
+          "id": "3967929903287168637",
+          "url": "https://www.instagram.com/p/DcQ6zlbFO59/",
+          "type": "Video",
+          "caption": "Sometimes we feel like these rockets are observing us more than we are observing them.\n\nObserve and explore this and many more asteroids in Star Birds, which we developed together with our friends at @toukana_interactive! Get it now in Early Access on Steam!",
+          "hashtags": [],
+          "likes": 1278,
+          "comments": 4,
+          "views": 7133,
+          "timestamp": "2026-08-20T14:01:10.000Z"
+        },
         {
           "id": "3966482742528470457",
           "url": "https://www.instagram.com/p/DcLxwn8IG25/",
           "type": "Video",
           "caption": "POV: You're a chicken with bird flu. \nYour mission: Infect EVERYONE. Can you do it? 🐔",
           "hashtags": [],
-          "likes": 7705,
-          "comments": 51,
-          "views": 71085,
+          "likes": 8474,
+          "comments": 52,
+          "views": 78382,
           "timestamp": "2026-08-18T14:00:12.000Z"
         },
         {
@@ -211,7 +222,7 @@
           "type": "Sidecar",
           "caption": "Introducing The Cosmic Expedition: our free loyalty program in which every purchase earns you XP (Expedition Points). Collect enough and you’ll unlock discounts, exclusive products, insider access, and more! Climb the ranks from Space Cadet to Cosmic Pioneer to the *almighty* Voidwalker. The higher you go, the better the perks get.\n\nSign up today and earn your first 100 points! \nYour Cosmic Expedition starts now!",
           "hashtags": [],
-          "likes": 1394,
+          "likes": 1410,
           "comments": 8,
           "views": null,
           "timestamp": "2026-08-14T14:02:01.000Z"
@@ -222,7 +233,7 @@
           "type": "Image",
           "caption": "Has anyone heard back from him yet?",
           "hashtags": [],
-          "likes": 12230,
+          "likes": 12572,
           "comments": 63,
           "views": null,
           "timestamp": "2026-08-11T14:01:59.000Z"
@@ -233,9 +244,9 @@
           "type": "Video",
           "caption": "Would you want to live to 120? It’s more possible than ever! By 2080, we’ll see hundreds of thousands of super-centenarians. Could you be one of them?",
           "hashtags": [],
-          "likes": 7396,
+          "likes": 7508,
           "comments": 63,
-          "views": 68877,
+          "views": 69916,
           "timestamp": "2026-08-10T14:00:13.000Z"
         },
         {
@@ -244,9 +255,9 @@
           "type": "Video",
           "caption": "When you know you're going to have to squeeze at least 5 pipes crossing the Plateau Ramp. 😅\n\nOur birbs are ready for you to join them on this space journey! Star Birds, which we created together with our friends at @toukana_interactive, is available in Early Access on Steam!",
           "hashtags": [],
-          "likes": 1799,
+          "likes": 1816,
           "comments": 8,
-          "views": 20790,
+          "views": 20994,
           "timestamp": "2026-08-08T14:02:12.000Z"
         },
         {
@@ -255,9 +266,9 @@
           "type": "Video",
           "caption": "The flu is often dismissed as just a bad cold, yet it still kills hundreds of thousands of people every year. Here's how influenza damages your body, why it can become deadly, and what it would take to save many more lives.",
           "hashtags": [],
-          "likes": 4569,
-          "comments": 19,
-          "views": 34497,
+          "likes": 4599,
+          "comments": 20,
+          "views": 34735,
           "timestamp": "2026-08-07T14:00:12.000Z"
         },
         {
@@ -266,8 +277,8 @@
           "type": "Image",
           "caption": "After exploring most of Earth, venturing into space and exploring other planets, stars and galaxies seemed like an exciting, and even obvious next step. But the deeper we look, the more the universe reveals a hidden barrier between our Solar System and everything else around it. From the vast empty space, to the laws of physics themselves, there are many reasons why the dream of space travel might stay just a dream.\n\nWhat is stopping us from reaching the stars? Why does space become more dangero",
           "hashtags": [],
-          "likes": 4515,
-          "comments": 15,
+          "likes": 4523,
+          "comments": 17,
           "views": null,
           "timestamp": "2026-08-05T14:01:41.000Z"
         },
@@ -277,7 +288,7 @@
           "type": "Sidecar",
           "caption": "✨ It’s here: The LIMITED EDITION Vanishing Stars Pin ✨\nThe second pin in our Cosmic Time Collection, celebrating phenomena that take place beyond our human timelines.\n\nAll the light in the Universe will eventually go extinct. How lucky you are to exist right now, in a brief and extraordinary moment in time when the Universe is still filled with stars and light, and when so much is still left to discover!\nTilt this animated, lenticular pin to watch the stars slowly vanish, a tiny reminder that ev",
           "hashtags": [],
-          "likes": 2119,
+          "likes": 2120,
           "comments": 6,
           "views": null,
           "timestamp": "2026-08-04T14:01:31.000Z"
@@ -288,7 +299,7 @@
           "type": "Image",
           "caption": "In Renaissance Europe, science was being transformed into a practice anyone could participate in and even enjoy. The field of astronomy grew rapidly as new instruments were crafted to make discoveries, as you can see on the August page of our 12,026 Human Era calendar. That is when champions like Tycho Brahe, an eccentric man with a metal nose, achieved notoriety by throwing astronomy parties and collecting great volumes of star data that we still use today.",
           "hashtags": [],
-          "likes": 5244,
+          "likes": 5250,
           "comments": 11,
           "views": null,
           "timestamp": "2026-08-02T14:00:27.000Z"
@@ -299,9 +310,9 @@
           "type": "Video",
           "caption": "Take a journey through the cosmos with us: Explore the vastness of our Solar System, the Milky Way, and beyond. From the Oort cloud to the Laniakea Supercluster, discover just how tiny we are in the grand scheme of the universe.",
           "hashtags": [],
-          "likes": 10576,
+          "likes": 10587,
           "comments": 42,
-          "views": 61888,
+          "views": 61943,
           "timestamp": "2026-08-01T14:30:03.000Z"
         },
         {
@@ -310,24 +321,13 @@
           "type": "Image",
           "caption": "YouTube’s AI Detection Kicked Us in the Face\n\nEvery creator's worst nightmare just happened to us: The YouTube algorithm actually blocked us. It started slowly at first. Some videos started showing strange view fluctuations. Our second to last video did very badly, but this just happens sometimes, so we didn’t think that much about it. \n\nBut then our last video, about Superpredators, did *extremely* badly. It was our worst upload since 2013. But it did badly in a weird way: Almost every single m",
           "hashtags": [],
-          "likes": 37210,
+          "likes": 37328,
           "comments": 253,
           "views": null,
           "timestamp": "2026-07-31T14:01:58.000Z"
-        },
-        {
-          "id": "3950553059907841483",
-          "url": "https://www.instagram.com/p/DbTLxO6I63L/",
-          "type": "Video",
-          "caption": "Your brain peaked at birth. Babies may seem helpless, but their brains are incredible learning machines. They can hear sounds from any language, recognize faces adults can't, and build millions of neural connections every second!",
-          "hashtags": [],
-          "likes": 13670,
-          "comments": 69,
-          "views": 54521,
-          "timestamp": "2026-07-27T14:30:12.000Z"
         }
       ],
-      "engagementRate": 0.57
+      "engagementRate": 0.51
     },
     {
       "handle": "spacefacts.ig",
@@ -977,11 +977,77 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22400963,
+      "followers": 22399102,
       "following": 36,
-      "postsCount": 11449,
+      "postsCount": 11454,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
       "recentPosts": [
+        {
+          "id": "3968174235990470166",
+          "url": "https://www.instagram.com/p/DcRyXF_Ea4W/",
+          "type": "Video",
+          "caption": "@joe_masini experienced true Italian hospitality firsthand. ⁠\nA warm welcome, local kindness, and thoughtful gestures are what turn a simple Airbnb stay into an unforgettable memory.⁠\n⁠\nCan you think of a better way to arrive at your accommodation?",
+          "hashtags": [],
+          "likes": 4635,
+          "comments": 21,
+          "views": 128598,
+          "timestamp": "2026-08-20T22:03:05.000Z"
+        },
+        {
+          "id": "3968143764422878625",
+          "url": "https://www.instagram.com/p/DcRrbrIG2Wh/",
+          "type": "Sidecar",
+          "caption": "People actually live on these narrow strips of land in the Netherlands, with water on both sides of their homes.⁠\n⁠\nThe unusual landscape of the Loosdrecht Lakes dates back centuries, when peat was dug from the wetlands and used as fuel. The long strips between the trenches were left behind as the peat dried, while the excavated areas slowly filled with water and became the lakes we see today.⁠\n⁠\nSome of these narrow strips survived, and homes were later built along them. Today, the area is know",
+          "hashtags": [],
+          "likes": 4828,
+          "comments": 38,
+          "views": null,
+          "timestamp": "2026-08-20T21:00:24.000Z"
+        },
+        {
+          "id": "3968113466113110433",
+          "url": "https://www.instagram.com/p/DcRkixoHbGh/",
+          "type": "Video",
+          "caption": "Did you know that some of the most famous fruit sorbets in Paris are served inside their original fruit shells and peels?⁠\n⁠\nMade with fresh fruit pulp and water, these colorful desserts keep the natural shape and flavor of the fruit, creating a simple yet unforgettable treat.⁠\n⁠\nHow hungry did this make you? 🤤⁠\n🎥: @jacksdiningroom",
+          "hashtags": [],
+          "likes": 7885,
+          "comments": 98,
+          "views": 181008,
+          "timestamp": "2026-08-20T20:03:06.000Z"
+        },
+        {
+          "id": "3968083436456928543",
+          "url": "https://www.instagram.com/p/DcRdtyVIGUf/",
+          "type": "Sidecar",
+          "caption": "Nature has a way of tricking the eye.⁠\n⁠\nAt first glance, some places don’t even look real. Light, minerals, weather, and time all come together to create scenes that feel more like illusions than real landscapes.⁠\n⁠\nBut nothing here is edited. It’s just nature doing what it does best in the most unexpected way.⁠\n⁠\nBy: Shelter, @1ishome zensunni_wanderers @cedricletsch",
+          "hashtags": [],
+          "likes": 3969,
+          "comments": 11,
+          "views": null,
+          "timestamp": "2026-08-20T19:00:33.000Z"
+        },
+        {
+          "id": "3968053394434856852",
+          "url": "https://www.instagram.com/p/DcRW4nhEpeU/",
+          "type": "Video",
+          "caption": "@roosmarijn.malmberg showed us a rare glimpse into the fascinating world of a conch. 🐚 ⁠\n⁠\nFun fact: conchs are actually giant sea snails, and that incredible spiral shell can take several years to fully grow. ⁠\n⁠\nThis is a unique look at one of the ocean’s most interesting creatures! ⁠\n⁠\nHave you ever tasted conch before?",
+          "hashtags": [],
+          "likes": 26941,
+          "comments": 564,
+          "views": 1125315,
+          "timestamp": "2026-08-20T18:03:08.000Z"
+        },
+        {
+          "id": "3968023123271104776",
+          "url": "https://www.instagram.com/p/DcRQAHTHDkI/",
+          "type": "Sidecar",
+          "caption": "This tiny frog looks almost too delicate to be real. 🐸⁠\n⁠\nGlass frogs get their name from their translucent skin, which can make parts of their bodies, including their internal organs, visible from below.⁠\n⁠\nFound in the forests of Central and South America, these remarkable frogs are usually small, green, and spend much of their time high in the trees.⁠\nBut when you look underneath one, you can see exactly why they earned the name “glass frog.”⁠\n⁠\nBy: @tomas_malco_malik @zmachacek6710 @el_mont",
+          "hashtags": [],
+          "likes": 2084,
+          "comments": 13,
+          "views": null,
+          "timestamp": "2026-08-20T17:00:43.000Z"
+        },
         {
           "id": "3967548341186450946",
           "url": "https://www.instagram.com/p/DcPkDIBm9YC/",
@@ -990,8 +1056,8 @@
           "hashtags": [
             "lovablepartner"
           ],
-          "likes": 461,
-          "comments": 81,
+          "likes": 1215,
+          "comments": 128,
           "views": null,
           "timestamp": "2026-08-20T01:17:20.000Z"
         },
@@ -1001,8 +1067,8 @@
           "type": "Sidecar",
           "caption": "Villa Yum Kaax is not just a place to stay. Located in the Mayan jungle near Tulum, the villa also hosts weddings, wellness retreats, private celebrations, and other special gatherings.⁠\n⁠\nBetween the jungle setting, rooftop infinity pool, and beautifully designed spaces, it offers a pretty unique setting for bringing people together.⁠\n⁠\nBy: @yum.kaax.tulum",
           "hashtags": [],
-          "likes": 440,
-          "comments": 2,
+          "likes": 1062,
+          "comments": 12,
           "views": null,
           "timestamp": "2026-08-19T23:03:51.000Z"
         },
@@ -1012,9 +1078,9 @@
           "type": "Video",
           "caption": "The best travel memories often happen away from the crowded tourist spots. ✨⁠\nFrom hidden trails and small local cafés to unexpected conversations with people along the way, experiencing a destination like a local reveals a side of a place that guidebooks can’t always show.⁠\n⁠\n🎥: @indirakunwar_",
           "hashtags": [],
-          "likes": 858,
-          "comments": 3,
-          "views": 38379,
+          "likes": 2045,
+          "comments": 7,
+          "views": 87901,
           "timestamp": "2026-08-19T22:03:08.000Z"
         },
         {
@@ -1023,8 +1089,8 @@
           "type": "Sidecar",
           "caption": "For more than 200 years, Hotel Danieli has been part of Venice’s story.⁠\nThe building began as Palazzo Dandolo, a historic Venetian palace, before Giuseppe Dal Niel transformed it into a hotel in 1822. ⁠\n⁠\nSince then, it has welcomed travelers from around the world and become one of the city’s best-known addresses.⁠\n⁠\nAfter an extensive restoration, the hotel has now reopened as Hotel Danieli, Venezia, A Four Seasons Hotel, with its historic character preserved alongside new rooms, restaurants, ",
           "hashtags": [],
-          "likes": 3813,
-          "comments": 30,
+          "likes": 10690,
+          "comments": 55,
           "views": null,
           "timestamp": "2026-08-19T21:03:40.000Z"
         },
@@ -1034,9 +1100,9 @@
           "type": "Video",
           "caption": "A piece of Hong Kong history is saying goodbye.⁠\n@timmy727 showed us Yuen Wah Bing Sat, a beloved local café that has been serving Hong Kong-style food and drinks since the 1960s and is closing its doors this year.⁠\n⁠\nKnown for its nostalgic atmosphere and traditional flavors, it represents a disappearing part of Hong Kong’s café culture.⁠\n⁠\nIf you want to experience this iconic spot before it’s gone, now is the time.",
           "hashtags": [],
-          "likes": 1698,
-          "comments": 5,
-          "views": 50143,
+          "likes": 2880,
+          "comments": 10,
+          "views": 89423,
           "timestamp": "2026-08-19T20:03:08.000Z"
         },
         {
@@ -1045,86 +1111,20 @@
           "type": "Sidecar",
           "caption": "More than 200 million years ago, a forest stood where Arizona’s desert exists today.⁠\n⁠\nOver time, fallen trees were buried under layers of sediment, and minerals slowly replaced the wood, preserving them as stone. Today, Petrified Forest National Park protects one of the world’s largest collections of petrified wood, with some pieces still showing the original tree rings and patterns.⁠\n⁠\nBeyond the ancient forest, the park is also home to colorful badlands, fossil discoveries, ancestral Puebloa",
           "hashtags": [],
-          "likes": 3023,
-          "comments": 25,
+          "likes": 4803,
+          "comments": 46,
           "views": null,
           "timestamp": "2026-08-19T19:00:36.000Z"
-        },
-        {
-          "id": "3967328672885580576",
-          "url": "https://www.instagram.com/p/DcOyGh-kSMg/",
-          "type": "Video",
-          "caption": "The Australian giant cuttlefish (Sepia apama), known for its incredible ability to change colors, patterns, and even textures.⁠\n⁠\nFound in Australian waters, these intelligent animals use their mesmerizing displays for communication, camouflage, and attracting mates.⁠\nA true underwater masterpiece that looks almost too magical to be real.⁠\n⁠\n🎥: @jovlogsss",
-          "hashtags": [],
-          "likes": 4145,
-          "comments": 16,
-          "views": 102611,
-          "timestamp": "2026-08-19T18:03:15.000Z"
-        },
-        {
-          "id": "3967298382251901296",
-          "url": "https://www.instagram.com/p/DcOrNvoG0Fw/",
-          "type": "Sidecar",
-          "caption": "Shima-enaga is easy to recognize by its round body, bright white face, and soft feathers that give it an almost cloud-like appearance. It lives in the forests of Hokkaido, where it travels in small flocks and rarely stays in one place for long.⁠\n⁠\nIts gentle appearance earned it the nickname \"snow fairy,\" making it a favorite among bird photographers and wildlife lovers alike.⁠\n⁠\nBy: @y.odamon Alan Aprilio⁠",
-          "hashtags": [],
-          "likes": 6637,
-          "comments": 18,
-          "views": null,
-          "timestamp": "2026-08-19T17:00:47.000Z"
-        },
-        {
-          "id": "3966724300631599113",
-          "url": "https://www.instagram.com/p/DcMorwdDmgJ/",
-          "type": "Video",
-          "caption": "This fruit might look unusual, but it’s definitely worth trying. 🍈⁠\n⁠\n Granadilla, an exotic fruit native to South America and especially popular in Peru. With its unique appearance and jelly-like texture, it may seem surprising at first, but it has a sweet and refreshing flavor.⁠\nWould you give it a taste? ⁠\n⁠\n🎥: @twopackstravel",
-          "hashtags": [],
-          "likes": 10120,
-          "comments": 749,
-          "views": 931833,
-          "timestamp": "2026-08-18T22:03:06.000Z"
-        },
-        {
-          "id": "3966695696039967047",
-          "url": "https://www.instagram.com/p/DcMiLgWiHlH/",
-          "type": "Sidecar",
-          "caption": "There’s a tiny bookstore in Sokcho, South Korea, where you can buy a book and read it right by the sea.⁠\n⁠\n3 Feet Bookstore is a blue three-wheeled truck parked beside the beach. Buy a book, and you can borrow a chair or mat, then settle down on the beach and read with the sound of the waves around you. ⁠\n⁠\nThe bookstore only opens during the season for outdoor reading.⁠\n⁠\nBy: @3feet_bookstore",
-          "hashtags": [],
-          "likes": 8983,
-          "comments": 28,
-          "views": null,
-          "timestamp": "2026-08-18T21:03:39.000Z"
-        },
-        {
-          "id": "3966663887453729030",
-          "url": "https://www.instagram.com/p/DcMa8oTDLEG/",
-          "type": "Video",
-          "caption": "A unique experience in Seville, Spain, where tradition meets sweetness. 🍪✨⁠\nA hidden gem where visitors can enjoy delicious cookies made by nuns, following recipes and baking traditions passed down through generations.⁠\n⁠\n⁠\n🎥: @mollysnutrition",
-          "hashtags": [],
-          "likes": 4409,
-          "comments": 29,
-          "views": 172402,
-          "timestamp": "2026-08-18T20:03:08.000Z"
-        },
-        {
-          "id": "3966634181530950327",
-          "url": "https://www.instagram.com/p/DcMUMWgExq3/",
-          "type": "Sidecar",
-          "caption": "There’s an infinite lavender field in Valensole, where rows of purple stretch across the countryside as far as the eye can see.⁠\n⁠\nThe Plateau de Valensole is one of the most famous lavender-growing areas in Provence, covering around 800 square kilometers. When the fields are in bloom, the landscape turns into a sea of purple, with the scent of lavender filling the air.⁠\n⁠\nWould you visit during lavender season?⁠\n⁠\nBy: @le_sixieme_reve AXP Photography @tang.jan @spring_pix @martysanchezz",
-          "hashtags": [],
-          "likes": 6110,
-          "comments": 39,
-          "views": null,
-          "timestamp": "2026-08-18T19:01:08.000Z"
         }
       ],
-      "engagementRate": 0.02
+      "engagementRate": 0.03
     },
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 268740594,
+      "followers": 268736664,
       "following": 194,
-      "postsCount": 31908,
+      "postsCount": 31911,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
       "recentPosts": [
         {
@@ -1135,9 +1135,9 @@
           "hashtags": [
             "NatGeoLION,"
           ],
-          "likes": 204022,
-          "comments": 1338,
-          "views": 955581,
+          "likes": 204737,
+          "comments": 1361,
+          "views": 961262,
           "timestamp": "2026-08-06T14:00:02.000Z"
         },
         {
@@ -1148,10 +1148,45 @@
           "hashtags": [
             "PompeiiOutOfTime"
           ],
-          "likes": 24944,
-          "comments": 255,
-          "views": 48404,
+          "likes": 25043,
+          "comments": 256,
+          "views": 49260,
           "timestamp": "2026-07-23T13:00:03.000Z"
+        },
+        {
+          "id": "3968083204082171994",
+          "url": "https://www.instagram.com/p/DcRdqZ6gwBa/",
+          "type": "Video",
+          "caption": "Filming wildlife in the rainforest canopy after dark is no easy feat, especially when the animals are small, elusive, and on the move. But from platforms high in the trees, researchers are using thermal binoculars to capture extended, close-up footage of certain nocturnal species in the rainforests of Panama and Peru.\n\nDiscover what scientists are finding in the rainforest canopy after dark at the link in bio. \n\nVideo by Trevor and Lucy Hughes",
+          "hashtags": [],
+          "likes": 5692,
+          "comments": 105,
+          "views": 404570,
+          "timestamp": "2026-08-20T19:00:33.000Z"
+        },
+        {
+          "id": "3967932264797663541",
+          "url": "https://www.instagram.com/p/DcQ7V8wE3E1/",
+          "type": "Video",
+          "caption": "Witness the rise of a king. 🦁\n\n#NatGeoLION is now streaming on @DisneyPlus and @hulu.",
+          "hashtags": [
+            "NatGeoLION"
+          ],
+          "likes": 34265,
+          "comments": 155,
+          "views": 189068,
+          "timestamp": "2026-08-20T14:00:35.000Z"
+        },
+        {
+          "id": "3967417169806889135",
+          "url": "https://www.instagram.com/p/DcPGOVKIBCv/",
+          "type": "Image",
+          "caption": "Coiled around a tree branch in the Democratic Republic of the Congo, this highly venomous bush viper (Atheris hispida) was photographed by National Geographic Explorer @thomas.nicolon. Though more than 30,000 people in sub-Saharan Africa die from venomous snakebites each year, it is believed that the number may be double due to unrecorded deaths.\n\nSee more Photos of the Day at the link in bio.",
+          "hashtags": [],
+          "likes": 42769,
+          "comments": 248,
+          "views": null,
+          "timestamp": "2026-08-20T10:00:01.000Z"
         },
         {
           "id": "3967444338394280510",
@@ -1159,8 +1194,8 @@
           "type": "Image",
           "caption": "When it comes to weight management, we usually think about diet and exercise, but researchers are finding that sleep may play a bigger role than many people realize. With nearly 35 percent of Americans getting less than seven hours of rest a night, experts are trying to understand what prolonged sleep loss could mean for weight over time. \n\nLearn how sleep can affect your weight at the link in bio. \n\nPhotograph by Rebecca Hale (@beckythale)",
           "hashtags": [],
-          "likes": 3441,
-          "comments": 38,
+          "likes": 11312,
+          "comments": 98,
           "views": null,
           "timestamp": "2026-08-20T01:00:02.000Z"
         },
@@ -1173,9 +1208,9 @@
             "NatGeoCollab",
             "NatGeoLION"
           ],
-          "likes": 6985,
-          "comments": 63,
-          "views": 155927,
+          "likes": 16122,
+          "comments": 109,
+          "views": 478535,
           "timestamp": "2026-08-19T22:58:34.000Z"
         },
         {
@@ -1184,9 +1219,9 @@
           "type": "Video",
           "caption": "Electric eels can produce shocks of up to 860 volts, generated by organs that take up most of their bodies. And despite their name and appearance, they aren’t actually eels. Learn more about electric eels with five surprising facts. ⚡️",
           "hashtags": [],
-          "likes": 10514,
-          "comments": 76,
-          "views": 185672,
+          "likes": 22657,
+          "comments": 137,
+          "views": 436931,
           "timestamp": "2026-08-19T22:01:52.000Z"
         },
         {
@@ -1195,9 +1230,9 @@
           "type": "Video",
           "caption": "Giraffes may have more going for them besides their impressive height. 🦒\n\nIn a cognitive test, some giraffes successfully determined which sealed container held the larger total of carrots after more were added. The findings suggest these mammals may have strong numerical abilities that, while difficult to compare directly, could exceed those reported for dogs, horses, and zebrafish in similar studies. Researchers are now exploring what those abilities could reveal about giraffes in the wild.\n\n",
           "hashtags": [],
-          "likes": 14908,
-          "comments": 89,
-          "views": 782051,
+          "likes": 22115,
+          "comments": 114,
+          "views": 1280571,
           "timestamp": "2026-08-19T16:00:04.000Z"
         },
         {
@@ -1208,9 +1243,9 @@
           "hashtags": [
             "BestOfTheWorld"
           ],
-          "likes": 6754,
-          "comments": 67,
-          "views": 398070,
+          "likes": 7146,
+          "comments": 71,
+          "views": 434308,
           "timestamp": "2026-08-18T13:00:02.000Z"
         },
         {
@@ -1219,8 +1254,8 @@
           "type": "Sidecar",
           "caption": "What are you willing to give up for a longer life? To accompany our September cover story on cutting-edge longevity research, National Geographic commissioned a survey of 1,000 U.S. adults to understand what they really think about growing old. Respondents were directed to select all answers that apply. The results speak for themselves—revealing whether Americans prioritize quality of life over length and if the idea of a society where people live to 150 is really for everyone.\n\nFind out more at",
           "hashtags": [],
-          "likes": 15070,
-          "comments": 339,
+          "likes": 15860,
+          "comments": 358,
           "views": null,
           "timestamp": "2026-08-18T11:05:00.000Z"
         },
@@ -1230,45 +1265,10 @@
           "type": "Image",
           "caption": "Doctors now have a new way to treat patients with rheumatoid arthritis: an implanted device that uses electricity instead of medication. Designed to stimulate the vagus nerve, the device activates a neural circuit that helps regulate the inflammation behind the disease. It’s a milestone for bioelectronic medicine, and researchers are already testing how targeting the nervous system could change the treatment of other chronic conditions.\n\nLearn more at the link in bio.\n\nPhotograph by @balaramahel",
           "hashtags": [],
-          "likes": 8963,
-          "comments": 163,
+          "likes": 9249,
+          "comments": 168,
           "views": null,
           "timestamp": "2026-08-17T19:00:01.000Z"
-        },
-        {
-          "id": "3965829775286661353",
-          "url": "https://www.instagram.com/p/DcJdSszoPDp/",
-          "type": "Sidecar",
-          "caption": "A Kermode bear in British Columbia’s Great Bear Rainforest, spotted jellyfish in Southeast Asia's \"Coral Triangle,\" and a blessing of narwhals near Canada's Baffin Island are just some of the many encounters photographer @paulnicklen has captured during his time behind the camera. His new book, Reverence, features wildlife across land and sea while drawing attention to the biodiversity the planet continues to lose. For Nicklen, despite what has been lost, there is still much worth fighting for.\n",
-          "hashtags": [],
-          "likes": 50343,
-          "comments": 130,
-          "views": null,
-          "timestamp": "2026-08-17T17:00:02.000Z"
-        },
-        {
-          "id": "3965246150902228997",
-          "url": "https://www.instagram.com/p/DcHYl2PgygF/",
-          "type": "Video",
-          "caption": "For one quiet moment on Alaska's Ninagiak Island, nothing else matters 🍃\n\n#NationalParksUSA is streaming on @DisneyPlus.",
-          "hashtags": [
-            "NationalParksUSA"
-          ],
-          "likes": 59391,
-          "comments": 265,
-          "views": 403060,
-          "timestamp": "2026-08-16T21:03:49.000Z"
-        },
-        {
-          "id": "3964587522005034515",
-          "url": "https://www.instagram.com/p/DcFC1iSDmYT/",
-          "type": "Image",
-          "caption": "Skip the transatlantic flight and explore cities that feel like Europe across the U.S. With historic architecture and European-inspired streets and neighborhoods, these destinations offer travelers the same charm—without the added flight hours. \n\nSee which six U.S. cities feel like Europe at the link in bio.\n\nPhotograph by Joe Daniel Price, Getty Images",
-          "hashtags": [],
-          "likes": 19560,
-          "comments": 850,
-          "views": null,
-          "timestamp": "2026-08-16T13:30:01.000Z"
         }
       ],
       "engagementRate": 0.01
@@ -1276,7 +1276,7 @@
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10839316,
+      "followers": 10839438,
       "following": 415,
       "postsCount": 7512,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
@@ -1291,9 +1291,9 @@
             "DavidAttenborough",
             "BluePlanetIII"
           ],
-          "likes": 895481,
-          "comments": 3971,
-          "views": 3757844,
+          "likes": 895521,
+          "comments": 3970,
+          "views": 3758290,
           "timestamp": "2026-05-08T21:07:02.000Z"
         },
         {
@@ -1306,9 +1306,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 13453,
-          "comments": 150,
-          "views": 115413,
+          "likes": 14234,
+          "comments": 155,
+          "views": 122666,
           "timestamp": "2026-08-17T16:30:22.000Z"
         },
         {
@@ -1321,9 +1321,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 2371,
+          "likes": 2416,
           "comments": 29,
-          "views": 33601,
+          "views": 34298,
           "timestamp": "2026-08-13T16:30:17.000Z"
         },
         {
@@ -1337,9 +1337,9 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 6892,
-          "comments": 75,
-          "views": 31828,
+          "likes": 7015,
+          "comments": 76,
+          "views": 32374,
           "timestamp": "2026-08-12T14:15:46.000Z"
         },
         {
@@ -1352,9 +1352,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 2543,
+          "likes": 2595,
           "comments": 22,
-          "views": 105083,
+          "views": 107260,
           "timestamp": "2026-08-11T15:02:15.000Z"
         },
         {
@@ -1367,9 +1367,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 26625,
-          "comments": 250,
-          "views": 294858,
+          "likes": 26970,
+          "comments": 253,
+          "views": 298428,
           "timestamp": "2026-08-10T14:00:45.000Z"
         },
         {
@@ -1384,9 +1384,9 @@
             "Hyena",
             "GreatestHunt"
           ],
-          "likes": 14570,
-          "comments": 129,
-          "views": 66766,
+          "likes": 14816,
+          "comments": 130,
+          "views": 67929,
           "timestamp": "2026-08-09T14:00:06.000Z"
         },
         {
@@ -1399,9 +1399,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 2535,
+          "likes": 2545,
           "comments": 34,
-          "views": 65859,
+          "views": 66351,
           "timestamp": "2026-08-07T15:02:01.000Z"
         },
         {
@@ -1414,9 +1414,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 2629,
+          "likes": 2646,
           "comments": 17,
-          "views": 35397,
+          "views": 35642,
           "timestamp": "2026-08-06T16:03:45.000Z"
         },
         {
@@ -1430,9 +1430,9 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 5620,
-          "comments": 61,
-          "views": 146223,
+          "likes": 5657,
+          "comments": 63,
+          "views": 147196,
           "timestamp": "2026-08-05T14:16:06.000Z"
         },
         {
@@ -1445,9 +1445,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 10292,
+          "likes": 10355,
           "comments": 110,
-          "views": 202413,
+          "views": 203373,
           "timestamp": "2026-08-04T15:01:44.000Z"
         },
         {
@@ -1461,22 +1461,22 @@
             "NightHunt",
             "Namib"
           ],
-          "likes": 6442,
+          "likes": 6445,
           "comments": 33,
-          "views": 70933,
+          "views": 70981,
           "timestamp": "2026-08-02T14:00:04.000Z"
         }
       ],
-      "engagementRate": 0.76
+      "engagementRate": 0.77
     }
   ],
   "ideas": [
     {
       "title": "Retiring Years Chance",
-      "rationale": "Inspired by @bbcearth's post (895481 likes, 3971 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (895521 likes, 3970 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 895481,
-      "comments": 3971,
+      "likes": 895521,
+      "comments": 3970,
       "tags": [
         "DavidAttenborough100",
         "DavidAttenborough",
@@ -1485,46 +1485,54 @@
     },
     {
       "title": "Young Could Growing",
-      "rationale": "Inspired by @natgeo's post (204022 likes, 1338 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (204737 likes, 1361 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 204022,
-      "comments": 1338,
+      "likes": 204737,
+      "comments": 1361,
       "tags": [
         "NatGeoLION,"
       ]
     },
     {
-      "title": "Quiet Moment Alaska",
-      "rationale": "Inspired by @natgeo's post (59391 likes, 265 comments) — adapt the angle for @quietlystrange09.",
+      "title": "Coiled Around Branch",
+      "rationale": "Inspired by @natgeo's post (42769 likes, 248 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 59391,
-      "comments": 265,
-      "tags": [
-        "NationalParksUSA"
-      ]
-    },
-    {
-      "title": "Kermode British Columbia",
-      "rationale": "Inspired by @natgeo's post (50343 likes, 130 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 50343,
-      "comments": 130,
+      "likes": 42769,
+      "comments": 248,
       "tags": []
     },
     {
       "title": "Youtube Detection Kicked",
-      "rationale": "Inspired by @kurzgesagt's post (37210 likes, 253 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @kurzgesagt's post (37328 likes, 253 comments) — adapt the angle for @quietlystrange09.",
       "handle": "kurzgesagt",
-      "likes": 37210,
+      "likes": 37328,
       "comments": 253,
       "tags": []
     },
     {
+      "title": "Witness Natgeolion Streaming",
+      "rationale": "Inspired by @natgeo's post (34265 likes, 155 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "natgeo",
+      "likes": 34265,
+      "comments": 155,
+      "tags": [
+        "NatGeoLION"
+      ]
+    },
+    {
+      "title": "Roosmarijn Malmberg Showed",
+      "rationale": "Inspired by @earthpix's post (26941 likes, 564 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "earthpix",
+      "likes": 26941,
+      "comments": 564,
+      "tags": []
+    },
+    {
       "title": "Friend Differently Humans",
-      "rationale": "Inspired by @bbcearth's post (26625 likes, 250 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (26970 likes, 253 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 26625,
-      "comments": 250,
+      "likes": 26970,
+      "comments": 253,
       "tags": [
         "Evolution",
         "ChrisPackham",
@@ -1533,22 +1541,14 @@
     },
     {
       "title": "Describe Pompeii Words",
-      "rationale": "Inspired by @natgeo's post (24944 likes, 255 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (25043 likes, 256 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 24944,
-      "comments": 255,
+      "likes": 25043,
+      "comments": 256,
       "tags": [
         "PompeiiOutOfTime"
       ]
-    },
-    {
-      "title": "Transatlantic Flight Explore",
-      "rationale": "Inspired by @natgeo's post (19560 likes, 850 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 19560,
-      "comments": 850,
-      "tags": []
     }
   ],
-  "featuredIdeaIndex": 0
+  "featuredIdeaIndex": 1
 }
