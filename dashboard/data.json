@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T08:16:20.624Z",
+  "generatedAt": "2026-09-12T08:06:34.607Z",
   "source": "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)",
   "own": {
     "handle": "quietlystrange09",
@@ -189,7 +189,7 @@
     {
       "handle": "kurzgesagt",
       "fullName": "Kurzgesagt - In a nutshell",
-      "followers": 1605441,
+      "followers": 1605269,
       "following": 693,
       "postsCount": 2341,
       "bio": "Sciency videos made with love, a lot of time and after effects.\nLinks to our videos, shop, website & more:",
@@ -200,9 +200,9 @@
           "type": "Video",
           "caption": "Pigeons are basically GPS Drones with superpowers. They can pinpoint their own location hundreds of kilometers from their roosts and navigate home autonomously, only using smell, the Sun, and even Earth’s magnetic field.",
           "hashtags": [],
-          "likes": 4642,
-          "comments": 32,
-          "views": 28006,
+          "likes": 5117,
+          "comments": 37,
+          "views": 31514,
           "timestamp": "2026-09-09T14:02:13.000Z"
         },
         {
@@ -211,9 +211,9 @@
           "type": "Video",
           "caption": "No one works harder than our rover driver Yolk, who is tirelessly collecting nuggets every day so that the space station can function smoothly.\n\nHave you already started your space adventure? Star Birds, which we developed together with our friends at @toukana_interactive, is available on Steam!",
           "hashtags": [],
-          "likes": 2211,
+          "likes": 2259,
           "comments": 9,
-          "views": 32888,
+          "views": 34410,
           "timestamp": "2026-09-07T14:02:39.000Z"
         },
         {
@@ -222,9 +222,9 @@
           "type": "Video",
           "caption": "Two billion years ago, the world’s first nuclear reactors appeared in Oklo, Gabon. They were NOT made by humans and were self-regulating and accident-free.",
           "hashtags": [],
-          "likes": 20102,
+          "likes": 20358,
           "comments": 101,
-          "views": 111389,
+          "views": 112849,
           "timestamp": "2026-09-03T14:02:12.000Z"
         },
         {
@@ -233,7 +233,7 @@
           "type": "Image",
           "caption": "In the late 9th century, Vikings have raided kingdom after kingdom and nearly conquered all of England. Wealthy monasteries and defenseless nuns were especially tempting targets and often suffered great losses. However, all of that stopped when Vikings were confronted by princess Aethelflaed, daughter of Alfred the Great.\n\nWho was Lady of Mercia, and how did she shape the history of England by becoming Vikings' greatest nightmare? Watch our latest Nightshift video to find out! 🌚",
           "hashtags": [],
-          "likes": 7989,
+          "likes": 8130,
           "comments": 23,
           "views": null,
           "timestamp": "2026-08-31T14:01:55.000Z"
@@ -244,9 +244,9 @@
           "type": "Video",
           "caption": "Laughing gas can make you feel relaxed and euphoric in seconds. But it comes with serious risks as well. So, what exactly is laughing gas and why does it feel so good?",
           "hashtags": [],
-          "likes": 5299,
+          "likes": 5335,
           "comments": 30,
-          "views": 49256,
+          "views": 49673,
           "timestamp": "2026-08-30T14:01:37.000Z"
         },
         {
@@ -255,8 +255,8 @@
           "type": "Image",
           "caption": "In the 17th century in Germany, one of Europe’s most terrifying witch hunts turned the town of Bamberg against itself. Tortures that occurred in the \"Witch Factory\" forced innocent people to name friends, neighbors and family members, creating a deadly chain reaction that eventually reached even the richest and most powerful, while those running the trials profited from the people they condemned.\n\nHow did a witch hunt grow so powerful that almost nobody was safe? And what finally brought one of ",
           "hashtags": [],
-          "likes": 29217,
-          "comments": 222,
+          "likes": 29326,
+          "comments": 226,
           "views": null,
           "timestamp": "2026-08-28T14:01:44.000Z"
         },
@@ -266,9 +266,9 @@
           "type": "Video",
           "caption": "What if you could skip the boring and painful parts of life? It sounds tempting until you realize what you’d lose along the way. Time doesn’t really stop, and neither does the world.",
           "hashtags": [],
-          "likes": 4879,
+          "likes": 4881,
           "comments": 61,
-          "views": 66718,
+          "views": 66764,
           "timestamp": "2026-08-26T14:02:04.000Z"
         },
         {
@@ -277,7 +277,7 @@
           "type": "Image",
           "caption": "Brace yourself... 😔",
           "hashtags": [],
-          "likes": 21915,
+          "likes": 22009,
           "comments": 53,
           "views": null,
           "timestamp": "2026-08-23T14:00:27.000Z"
@@ -294,8 +294,8 @@
             "communityideas",
             "monthlychallenge"
           ],
-          "likes": 2930,
-          "comments": 192,
+          "likes": 2931,
+          "comments": 193,
           "views": null,
           "timestamp": "2026-08-21T14:49:27.000Z"
         },
@@ -305,9 +305,9 @@
           "type": "Video",
           "caption": "Sometimes we feel like these rockets are observing us more than we are observing them.\n\nObserve and explore this and many more asteroids in Star Birds, which we developed together with our friends at @toukana_interactive! Get it now in Early Access on Steam!",
           "hashtags": [],
-          "likes": 2138,
+          "likes": 2140,
           "comments": 8,
-          "views": 14193,
+          "views": 14204,
           "timestamp": "2026-08-20T14:01:10.000Z"
         },
         {
@@ -316,9 +316,9 @@
           "type": "Video",
           "caption": "POV: You're a chicken with bird flu. \nYour mission: Infect EVERYONE. Can you do it? 🐔",
           "hashtags": [],
-          "likes": 10769,
+          "likes": 10774,
           "comments": 63,
-          "views": 101086,
+          "views": 101155,
           "timestamp": "2026-08-18T14:00:12.000Z"
         },
         {
@@ -328,12 +328,12 @@
           "caption": "Introducing The Cosmic Expedition: our free loyalty program in which every purchase earns you XP (Expedition Points). Collect enough and you’ll unlock discounts, exclusive products, insider access, and more! Climb the ranks from Space Cadet to Cosmic Pioneer to the *almighty* Voidwalker. The higher you go, the better the perks get.\n\nSign up today and earn your first 100 points! \nYour Cosmic Expedition starts now!",
           "hashtags": [],
           "likes": 1527,
-          "comments": 8,
+          "comments": 7,
           "views": null,
           "timestamp": "2026-08-14T14:02:01.000Z"
         }
       ],
-      "engagementRate": 0.59
+      "engagementRate": 0.6
     },
     {
       "handle": "spacefacts.ig",
@@ -823,152 +823,10 @@
       "fullName": "SCIENCE FACTS",
       "followers": 127,
       "following": 0,
-      "postsCount": 75,
+      "postsCount": null,
       "bio": "This is new account it needed your support\nFollow for amazing and interesting facts\nFollow fast for Daily new facts",
-      "recentPosts": [
-        {
-          "id": "2281304798728685824",
-          "url": "https://www.instagram.com/p/B-o0qCongkA/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 15,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-04-06T11:32:26.000Z"
-        },
-        {
-          "id": "2281304725068200020",
-          "url": "https://www.instagram.com/p/B-o0o-CHDhU/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 17,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-04-06T11:32:17.000Z"
-        },
-        {
-          "id": "2281304489675465404",
-          "url": "https://www.instagram.com/p/B-o0liznCK8/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 9,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-04-06T11:31:49.000Z"
-        },
-        {
-          "id": "2281304424185713280",
-          "url": "https://www.instagram.com/p/B-o0kl0HdKA/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 20,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-04-06T11:31:41.000Z"
-        },
-        {
-          "id": "2281304359492871328",
-          "url": "https://www.instagram.com/p/B-o0jpkH2Sg/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 21,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-04-06T11:31:33.000Z"
-        },
-        {
-          "id": "2271560943259262998",
-          "url": "https://www.instagram.com/p/B-GNKSEnqAW/",
-          "type": "Image",
-          "caption": "Very true fact kyunki me bhi jhooth bolta \nHo aur pakad bhi leta hu aacche se \n#lie #lies #factinhindi #fact #factsinhindi #facts #sciencefacts #excellent",
-          "hashtags": [
-            "lie",
-            "lies",
-            "factinhindi",
-            "fact",
-            "factsinhindi",
-            "facts",
-            "sciencefacts",
-            "excellent"
-          ],
-          "likes": 39,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-03-24T00:53:07.000Z"
-        },
-        {
-          "id": "2271559036117472021",
-          "url": "https://www.instagram.com/p/B-GMuh6HFMV/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 22,
-          "comments": 1,
-          "views": null,
-          "timestamp": "2020-03-24T00:49:20.000Z"
-        },
-        {
-          "id": "2271558605538601061",
-          "url": "https://www.instagram.com/p/B-GMoQ5nChl/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 17,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-03-24T00:48:29.000Z"
-        },
-        {
-          "id": "2271558013093382664",
-          "url": "https://www.instagram.com/p/B-GMfpJH4oI/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 17,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-03-24T00:47:18.000Z"
-        },
-        {
-          "id": "2266021076714562385",
-          "url": "https://www.instagram.com/p/B9yhinTHqNR/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 16,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-03-16T09:26:24.000Z"
-        },
-        {
-          "id": "2266020725710087586",
-          "url": "https://www.instagram.com/p/B9yhdgZn2Wi/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 15,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-03-16T09:25:42.000Z"
-        },
-        {
-          "id": "2266020393974208323",
-          "url": "https://www.instagram.com/p/B9yhYrcn5dD/",
-          "type": "Image",
-          "caption": "",
-          "hashtags": [],
-          "likes": 20,
-          "comments": 0,
-          "views": null,
-          "timestamp": "2020-03-16T09:25:02.000Z"
-        }
-      ],
-      "engagementRate": 15.03
+      "recentPosts": [],
+      "engagementRate": null
     },
     {
       "handle": "space.ifacts",
@@ -983,20 +841,86 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22357602,
+      "followers": 22354215,
       "following": 36,
-      "postsCount": 11573,
+      "postsCount": 11579,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
       "recentPosts": [
+        {
+          "id": "3984118918012904506",
+          "url": "https://www.instagram.com/p/DdKbwwTEqQ6/",
+          "type": "Video",
+          "caption": "Would you dare to walk through one of Prague’s narrowest streets? 😳🇨🇿⁠\nVinarna Certovka, a tiny alley only around 50 cm wide, so narrow that only one person can pass at a time.⁠\n⁠\nAnd yes, it has its own pedestrian traffic light! 🚦 The red and green signals help make sure people don’t meet halfway and get stuck.⁠\n🎥: @daniellestravelblog",
+          "hashtags": [],
+          "likes": 3589,
+          "comments": 17,
+          "views": 156853,
+          "timestamp": "2026-09-11T22:03:11.000Z"
+        },
+        {
+          "id": "3984088925317644723",
+          "url": "https://www.instagram.com/p/DdKU8TbIEGz/",
+          "type": "Sidecar",
+          "caption": "This ancient Greek temple looks like a portal rising from the sea.⁠\nThe Temple of Apollo, also known as Portara, sits on the islet of Palatia beside Naxos harbor. ⁠\n⁠\nIts huge marble doorway is all that remains of a temple that was started but never completed.⁠\n⁠\nThe name Portara means “large door” in Greek, and the enormous marble blocks that make it up can weigh as much as 20 tons.⁠\n⁠\nToday, it’s one of the most recognizable landmarks in Naxos, especially at sunset.⁠\n⁠\nBy: @athan_andreas",
+          "hashtags": [],
+          "likes": 9439,
+          "comments": 56,
+          "views": null,
+          "timestamp": "2026-09-11T21:00:36.000Z"
+        },
+        {
+          "id": "3984058545754444388",
+          "url": "https://www.instagram.com/p/DdKOCOQDZJk/",
+          "type": "Video",
+          "caption": "History can be found in the smallest details, even on Moroccan doors. 🇲🇦🚪✨⁠\n@tarik_belarsi showed us a fascinating tradition from the days when arranged marriages were common in Morocco. ⁠\n⁠\nSome traditional house doors featured a hand with a ring, used as a subtle sign of the women living inside, a ring could indicate that the women of the household were already married, while the absence of one could signal that there were unmarried women of marriageable age.⁠",
+          "hashtags": [],
+          "likes": 10290,
+          "comments": 120,
+          "views": 482627,
+          "timestamp": "2026-09-11T20:03:15.000Z"
+        },
+        {
+          "id": "3984029991084140347",
+          "url": "https://www.instagram.com/p/DdKHispEqc7/",
+          "type": "Sidecar",
+          "caption": "This is the place that helped inspire one of the most famous stories ever written. 🎭⁠\n⁠\nThe Palais Garnier opened in Paris in 1875 and later became the setting and inspiration for Gaston Leroux’s 1909 novel \"The Phantom of the Opera\". ⁠\n⁠\nFrom its grand staircase to its ornate halls, the building has all the drama you’d expect from a story like this.⁠\n⁠\nBy: @theoldbuilding @pumudis.lens⁠",
+          "hashtags": [],
+          "likes": 2630,
+          "comments": 18,
+          "views": null,
+          "timestamp": "2026-09-11T19:03:44.000Z"
+        },
+        {
+          "id": "3983998125773816821",
+          "url": "https://www.instagram.com/p/DdKAS_wkgP1/",
+          "type": "Video",
+          "caption": "Sometimes the best way to experience a culture is to let a local show you the way. 🌿⁠\n@yogic.lina got to experience a traditional ritual away from the usual tourist spots, guided by someone who knew exactly where to go and what to expect.⁠\n⁠\nWould you trust a local enough to go along without knowing what awaits?",
+          "hashtags": [],
+          "likes": 2452,
+          "comments": 33,
+          "views": 219007,
+          "timestamp": "2026-09-11T18:03:13.000Z"
+        },
+        {
+          "id": "3983968242315077636",
+          "url": "https://www.instagram.com/p/DdJ5gInoKgE/",
+          "type": "Sidecar",
+          "caption": "Meet the Dracula parrot, one of New Guinea’s strangest birds.⁠\n⁠\nAlso known as Pesquet’s parrot, this unusual species has a mostly bare face, a hooked bill and striking black-and-red feathers. It lives in the mountain forests of New Guinea and feeds mainly on figs.⁠\n⁠\nThe species is currently classified as Vulnerable, with hunting for its striking feathers among the threats it faces.⁠\n⁠\nBy: @calotypie @lukassmithphotos",
+          "hashtags": [],
+          "likes": 9236,
+          "comments": 33,
+          "views": null,
+          "timestamp": "2026-09-11T17:00:49.000Z"
+        },
         {
           "id": "3983394129958771167",
           "url": "https://www.instagram.com/p/DdH29s0kZnf/",
           "type": "Video",
           "caption": "A Bali spa experience that takes wellness to another level. 🌿⁠\nFrom the moment you arrive, the experience feels designed around relaxation with peaceful surroundings, thoughtful service, and treatments that make it easy to switch off from the outside world.⁠\nIt’s more than just a spa visit; it’s a full escape into Bali’s signature wellness culture. 🧖‍♀️🌺⁠\n⁠\n🎥: @irinadubai_photographer",
           "hashtags": [],
-          "likes": 5000,
-          "comments": 26,
-          "views": 70008,
+          "likes": 7754,
+          "comments": 50,
+          "views": 110986,
           "timestamp": "2026-09-10T22:03:08.000Z"
         },
         {
@@ -1005,8 +929,8 @@
           "type": "Sidecar",
           "caption": "Photographer @jonaspiontek captures some incredible cloud formations, from towering storm clouds to huge supercells. ☁️⁠\n⁠\nWhile clouds can look calm and beautiful from a distance, some form as warm, moist air rises rapidly and can grow into enormous storm systems filled with rain, strong winds, and lightning.⁠\n⁠\nWhich photo is your favorite?",
           "hashtags": [],
-          "likes": 16968,
-          "comments": 54,
+          "likes": 24843,
+          "comments": 79,
           "views": null,
           "timestamp": "2026-09-10T21:00:57.000Z"
         },
@@ -1016,9 +940,9 @@
           "type": "Video",
           "caption": "Croatia has its very own Eye of the Earth. 👁️💙⁠\nCetina Spring, a stunning natural spring near the village of Cetina, where deep blue and turquoise waters create an eye-like shape from above.⁠\n⁠\nThe spring is fed by an underground karst river and reaches impressive depths, making its vibrant colors even more mysterious. 🌊⁠\nYou can admire it from above, but swimming is prohibited to help protect this unique natural site.⁠\n🎥: @vinceins",
           "hashtags": [],
-          "likes": 6742,
-          "comments": 59,
-          "views": 51184,
+          "likes": 9411,
+          "comments": 82,
+          "views": 70962,
           "timestamp": "2026-09-10T20:03:08.000Z"
         },
         {
@@ -1027,8 +951,8 @@
           "type": "Sidecar",
           "caption": "This Airbnb in Mexico looks like a UFO that landed in the middle of wine country. 👽⁠\n⁠\nUFO Guadalupe sits in Valle de Guadalupe, surrounded by vineyards and hills. The spaceship-shaped stay has two bedrooms, a kitchen, 16 windows, and a heated jacuzzi with views of the valley.⁠\n⁠\nPrice per night starts from $300 and it can sleep a maximum of four guests.⁠\n⁠\nWould you spend a night in this UFO?⁠\n⁠\nBy: @ufoguadalupe",
           "hashtags": [],
-          "likes": 3151,
-          "comments": 11,
+          "likes": 4693,
+          "comments": 17,
           "views": null,
           "timestamp": "2026-09-10T19:00:53.000Z"
         },
@@ -1038,9 +962,9 @@
           "type": "Video",
           "caption": "Tokyo might have just found the coolest way to serve matcha. 🍵🧊🇯🇵⁠\nThis spot takes iced matcha to the next level by serving it in a giant cup made entirely of ice. As the matcha chills inside, the drink slowly becomes part of the experience.⁠\n⁠\nCold, refreshing, and seriously satisfying to watch. 👀⁠\nWould you try matcha served this way?⁠\n🎥: @deannawoo",
           "hashtags": [],
-          "likes": 2336,
-          "comments": 26,
-          "views": 216228,
+          "likes": 3127,
+          "comments": 33,
+          "views": 316753,
           "timestamp": "2026-09-10T18:03:06.000Z"
         },
         {
@@ -1049,242 +973,30 @@
           "type": "Sidecar",
           "caption": "Would you visit a pink-sand beach? 🌸⁠\n⁠\nFrom Harbour Island in The Bahamas to Komodo Island in Indonesia, these beaches get their pink color from tiny pieces of coral, shells, and other marine life that mix with the sand.⁠\n⁠\nSome are easy to visit, while others have restrictions to protect the beaches, but they’re all worth knowing about.⁠\n⁠\nDon’t forget to save this list for your next beach trip!",
           "hashtags": [],
-          "likes": 2278,
-          "comments": 21,
+          "likes": 2886,
+          "comments": 25,
           "views": null,
           "timestamp": "2026-09-10T17:00:43.000Z"
-        },
-        {
-          "id": "3982669354529390969",
-          "url": "https://www.instagram.com/p/DdFSK1GjwF5/",
-          "type": "Video",
-          "caption": "When in Laos, eating with the locals can mean trying something completely unexpected. 🐸⁠\nDuring frog season, frogs are a traditional ingredient in parts of Laos and can be prepared in dishes like hearty stews, often enjoyed as part of a shared meal.⁠\n⁠\nFor travelers, it’s a chance to experience local food culture beyond the usual dishes.⁠\nWould you give frog stew a try?⁠\n🎥: @nicoleisaacs",
-          "hashtags": [],
-          "likes": 6820,
-          "comments": 1184,
-          "views": 585750,
-          "timestamp": "2026-09-09T22:03:08.000Z"
-        },
-        {
-          "id": "3982640729872537849",
-          "url": "https://www.instagram.com/p/DdFLqSUDhj5/",
-          "type": "Sidecar",
-          "caption": "What if you could “eat the moon”?⁠\n⁠\nChef @ferplates brought the old childhood idea that “the moon is made of cheese” to life with a scoop of ice cream shaped like a tiny moon.⁠\n⁠\nShe carefully recreated its uneven surface and craters, while the cone is filled with blueberry mousse and thyme honey.⁠\n⁠\nWould you try it?⁠\n⁠\nBy: @ferplates @otsu.bcn",
-          "hashtags": [],
-          "likes": 7292,
-          "comments": 29,
-          "views": null,
-          "timestamp": "2026-09-09T21:03:37.000Z"
-        },
-        {
-          "id": "3982608975458884072",
-          "url": "https://www.instagram.com/p/DdFEcMtglno/",
-          "type": "Video",
-          "caption": "An entire seafloor covered in tiny red squat lobsters. 🦞🌊⁠\nOff the coast of Peru, thousands of these small crustaceans gather in massive swarms, thanks to the nutrient-rich Humboldt Current. The abundance of plankton creates the perfect feeding ground, while staying in large groups offers some protection from predators.⁠\n⁠\n🎥: @matiasvargas12",
-          "hashtags": [],
-          "likes": 55157,
-          "comments": 206,
-          "views": 1653065,
-          "timestamp": "2026-09-09T20:03:10.000Z"
-        },
-        {
-          "id": "3982580447716519704",
-          "url": "https://www.instagram.com/p/DdE99ELjy8Y/",
-          "type": "Sidecar",
-          "caption": "Thousands of scarlet ibis turn the trees red every evening in Brazil’s Parnaíba Delta.⁠\n⁠\nAs the sun begins to set, the birds return to the mangroves to roost, gathering in the trees in large flocks. The local phenomenon is known as Revoada dos Guarás.⁠\n⁠\nBy: @mindthejack",
-          "hashtags": [],
-          "likes": 11948,
-          "comments": 67,
-          "views": null,
-          "timestamp": "2026-09-09T19:03:44.000Z"
-        },
-        {
-          "id": "3982548617697338550",
-          "url": "https://www.instagram.com/p/DdE2t4KkqS2/",
-          "type": "Video",
-          "caption": "The oddly satisfying fruit peeling you didn’t know you needed to see. 👀🍊⁠\n Can you guess what fruit is being peeled? 🤔⁠\n🎥: @ketutrajawi",
-          "hashtags": [],
-          "likes": 4899,
-          "comments": 286,
-          "views": 1399548,
-          "timestamp": "2026-09-09T18:03:12.000Z"
-        },
-        {
-          "id": "3982518652851917422",
-          "url": "https://www.instagram.com/p/DdEv51OmxJu/",
-          "type": "Sidecar",
-          "caption": "Imagine watching a live performance from a boat in Venice. 🎭🚤⁠\n⁠\nAt this unique floating cinema, the audience watches from the water while performers take over the space around them. The experience turns one of Venice’s canals into a stage and gives you a completely different way to see a show.⁠\n⁠\nBy: @riccardobanfi_ @microclima_",
-          "hashtags": [],
-          "likes": 3534,
-          "comments": 20,
-          "views": null,
-          "timestamp": "2026-09-09T17:01:06.000Z"
         }
       ],
-      "engagementRate": 0.05
+      "engagementRate": 0.03
     },
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 268584118,
+      "followers": 268546156,
       "following": 194,
-      "postsCount": 31978,
+      "postsCount": null,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
-      "recentPosts": [
-        {
-          "id": "3983118388705688735",
-          "url": "https://www.instagram.com/p/DdG4RIxIPyf/",
-          "type": "Video",
-          "caption": "Presented by @Rolex. Welcome to Africa 🌍 Africa Earth’s Wild Home takes you deep into the heart of our wildest continent, bringing you closer to its animals, landscapes, and the people watching over it than ever before.\n\nThrough its partnership with the National Geographic Society and as part of its Perpetual Planet Initiative, #Rolex supports expeditions exploring and protecting remarkable places around the world, a selection of which are featured in Africa Earth’s Wild Home. #PerpetualPlanet\n",
-          "hashtags": [
-            "Rolex",
-            "PerpetualPlanet"
-          ],
-          "likes": 37200,
-          "comments": 236,
-          "views": 424193,
-          "timestamp": "2026-09-10T13:00:14.000Z"
-        },
-        {
-          "id": "3947535193527528320",
-          "url": "https://www.instagram.com/p/DbIdlf0j6uA/",
-          "type": "Video",
-          "caption": "Describe Pompeii: Out of Time in 3 words? It's Now Streaming.\n\n#PompeiiOutOfTime with @twhiddleston is now streaming on @DisneyPlus and @hulu.",
-          "hashtags": [
-            "PompeiiOutOfTime"
-          ],
-          "likes": 26310,
-          "comments": 276,
-          "views": 58504,
-          "timestamp": "2026-07-23T13:00:03.000Z"
-        },
-        {
-          "id": "3983264589474966834",
-          "url": "https://www.instagram.com/p/DdHZgo2DC0y/",
-          "type": "Image",
-          "caption": "Photo by @bens_small_world | I photographed this ladybug at a park in Gaithersburg, Maryland, on a cool spring morning last year. It was still dark out, and everything my headlamp illuminated glistened with dew. The ladybug didn't seem keen on going anywhere, so I took the opportunity to add a purple card in the background.\n\nThis photo was featured in our @natgeoyourshot #NatGeoYourShotBugs challenge.",
-          "hashtags": [
-            "NatGeoYourShotBugs"
-          ],
-          "likes": 21276,
-          "comments": 134,
-          "views": null,
-          "timestamp": "2026-09-10T19:00:01.000Z"
-        },
-        {
-          "id": "3983182173249776544",
-          "url": "https://www.instagram.com/p/DdHGxUwOKug/",
-          "type": "Video",
-          "caption": "Everest: The Other Side is “nail-biting”, “thrilling”, and “exhilarating”!\n \nExperience it only in theaters and IMAX worldwide on October 30.",
-          "hashtags": [],
-          "likes": 16652,
-          "comments": 97,
-          "views": 253788,
-          "timestamp": "2026-09-10T15:00:05.000Z"
-        },
-        {
-          "id": "3982639200135001521",
-          "url": "https://www.instagram.com/p/DdFLUBol7Wx/",
-          "type": "Sidecar",
-          "caption": "Seventeen minutes. On September 11, 2001, that was the length of time from when American Airlines Flight 11 crashed into the North Tower of the World Trade Center, at 8:46 a.m., to when United Airlines Flight 175 entered the right-hand side of millions of TV screens, at 9:03 a.m., and plowed into the South Tower at nearly 600 miles an hour.\n\nFor most Americans who can recall that morning, the attack didn’t begin at 8:46. The confusion did. \n\nMany bystanders initially took the first plane crash t",
-          "hashtags": [],
-          "likes": 43300,
-          "comments": 1199,
-          "views": null,
-          "timestamp": "2026-09-09T21:00:15.000Z"
-        },
-        {
-          "id": "3982548881233484876",
-          "url": "https://www.instagram.com/p/DdE2xtmjRxM/",
-          "type": "Image",
-          "caption": "Did you know there are more than 250 species of bumblebees? Just like this one, each species plays an important role in our ecosystem 🐝 \n\nPhotograph by @davidliittschwager",
-          "hashtags": [],
-          "likes": 22693,
-          "comments": 123,
-          "views": null,
-          "timestamp": "2026-09-09T19:00:01.000Z"
-        },
-        {
-          "id": "3982355670166063258",
-          "url": "https://www.instagram.com/p/DdEK2Hxgsia/",
-          "type": "Video",
-          "caption": "When 33 men were trapped more than half a mile underground in a collapsed Chilean mine, the entire world followed their struggle for survival as their rescuers raced the clock to get them out.\n\n#ChileanMineRescue: Race Against Time premieres September 25 at 8/7c on National Geographic. Streaming on @DisneyPlus and @hulu.",
-          "hashtags": [
-            "ChileanMineRescue:"
-          ],
-          "likes": 16224,
-          "comments": 200,
-          "views": 372227,
-          "timestamp": "2026-09-09T13:00:03.000Z"
-        },
-        {
-          "id": "3982035363291116686",
-          "url": "https://www.instagram.com/p/DdDCBCwArSO/",
-          "type": "Video",
-          "caption": "Until 2025, only two adult Tyrannosaurus rex footprints had been found in the entire world—but high school teacher Kent Hups made history when he discovered the first adult T. rex trackway. Working with his close friend and National Geographic Explorer Tyler Lyson, the pair excavated a total of five footprints in North Dakota, each preserved as a 3D shape in the ancient rocks. \n\nLearn more about the unusual discovery at the link in bio. \n\nVideo by Alex Wenchel",
-          "hashtags": [],
-          "likes": 64319,
-          "comments": 437,
-          "views": 1119051,
-          "timestamp": "2026-09-09T01:01:06.000Z"
-        },
-        {
-          "id": "3981954546904700249",
-          "url": "https://www.instagram.com/p/DdCvpAoAZVZ/",
-          "type": "Video",
-          "caption": "Commercial poaching killed more than 90 percent of black rhinos in Zimbabwe and across the rest of Africa, eventually leaving none in Matusadona National Park. More than 30 years after officials and conservationists worked to rescue the remaining rhinos in the Zambezi Valley, descendants of those animals have returned to the park. Photographer @marcuswestbergphotography documented their return—and quieter moments as they rested throughout the day.\n\nLearn more about efforts to save the black rhin",
-          "hashtags": [],
-          "likes": 92923,
-          "comments": 502,
-          "views": 2025879,
-          "timestamp": "2026-09-08T22:21:00.000Z"
-        },
-        {
-          "id": "3981895840716364087",
-          "url": "https://www.instagram.com/p/DdCiSuOgRk3/",
-          "type": "Video",
-          "caption": "Some accounts from September 11, 2001, have remained unheard for 25 years. Now, deeply personal experiences from survivors, first responders, and witnesses can be heard in 9/11: The National Geographic Video Archive. Featuring more than 100 hours of video testimony, the interactive archive can be organized by time, location, and topic for viewers to hear from those who lived through the attacks and the aftermath.\n\nSee more firsthand accounts from one of the most consequential days in American hi",
-          "hashtags": [],
-          "likes": 14310,
-          "comments": 150,
-          "views": 289751,
-          "timestamp": "2026-09-08T20:24:04.000Z"
-        },
-        {
-          "id": "3981753651152331866",
-          "url": "https://www.instagram.com/p/DdCB9l4DKRa/",
-          "type": "Video",
-          "caption": "Can we get an invite to Maynard Okereke's (@hiphopscienceshow) dinner party? 👀 \n\nYou've seen him on our @NatGeoFamily accounts, now catch the full #NatGeo9 interview with Maynard on the Nat Geo YouTube Channel at the link in bio.",
-          "hashtags": [
-            "NatGeo9"
-          ],
-          "likes": 2624,
-          "comments": 41,
-          "views": 71484,
-          "timestamp": "2026-09-08T18:00:04.000Z"
-        },
-        {
-          "id": "3981718521561515958",
-          "url": "https://www.instagram.com/p/DdB5-Y5RIe2/",
-          "type": "Video",
-          "caption": "Island hopping in the Seychelles? Yes, please.\n\nThe Seychelles—an archipelago of 115 islands off the east coast of Africa—is the gift that keeps on giving for @filipe_deandrade. “Everywhere you go, every single corner you turn down, ends up being a different and more beautiful view,” he says. From swimming with sea turtles to soaking up panoramic views, each day offers up new wow-worthy moments. Tap to see the gear DeAndrade used to document his adventures both on land and in the water and head ",
-          "hashtags": [
-            "MadeForYes"
-          ],
-          "likes": 4486,
-          "comments": 44,
-          "views": 245938,
-          "timestamp": "2026-09-08T14:35:03.000Z"
-        }
-      ],
-      "engagementRate": 0.01
+      "recentPosts": [],
+      "engagementRate": null
     },
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10841821,
+      "followers": 10840376,
       "following": 416,
-      "postsCount": 7520,
+      "postsCount": 7521,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
       "recentPosts": [
         {
@@ -1297,10 +1009,26 @@
             "DavidAttenborough",
             "BluePlanetIII"
           ],
-          "likes": 899965,
-          "comments": 3980,
-          "views": 3777213,
+          "likes": 899996,
+          "comments": 3981,
+          "views": 3777632,
           "timestamp": "2026-05-08T21:07:02.000Z"
+        },
+        {
+          "id": "3983963877186570935",
+          "url": "https://www.instagram.com/p/DdJ4gnRsYq3/",
+          "type": "Video",
+          "caption": "Every day I’m shufflin’ 🕺\n\nMale manakins take to the branches to perform elaborate courtship dances, with females watching closely and judging potential mates by their moves. \n\n#EarthCapture by @lexwildlife \n.\n.\n.\n.\n#Manakin #Wildlife #Nature",
+          "hashtags": [
+            "EarthCapture",
+            "Manakin",
+            "Wildlife",
+            "Nature"
+          ],
+          "likes": 6057,
+          "comments": 54,
+          "views": 24136,
+          "timestamp": "2026-09-11T16:55:10.000Z"
         },
         {
           "id": "3982473211780726175",
@@ -1313,9 +1041,9 @@
             "Butterflies",
             "Spring"
           ],
-          "likes": 17334,
-          "comments": 195,
-          "views": 65307,
+          "likes": 18699,
+          "comments": 207,
+          "views": 71597,
           "timestamp": "2026-09-09T15:31:36.000Z"
         },
         {
@@ -1329,9 +1057,9 @@
             "Wildlife",
             "Nature"
           ],
-          "likes": 22146,
-          "comments": 119,
-          "views": 174722,
+          "likes": 22607,
+          "comments": 120,
+          "views": 179633,
           "timestamp": "2026-09-06T16:00:03.000Z"
         },
         {
@@ -1345,9 +1073,9 @@
             "MarineAnimals",
             "Underwater"
           ],
-          "likes": 8564,
-          "comments": 40,
-          "views": 75945,
+          "likes": 8754,
+          "comments": 41,
+          "views": 78044,
           "timestamp": "2026-09-04T14:56:53.000Z"
         },
         {
@@ -1361,9 +1089,9 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 12548,
-          "comments": 73,
-          "views": 106632,
+          "likes": 12930,
+          "comments": 74,
+          "views": 110500,
           "timestamp": "2026-09-02T15:52:58.000Z"
         },
         {
@@ -1377,7 +1105,7 @@
             "Venus",
             "Jupiter"
           ],
-          "likes": 15588,
+          "likes": 15726,
           "comments": 160,
           "views": null,
           "timestamp": "2026-08-31T14:01:05.000Z"
@@ -1393,9 +1121,9 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 5770,
+          "likes": 5780,
           "comments": 40,
-          "views": 105248,
+          "views": 105401,
           "timestamp": "2026-08-28T14:05:04.000Z"
         },
         {
@@ -1409,7 +1137,7 @@
             "Design",
             "Tshirt"
           ],
-          "likes": 6458,
+          "likes": 6470,
           "comments": 20,
           "views": null,
           "timestamp": "2026-08-26T14:00:26.000Z"
@@ -1424,9 +1152,9 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 7330,
-          "comments": 79,
-          "views": 91944,
+          "likes": 7373,
+          "comments": 82,
+          "views": 92467,
           "timestamp": "2026-08-24T16:55:38.000Z"
         },
         {
@@ -1440,9 +1168,9 @@
             "PE20",
             "PEIII"
           ],
-          "likes": 32519,
-          "comments": 234,
-          "views": 231477,
+          "likes": 32762,
+          "comments": 238,
+          "views": 232758,
           "timestamp": "2026-08-19T15:28:33.000Z"
         },
         {
@@ -1455,37 +1183,22 @@
             "ChrisPackham",
             "Nature"
           ],
-          "likes": 18570,
+          "likes": 18577,
           "comments": 192,
-          "views": 160473,
+          "views": 160532,
           "timestamp": "2026-08-17T16:30:22.000Z"
-        },
-        {
-          "id": "3962927936676053104",
-          "url": "https://www.instagram.com/p/Db_JfZADEBw/",
-          "type": "Video",
-          "caption": "From fantasy to reality 🦇\n\nEvolution presenter @chrisgpackham2 reveals how coming face-to-face with some extraordinary bats fulfilled a childhood dream.\n\nFind out where to watch Evolution via the link in our bio 🔗💚\n\n#Evolution #ChrisPackham #Nature",
-          "hashtags": [
-            "Evolution",
-            "ChrisPackham",
-            "Nature"
-          ],
-          "likes": 2656,
-          "comments": 30,
-          "views": 38718,
-          "timestamp": "2026-08-13T16:30:17.000Z"
         }
       ],
-      "engagementRate": 0.81
+      "engagementRate": 0.82
     }
   ],
   "ideas": [
     {
       "title": "Retiring Years Chance",
-      "rationale": "Inspired by @bbcearth's post (899965 likes, 3980 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (899996 likes, 3981 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 899965,
-      "comments": 3980,
+      "likes": 899996,
+      "comments": 3981,
       "tags": [
         "DavidAttenborough100",
         "DavidAttenborough",
@@ -1493,54 +1206,11 @@
       ]
     },
     {
-      "title": "Commercial Poaching Killed",
-      "rationale": "Inspired by @natgeo's post (92923 likes, 502 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 92923,
-      "comments": 502,
-      "tags": []
-    },
-    {
-      "title": "Until Adult Tyrannosaurus",
-      "rationale": "Inspired by @natgeo's post (64319 likes, 437 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 64319,
-      "comments": 437,
-      "tags": []
-    },
-    {
-      "title": "Entire Seafloor Covered",
-      "rationale": "Inspired by @earthpix's post (55157 likes, 206 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "earthpix",
-      "likes": 55157,
-      "comments": 206,
-      "tags": []
-    },
-    {
-      "title": "Seventeen Minutes September",
-      "rationale": "Inspired by @natgeo's post (43300 likes, 1199 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 43300,
-      "comments": 1199,
-      "tags": []
-    },
-    {
-      "title": "Presented Rolex Welcome",
-      "rationale": "Inspired by @natgeo's post (37200 likes, 236 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 37200,
-      "comments": 236,
-      "tags": [
-        "Rolex",
-        "PerpetualPlanet"
-      ]
-    },
-    {
       "title": "Ocean Public Transport",
-      "rationale": "Inspired by @bbcearth's post (32519 likes, 234 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (32762 likes, 238 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 32519,
-      "comments": 234,
+      "likes": 32762,
+      "comments": 238,
       "tags": [
         "PlanetEarth",
         "DavidAttenborough",
@@ -1550,12 +1220,62 @@
     },
     {
       "title": "Century Germany Europe",
-      "rationale": "Inspired by @kurzgesagt's post (29217 likes, 222 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @kurzgesagt's post (29326 likes, 226 comments) — adapt the angle for @quietlystrange09.",
       "handle": "kurzgesagt",
-      "likes": 29217,
-      "comments": 222,
+      "likes": 29326,
+      "comments": 226,
       "tags": []
+    },
+    {
+      "title": "Photographer Jonaspiontek Captures",
+      "rationale": "Inspired by @earthpix's post (24843 likes, 79 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "earthpix",
+      "likes": 24843,
+      "comments": 79,
+      "tags": []
+    },
+    {
+      "title": "Master Disguise Octopus",
+      "rationale": "Inspired by @bbcearth's post (22607 likes, 120 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "bbcearth",
+      "likes": 22607,
+      "comments": 120,
+      "tags": [
+        "EarthCapture",
+        "BigBlueOctopus",
+        "Wildlife",
+        "Nature"
+      ]
+    },
+    {
+      "title": "Brace Yourself",
+      "rationale": "Inspired by @kurzgesagt's post (22009 likes, 53 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "kurzgesagt",
+      "likes": 22009,
+      "comments": 53,
+      "tags": []
+    },
+    {
+      "title": "Billion Years World",
+      "rationale": "Inspired by @kurzgesagt's post (20358 likes, 101 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "kurzgesagt",
+      "likes": 20358,
+      "comments": 101,
+      "tags": []
+    },
+    {
+      "title": "Would Believe Hundred",
+      "rationale": "Inspired by @bbcearth's post (18699 likes, 207 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "bbcearth",
+      "likes": 18699,
+      "comments": 207,
+      "tags": [
+        "EarthsGreatSeasons",
+        "Monarch",
+        "Butterflies",
+        "Spring"
+      ]
     }
   ],
-  "featuredIdeaIndex": 6
+  "featuredIdeaIndex": 7
 }
