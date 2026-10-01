@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T09:57:53.071Z",
+  "generatedAt": "2026-10-01T10:24:54.466Z",
   "source": "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)",
   "own": {
     "handle": "quietlystrange09",
@@ -189,7 +189,7 @@
     {
       "handle": "kurzgesagt",
       "fullName": "Kurzgesagt - In a nutshell",
-      "followers": 1606364,
+      "followers": 1606367,
       "following": 693,
       "postsCount": 2349,
       "bio": "Sciency videos made with love, a lot of time and after effects.\nLinks to our videos, shop, website & more:",
@@ -200,9 +200,9 @@
           "type": "Video",
           "caption": "Our yearly tradition is returning soon... 👀\nDon't miss the new 12,027 Calendar drop, and sign up for our newsletter.\n\nCan’t wait to get yours? Early access for YouTube Members and Patrons starts TODAY!",
           "hashtags": [],
-          "likes": 5573,
-          "comments": 21,
-          "views": 30587,
+          "likes": 6674,
+          "comments": 25,
+          "views": 37088,
           "timestamp": "2026-09-29T14:01:19.000Z"
         },
         {
@@ -211,9 +211,9 @@
           "type": "Video",
           "caption": "Observing the early universe would be such a fascinating and relaxing experience... or would it be?",
           "hashtags": [],
-          "likes": 3189,
+          "likes": 3255,
           "comments": 19,
-          "views": 18227,
+          "views": 18761,
           "timestamp": "2026-09-25T14:02:05.000Z"
         },
         {
@@ -222,7 +222,7 @@
           "type": "Image",
           "caption": "We imagine advanced alien civilizations building gigantic spaceships, Dyson spheres and empires spanning entire galaxies. But what if true technological progress goes in exactly the opposite direction? Not outward into space, but deeper and deeper into the smallest layers of reality?\n\nWhat is the Barrow Scale? How powerful could a civilization become by mastering DNA, and even fundamental particles, and could the universe already be filled with godlike civilizations hiding in plain sight? Watch ",
           "hashtags": [],
-          "likes": 7888,
+          "likes": 8094,
           "comments": 42,
           "views": null,
           "timestamp": "2026-09-22T14:02:01.000Z"
@@ -233,9 +233,9 @@
           "type": "Video",
           "caption": "Let's visit some of the most dangerous neighbourhoods... in space!",
           "hashtags": [],
-          "likes": 8683,
-          "comments": 59,
-          "views": 98780,
+          "likes": 8806,
+          "comments": 60,
+          "views": 100362,
           "timestamp": "2026-09-21T14:02:50.000Z"
         },
         {
@@ -244,8 +244,8 @@
           "type": "Image",
           "caption": "Our curiosity to learn more about the stars is endless. Today, some scientists pursue their passion by building large telescopes that are able to capture the faintest glimmer of stars billions of light-years away. Some telescopes are even launched from Earth to get a clearer view outside the atmosphere. But what about the opportunity to see the stars with your own eyes, unfiltered? Astronauts, like the one that can be seen on the September page of our 12,026 Human Era calendar, say nothing compa",
           "hashtags": [],
-          "likes": 10106,
-          "comments": 24,
+          "likes": 10230,
+          "comments": 25,
           "views": null,
           "timestamp": "2026-09-20T14:00:23.000Z"
         },
@@ -255,9 +255,9 @@
           "type": "Video",
           "caption": "Could humans evolve to be able to fly some day? Flying like a bird would require way more than just wings. Hollow bones, giant chest muscles, rewired nerves, and absurd amounts of food might allow you to fly, but all of this would transform you into something barely human anymore.",
           "hashtags": [],
-          "likes": 9615,
-          "comments": 68,
-          "views": 76590,
+          "likes": 9702,
+          "comments": 70,
+          "views": 77561,
           "timestamp": "2026-09-19T14:01:32.000Z"
         },
         {
@@ -266,7 +266,7 @@
           "type": "Image",
           "caption": "In a battle against cancer, could viruses be our allies? When Croatian virologist Dr. Beata Halassy’s breast cancer returned for the third time, she made a bold decision: to experiment on herself using millions of viruses grown in her own lab. Viruses love cancer cells, which helped her turn them into a weapon against her own tumor.\n\nWhat happens when you infect cancer with a virus, and could virotherapy become a powerful new tool against cancer? Watch our full video to find out!",
           "hashtags": [],
-          "likes": 7588,
+          "likes": 7873,
           "comments": 18,
           "views": null,
           "timestamp": "2026-09-18T14:22:59.000Z"
@@ -277,9 +277,9 @@
           "type": "Video",
           "caption": "What if continents and oceans switched places? The Pacific becomes a supercontinent. Earth's deepest point is Everest Deep, and is almost nine kilometers below sea-level. And the Mid-Atlantic Canyon divides the world from pole to pole. Life finds a way but struggles in this new, upside-down world. This all sounds cool, until the oxygen runs out.",
           "hashtags": [],
-          "likes": 15020,
+          "likes": 15025,
           "comments": 36,
-          "views": 103068,
+          "views": 103145,
           "timestamp": "2026-09-14T14:01:55.000Z"
         },
         {
@@ -288,9 +288,9 @@
           "type": "Video",
           "caption": "Pigeons are basically GPS Drones with superpowers. They can pinpoint their own location hundreds of kilometers from their roosts and navigate home autonomously, only using smell, the Sun, and even Earth’s magnetic field.",
           "hashtags": [],
-          "likes": 6642,
+          "likes": 6649,
           "comments": 41,
-          "views": 43235,
+          "views": 43275,
           "timestamp": "2026-09-09T14:02:13.000Z"
         },
         {
@@ -299,9 +299,9 @@
           "type": "Video",
           "caption": "No one works harder than our rover driver Yolk, who is tirelessly collecting nuggets every day so that the space station can function smoothly.\n\nHave you already started your space adventure? Star Birds, which we developed together with our friends at @toukana_interactive, is available on Steam!",
           "hashtags": [],
-          "likes": 2621,
+          "likes": 2622,
           "comments": 10,
-          "views": 42864,
+          "views": 42883,
           "timestamp": "2026-09-07T14:02:39.000Z"
         },
         {
@@ -310,9 +310,9 @@
           "type": "Video",
           "caption": "Two billion years ago, the world’s first nuclear reactors appeared in Oklo, Gabon. They were NOT made by humans and were self-regulating and accident-free.",
           "hashtags": [],
-          "likes": 23261,
-          "comments": 112,
-          "views": 132267,
+          "likes": 23301,
+          "comments": 113,
+          "views": 132677,
           "timestamp": "2026-09-03T14:02:12.000Z"
         },
         {
@@ -321,13 +321,13 @@
           "type": "Image",
           "caption": "In the late 9th century, Vikings have raided kingdom after kingdom and nearly conquered all of England. Wealthy monasteries and defenseless nuns were especially tempting targets and often suffered great losses. However, all of that stopped when Vikings were confronted by princess Aethelflaed, daughter of Alfred the Great.\n\nWho was Lady of Mercia, and how did she shape the history of England by becoming Vikings' greatest nightmare? Watch our latest Nightshift video to find out! 🌚",
           "hashtags": [],
-          "likes": 8607,
+          "likes": 8608,
           "comments": 23,
           "views": null,
           "timestamp": "2026-08-31T14:01:55.000Z"
         }
       ],
-      "engagementRate": 0.57
+      "engagementRate": 0.58
     },
     {
       "handle": "spacefacts.ig",
@@ -977,19 +977,96 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22328056,
+      "followers": 22327067,
       "following": 37,
-      "postsCount": 11691,
+      "postsCount": 11698,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
       "recentPosts": [
+        {
+          "id": "3997920127358577365",
+          "url": "https://www.instagram.com/p/Dd7dyyHl6rV/",
+          "type": "Sidecar",
+          "caption": "Christian Spencer's \"Winged Prism\" series reveals a hidden world of color, capturing black Jacobin hummingbirds in a unique prism effect as sunlight passes through their wings. ⁠\n⁠\nThis natural spectacle, invisible to the naked eye, transforms the feathers into radiant rainbows without any digital manipulation, embodying nature's unaltered beauty.⁠\n⁠\nBy blending art and science, Spencer’s photography uncovers a secret dimension of life, offering a glimpse of nature’s own artistry through an auth",
+          "hashtags": [],
+          "likes": 26744,
+          "comments": 95,
+          "views": null,
+          "timestamp": "2026-09-30T23:01:08.000Z"
+        },
+        {
+          "id": "3997889681861176274",
+          "url": "https://www.instagram.com/p/Dd7W3viiOvS/",
+          "type": "Video",
+          "caption": "Kyrgyzstan really said: let’s make the opening ceremony unforgettable. 😂🇰🇬🐎⁠\n⁠\nThe World Nomad Games celebrate the traditional sports, culture, and heritage of nomadic peoples, and Kyrgyzstan brought plenty of energy, horses, music, and spectacular performances to the opening ceremony.⁠\n⁠\nA pretty epic way to kick off a celebration of Central Asia’s nomadic traditions. 🔥⁠\n⁠\n🎥: @thepartyingtraveler",
+          "hashtags": [],
+          "likes": 8316,
+          "comments": 108,
+          "views": 156632,
+          "timestamp": "2026-09-30T22:03:16.000Z"
+        },
+        {
+          "id": "3997859672506194201",
+          "url": "https://www.instagram.com/p/Dd7QDDJl1kZ/",
+          "type": "Sidecar",
+          "caption": "This surreal valley was named by hippies. 🌙⁠\n⁠\nValle Della Luna in Sardinia, Italy, became home to a group of free-spirited hippies in the 1960s. They settled among the huge granite formations and made homes inside the natural caves and cavities.⁠\n⁠\nThe unusual rocks give the valley its otherworldly look and inspired its name, Valle Della Luna, meaning “Valley of the Moon.”⁠\n⁠\nBy: @taylormichaelburk",
+          "hashtags": [],
+          "likes": 3683,
+          "comments": 31,
+          "views": null,
+          "timestamp": "2026-09-30T21:00:57.000Z"
+        },
+        {
+          "id": "3997829281199756191",
+          "url": "https://www.instagram.com/p/Dd7JIzCkROf/",
+          "type": "Video",
+          "caption": "A street art project that’s built one LEGO piece at a time. 🧱⁠\nIn Toronto, this LEGO-covered pole has become a little community art project, with locals and kids adding new pieces whenever they pass by.⁠\n⁠\nA simple idea that turns an ordinary walk into a little creative adventure, especially for kids.⁠\n⁠\nWould your city keep a LEGO pole like this intact? ⁠\n🎥: @family_in_toronto",
+          "hashtags": [],
+          "likes": 7687,
+          "comments": 62,
+          "views": 209322,
+          "timestamp": "2026-09-30T20:03:15.000Z"
+        },
+        {
+          "id": "3997799371635127477",
+          "url": "https://www.instagram.com/p/Dd7CVjll3S1/",
+          "type": "Sidecar",
+          "caption": "Photographer @jwinden_macro captured what might be one of the rarest encounters in nature. 🐜🐍⁠\n⁠\nWhile photographing in Kelantan, Malaysia, he noticed a tiny Asian weaver ant climbing up a Wagler’s pit viper. The ant slowly made its way toward the snake’s head, and just as it reached up and touched the viper, he captured the moment in a single frame.⁠\n⁠\nThe size difference alone makes this encounter incredible, but the timing of the photograph makes it even more remarkable.",
+          "hashtags": [],
+          "likes": 9724,
+          "comments": 97,
+          "views": null,
+          "timestamp": "2026-09-30T19:01:13.000Z"
+        },
+        {
+          "id": "3997768972224762830",
+          "url": "https://www.instagram.com/p/Dd67bL7iRPO/",
+          "type": "Video",
+          "caption": "Ever wondered why Himba women cover their hair and skin in a distinctive red-orange paste? 👀⁠\nKnown as otjize, the mixture traditionally combines red ochre, animal fat, and other ingredients. It’s more than decoration, it can help protect the skin from the harsh sun and insects, while also carrying deep cultural meaning.⁠\n⁠\nHair is an important part of Himba identity, with hairstyles and adornment reflecting aspects of age, social status, and marital status. Otjize also has spiritual significan",
+          "hashtags": [],
+          "likes": 6932,
+          "comments": 614,
+          "views": 1148705,
+          "timestamp": "2026-09-30T18:03:20.000Z"
+        },
+        {
+          "id": "3997739007128095183",
+          "url": "https://www.instagram.com/p/Dd60nIwl8nP/",
+          "type": "Sidecar",
+          "caption": "NYC just witnessed one of its most stunning sunsets. 🌇⁠\n⁠\nCaptured by @mchlanglo793 from Christopher Street Pier in the West Village, this sunset slowly changed from bright orange and yellow to deeper shades of brown before the sky finally turned completely dark.⁠\n⁠\nThese shots were captures from around 6:45 to 7:20 p.m. with the Hudson River and NYC skyline glowing until the very last light.⁠",
+          "hashtags": [],
+          "likes": 15248,
+          "comments": 50,
+          "views": null,
+          "timestamp": "2026-09-30T17:01:18.000Z"
+        },
         {
           "id": "3997134965452531691",
           "url": "https://www.instagram.com/p/Dd4rRLHF2fr/",
           "type": "Sidecar",
           "caption": "Photographer @okirakuoki captures cats in their funniest poses. 🐈⁠\n⁠\nFrom awkward stretches to completely unexpected expressions, his photos show just how funny cats can be when they’re simply being themselves.⁠\n⁠\nAnd the last photo might just be the best one. 😂",
           "hashtags": [],
-          "likes": 10645,
-          "comments": 40,
+          "likes": 14874,
+          "comments": 48,
           "views": null,
           "timestamp": "2026-09-29T21:01:12.000Z"
         },
@@ -999,9 +1076,9 @@
           "type": "Video",
           "caption": "@travel_earth_fr takes us on a completely different way to experience Mont-Saint-Michel. 🌊🇫🇷⁠\n⁠\nWalking across the bay to Tombelaine Rock means going barefoot through the sand, crossing tidal rivers, and even learning how quicksand forms and how to safely get out of it. ⁠\n⁠\nThe quicksand here forms when water saturates the sand, making it temporarily lose its structure under pressure and behave more like a liquid.⁠\n⁠\nThe experience covers around 7 km in about 3 hours, with the route and condi",
           "hashtags": [],
-          "likes": 12570,
-          "comments": 70,
-          "views": 541196,
+          "likes": 19322,
+          "comments": 131,
+          "views": 824988,
           "timestamp": "2026-09-29T20:03:17.000Z"
         },
         {
@@ -1010,8 +1087,8 @@
           "type": "Sidecar",
           "caption": "In Aymara, the Indigenous language of Bolivia’s Altiplano, “Samkani” means “the one who dreams.”⁠\n⁠\nThat’s exactly what this new camp promises to deliver.⁠\n⁠\nSamkani Camp will sit in the middle of Bolivia’s Salar de Uyuni, the world’s largest salt flat, with just five private Airstream suites surrounded by one of the most surreal places on Earth.⁠\n⁠\nGuests will have private dining, space to relax under the stars, and the chance to explore the salt flats from their own secluded base.⁠\n⁠\nThe camp ",
           "hashtags": [],
-          "likes": 2751,
-          "comments": 29,
+          "likes": 3902,
+          "comments": 38,
           "views": null,
           "timestamp": "2026-09-29T19:05:06.000Z"
         },
@@ -1021,9 +1098,9 @@
           "type": "Video",
           "caption": "One of Costa Rica’s most spectacular bird sightings. 🌿👑⁠\n⁠\nThe Tropical Royal Flycatcher may look fairly ordinary for most of the year, but during nesting season, it reveals an incredible colorful crest that’s usually kept hidden.⁠\n⁠\nThe nesting season runs from March to May, making it an especially exciting time to spot this beautiful species in Costa Rica.⁠\n⁠\nWould you be lucky enough to catch this moment?⁠\n🎥: @josepabpm",
           "hashtags": [],
-          "likes": 17337,
-          "comments": 94,
-          "views": 207021,
+          "likes": 22504,
+          "comments": 123,
+          "views": 271028,
           "timestamp": "2026-09-29T18:03:17.000Z"
         },
         {
@@ -1032,89 +1109,10 @@
           "type": "Sidecar",
           "caption": "The roof of this café was designed to let a tree grow through. 🌳⁠\n⁠\nHarudot Chonburi in Thailand was designed by @idinarchitects around a baobab tree that was already growing on the site. The architects opened the roof and created space for the tree to continue growing through the café.⁠\n⁠\nThe name Harudot comes from “Haru,” Japanese for spring and new beginnings, and “dot,” representing a starting point.⁠\n⁠\nPhotos by: @dofskyground",
           "hashtags": [],
-          "likes": 1810,
-          "comments": 19,
+          "likes": 2412,
+          "comments": 20,
           "views": null,
           "timestamp": "2026-09-29T17:01:05.000Z"
-        },
-        {
-          "id": "3996945916619867236",
-          "url": "https://www.instagram.com/p/Dd4ASJqk0Rk/",
-          "type": "Sidecar",
-          "caption": "Comment HOTEL and we’ll send you the list.\n\nSeven travel creator opportunities worth looking at right now:\n\n- Beautiful Destinations Academy in Dubai. 12 weeks of training in cinematography, editing and production, run with Dubai’s tourism department. Applications open now.\n\n- Virgin’s Head of Yes. £75,000 in the UK or $100,000 in the US for six months. You apply by posting a video with #HeadOfYes. No following needed. Closes 20 October.\n\n- New Mexico True seasonal campaigns. Hosted trips throug",
-          "hashtags": [
-            "HeadOfYes."
-          ],
-          "likes": 6523,
-          "comments": 2929,
-          "views": null,
-          "timestamp": "2026-09-29T14:45:04.000Z"
-        },
-        {
-          "id": "3996470507168275070",
-          "url": "https://www.instagram.com/p/Dd2UMCHFxp-/",
-          "type": "Sidecar",
-          "caption": "This is what a tiny meerkat looks like. ⁠\n⁠\nThis little meerkat was only about as tall as a thumb, but somehow gave the photographers one of their most unforgettable moments in the bush.⁠\n⁠\nCaptured at Kamfersboom Borehole in the Kgalagadi Transfrontier Park, South Africa.⁠\n⁠\nBy: @a.z__photography_",
-          "hashtags": [],
-          "likes": 34603,
-          "comments": 102,
-          "views": null,
-          "timestamp": "2026-09-28T23:01:00.000Z"
-        },
-        {
-          "id": "3996440583366857298",
-          "url": "https://www.instagram.com/p/Dd2NYlZiVJS/",
-          "type": "Video",
-          "caption": "This is Icelandic weather in one video. 😂💨⁠\n@renmoldovantravel captured the moment strong winds were blowing the waterfall back uphill, because apparently, even the water isn’t safe from Iceland’s weather.⁠\nA perfect reminder that in Iceland, you can experience four seasons, wild winds, and a little bit of chaos all in the same day.⁠\n⁠\nHave you experienced Icelandic weather yet?⁠\n🎥: @renmoldovantravel",
-          "hashtags": [],
-          "likes": 22731,
-          "comments": 67,
-          "views": 384998,
-          "timestamp": "2026-09-28T22:03:08.000Z"
-        },
-        {
-          "id": "3996410138919905912",
-          "url": "https://www.instagram.com/p/Dd2GdjzFyp4/",
-          "type": "Sidecar",
-          "caption": "This church is covered in gray and white stripes. 🖤⁠\n⁠\nThe Church of San Giovanni Battista in Mogno, Switzerland, was designed by architect Mario Botta and built between 1994 and 1996.⁠\n⁠\nThe church replaced an older building that was destroyed by an avalanche in 1986. Botta used alternating layers of marble and gneiss to create its distinctive striped pattern, with the stone coming from nearby quarries in the region.⁠\n⁠\nBy: @lerichti",
-          "hashtags": [],
-          "likes": 4863,
-          "comments": 30,
-          "views": null,
-          "timestamp": "2026-09-28T21:01:06.000Z"
-        },
-        {
-          "id": "3996379699463039357",
-          "url": "https://www.instagram.com/p/Dd1_im2E6l9/",
-          "type": "Video",
-          "caption": "A dress that carries a story of healing. ⁠\nTaiwan, where Jingle Dress dancers were invited to share this meaningful Indigenous tradition at Fo Guang Shan.⁠\n⁠\nThe Jingle Dress is decorated with rows of metal cones whose sounds echo the rhythm of falling rain. 🌧️ The jingles are traditionally associated with healing, with water symbolizing the washing away of pain, grief, trauma, and illness.⁠\n⁠\nA powerful tradition to witness. 🩵⁠\n🎥: @aeriusbentonbanai",
-          "hashtags": [],
-          "likes": 2825,
-          "comments": 13,
-          "views": 120017,
-          "timestamp": "2026-09-28T20:03:14.000Z"
-        },
-        {
-          "id": "3996349847259539861",
-          "url": "https://www.instagram.com/p/Dd14wM0F2mV/",
-          "type": "Sidecar",
-          "caption": "This ancient town was built around a waterfall. ⁠\n⁠\nFurong Town in Hunan, China, is famous for the 60-meter waterfall that flows right through the town before dropping into the valley below.⁠\n⁠\nWooden houses, narrow paths, and old buildings line the cliffs around the falls, creating one of the most unusual townscapes in China.⁠\n⁠\nAbout 22,000 permanent residents live in Furong Town, primarily consisting of the Tujia ethnic minority alongside Han Chinese residents.⁠\n⁠\nBy: @allen.fu88⁠",
-          "hashtags": [],
-          "likes": 5745,
-          "comments": 19,
-          "views": null,
-          "timestamp": "2026-09-28T19:01:08.000Z"
-        },
-        {
-          "id": "3996319369206367590",
-          "url": "https://www.instagram.com/p/Dd1x0r6jwVm/",
-          "type": "Video",
-          "caption": "A Highland cow with quite the impressive stretch. 🐮😂⁠\nThis fluffy guy reaching out with those long horns, a pretty fun close-up of one of Scotland’s most recognizable animals.⁠\n⁠\nHave you ever seen a Highland cow in person?⁠\n🎥: @passportunities",
-          "hashtags": [],
-          "likes": 7913,
-          "comments": 19,
-          "views": 181550,
-          "timestamp": "2026-09-28T18:03:11.000Z"
         }
       ],
       "engagementRate": 0.05
@@ -1122,9 +1120,9 @@
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 268485729,
+      "followers": 268472181,
       "following": 194,
-      "postsCount": 32027,
+      "postsCount": 32030,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
       "recentPosts": [
         {
@@ -1136,9 +1134,9 @@
             "Rolex",
             "PerpetualPlanet"
           ],
-          "likes": 77715,
-          "comments": 504,
-          "views": 863764,
+          "likes": 77862,
+          "comments": 510,
+          "views": 864899,
           "timestamp": "2026-09-10T13:00:14.000Z"
         },
         {
@@ -1149,10 +1147,47 @@
           "hashtags": [
             "PompeiiOutOfTime"
           ],
-          "likes": 27864,
+          "likes": 27913,
           "comments": 313,
-          "views": 71830,
+          "views": 72367,
           "timestamp": "2026-07-23T13:00:03.000Z"
+        },
+        {
+          "id": "3997286990333067271",
+          "url": "https://www.instagram.com/p/Dd5N1bUF8AH/",
+          "type": "Image",
+          "caption": "More than 80 years after experts first identified lipedema, its causes remain poorly understood. The condition primarily affects women, causing disproportionate fat buildup in the legs that may be accompanied by pain, tenderness, swelling, and easy bruising. With much of the research on this condition emerging only in the past five years, scientists are now investigating its biology and searching for better ways to identify it.\n\nLearn what scientists know about lipedema at the link in bio.\n\nPhot",
+          "hashtags": [],
+          "likes": 16261,
+          "comments": 478,
+          "views": null,
+          "timestamp": "2026-09-30T22:00:00.000Z"
+        },
+        {
+          "id": "3997801095685522348",
+          "url": "https://www.instagram.com/p/Dd7CupPAMOs/",
+          "type": "Video",
+          "caption": "Presented by @rolex. Sound on to hear the snuffing, chuffing, and huffing of this foraging pangolin, filmed by National Geographic photographer @marcuswestbergphoto. Pangolins are among the most trafficked mammals on Earth, hunted for their meat and their scales, which are used in traditional Chinese medicine. At the Tikki Hywood Foundation rescue centers in Zimbabwe and Cameroon, efforts are underway to rehabilitate and rewild these creatures with the help of dedicated carers and conservationis",
+          "hashtags": [
+            "Rolex",
+            "AfricaEarthsWildHome.",
+            "PerpetualPlanet"
+          ],
+          "likes": 86309,
+          "comments": 266,
+          "views": 1288111,
+          "timestamp": "2026-09-30T19:04:42.000Z"
+        },
+        {
+          "id": "3997591020523352159",
+          "url": "https://www.instagram.com/p/Dd6S9pflfBf/",
+          "type": "Video",
+          "caption": "Bad news, you can't take a deep breath without an oxygen supply on Mars. Good news, you won't get blown over by a stiff breeze.\n\nDiscover more about LOST IN SPACE: 5,000 Facts for Navigating the Universe at the link in bio.",
+          "hashtags": [],
+          "likes": 23214,
+          "comments": 101,
+          "views": 259361,
+          "timestamp": "2026-09-30T13:00:03.000Z"
         },
         {
           "id": "3997120951628558048",
@@ -1164,8 +1199,8 @@
             "AfricaEarthsWildHome.",
             "PerpetualPlanet"
           ],
-          "likes": 69971,
-          "comments": 77,
+          "likes": 102039,
+          "comments": 112,
           "views": null,
           "timestamp": "2026-09-29T22:00:01.000Z"
         },
@@ -1177,8 +1212,8 @@
           "hashtags": [
             "PhotoArk"
           ],
-          "likes": 67905,
-          "comments": 106,
+          "likes": 85693,
+          "comments": 132,
           "views": null,
           "timestamp": "2026-09-29T19:00:01.000Z"
         },
@@ -1191,8 +1226,8 @@
             "Rolex",
             "PerpetualPlanet"
           ],
-          "likes": 35616,
-          "comments": 115,
+          "likes": 42647,
+          "comments": 133,
           "views": null,
           "timestamp": "2026-09-29T13:00:35.000Z"
         },
@@ -1204,8 +1239,8 @@
           "hashtags": [
             "NatGeoYourShotOceans"
           ],
-          "likes": 205476,
-          "comments": 446,
+          "likes": 226083,
+          "comments": 495,
           "views": null,
           "timestamp": "2026-09-29T01:00:01.000Z"
         },
@@ -1217,9 +1252,9 @@
           "hashtags": [
             "IncredibleAnimalJourneys"
           ],
-          "likes": 38243,
-          "comments": 191,
-          "views": 146254,
+          "likes": 40387,
+          "comments": 204,
+          "views": 159484,
           "timestamp": "2026-09-28T17:04:13.000Z"
         },
         {
@@ -1228,8 +1263,8 @@
           "type": "Sidecar",
           "caption": "National Geographic photographer Jasper Doest joined an annual scientific expedition of the Okavango Delta—learning from local experts’ connections to this living landscape and changing his outlook on how we all connect with the natural world. | Together, through a 10-year partnership, @DeBeersGroup and National Geographic are helping protect the Okavango Delta’s source waters and support sustainable livelihoods in the region.",
           "hashtags": [],
-          "likes": 25532,
-          "comments": 89,
+          "likes": 26867,
+          "comments": 92,
           "views": null,
           "timestamp": "2026-09-28T15:14:59.000Z"
         },
@@ -1243,57 +1278,20 @@
             "AfricaEarthsWildHome.",
             "PerpetualPlanet"
           ],
-          "likes": 56991,
-          "comments": 168,
+          "likes": 59853,
+          "comments": 175,
           "views": null,
           "timestamp": "2026-09-27T22:00:01.000Z"
-        },
-        {
-          "id": "3995533925245343585",
-          "url": "https://www.instagram.com/p/Ddy_O-ORVdh/",
-          "type": "Video",
-          "caption": "@paige_tingey has traveled the world chasing incredible adventures as part of the Creator Cohort campaign. The only thing missing? Coming face-to-face with a gorilla and an orca in the wild.\n\nCatch the full #NatGeo9 interview with Paige on the Nat Geo YouTube Channel at the link in bio.",
-          "hashtags": [
-            "NatGeo9"
-          ],
-          "likes": 9038,
-          "comments": 73,
-          "views": 241034,
-          "timestamp": "2026-09-27T16:00:19.000Z"
-        },
-        {
-          "id": "3994420100090815761",
-          "url": "https://www.instagram.com/p/DdvB-rtl-UR/",
-          "type": "Image",
-          "caption": "Known as the \"Blue Marble,\" this iconic image of Earth was taken in 1972 by the Apollo 17 crew while en route to the moon.\n\nPhotograph by NASA.",
-          "hashtags": [],
-          "likes": 117062,
-          "comments": 460,
-          "views": null,
-          "timestamp": "2026-09-26T22:00:01.000Z"
-        },
-        {
-          "id": "3994203701719759617",
-          "url": "https://www.instagram.com/p/DduQxrBjnsB/",
-          "type": "Video",
-          "caption": "When 33 miners became trapped underground in northern Chile, the whole world watched as rescuers searched for ways to bring them back to safety. \n\n#ChileanMineRescue: Race Against Time is now streaming on @DisneyPlus and @hulu.",
-          "hashtags": [
-            "ChileanMineRescue:"
-          ],
-          "likes": 24457,
-          "comments": 119,
-          "views": 459321,
-          "timestamp": "2026-09-26T16:00:03.000Z"
         }
       ],
-      "engagementRate": 0.02
+      "engagementRate": 0.03
     },
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10835569,
+      "followers": 10834975,
       "following": 416,
-      "postsCount": 7531,
+      "postsCount": 7532,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
       "recentPosts": [
         {
@@ -1306,10 +1304,23 @@
             "DavidAttenborough",
             "BluePlanetIII"
           ],
-          "likes": 902236,
-          "comments": 3985,
-          "views": 3789286,
+          "likes": 902313,
+          "comments": 3986,
+          "views": 3789752,
           "timestamp": "2026-05-08T21:07:02.000Z"
+        },
+        {
+          "id": "3997648214415323064",
+          "url": "https://www.instagram.com/p/Dd6f97dMy-4/",
+          "type": "Video",
+          "caption": "Could a fire-breathing robot lead the fight against wildfires? 🔥\n \nAs wildfires become an increasing threat, new technology is helping us fight back. @james_stew explains how robots, smart sensors and satellites are being used to reduce fire risks, detecting them earlier and help protect forests and communities.\n \n#FixingThePlanet is a digital series, sponsored by @speedandscale, that spotlights everyday choices and cutting-edge innovations that can help us preserve our planet for generations t",
+          "hashtags": [
+            "FixingThePlanet"
+          ],
+          "likes": 1928,
+          "comments": 13,
+          "views": 32903,
+          "timestamp": "2026-09-30T14:00:04.000Z"
         },
         {
           "id": "3996274149553340358",
@@ -1319,9 +1330,9 @@
           "hashtags": [
             "FixingThePlanet"
           ],
-          "likes": 2331,
-          "comments": 31,
-          "views": 13336,
+          "likes": 2455,
+          "comments": 33,
+          "views": 14268,
           "timestamp": "2026-09-28T16:30:12.000Z"
         },
         {
@@ -1335,9 +1346,9 @@
             "Winter",
             "Acorn"
           ],
-          "likes": 15247,
-          "comments": 107,
-          "views": 98204,
+          "likes": 15780,
+          "comments": 109,
+          "views": 102559,
           "timestamp": "2026-09-27T14:00:25.000Z"
         },
         {
@@ -1351,9 +1362,9 @@
             "Wildlife",
             "Nature"
           ],
-          "likes": 39859,
-          "comments": 226,
-          "views": 392492,
+          "likes": 40779,
+          "comments": 234,
+          "views": 401255,
           "timestamp": "2026-09-25T16:04:17.000Z"
         },
         {
@@ -1367,9 +1378,9 @@
             "MarineAnimals",
             "Underwater"
           ],
-          "likes": 27843,
-          "comments": 284,
-          "views": 222891,
+          "likes": 28315,
+          "comments": 288,
+          "views": 227490,
           "timestamp": "2026-09-23T14:02:50.000Z"
         },
         {
@@ -1382,9 +1393,9 @@
             "TreeKangaroo",
             "Endangered"
           ],
-          "likes": 6532,
+          "likes": 6596,
           "comments": 54,
-          "views": 38957,
+          "views": 39522,
           "timestamp": "2026-09-21T16:30:48.000Z"
         },
         {
@@ -1398,9 +1409,9 @@
             "Danger",
             "Predator"
           ],
-          "likes": 11779,
+          "likes": 11901,
           "comments": 66,
-          "views": 64240,
+          "views": 65080,
           "timestamp": "2026-09-20T14:01:23.000Z"
         },
         {
@@ -1414,9 +1425,9 @@
             "Wildlife",
             "Nature"
           ],
-          "likes": 13979,
-          "comments": 96,
-          "views": 430639,
+          "likes": 14098,
+          "comments": 97,
+          "views": 433903,
           "timestamp": "2026-09-18T16:44:27.000Z"
         },
         {
@@ -1430,9 +1441,9 @@
             "Tour",
             "AnimalFacts"
           ],
-          "likes": 2728,
+          "likes": 2733,
           "comments": 21,
-          "views": 34260,
+          "views": 34330,
           "timestamp": "2026-09-16T11:19:41.000Z"
         },
         {
@@ -1446,9 +1457,9 @@
             "MarineAnimals",
             "Underwater"
           ],
-          "likes": 6022,
+          "likes": 6043,
           "comments": 27,
-          "views": 44567,
+          "views": 44704,
           "timestamp": "2026-09-16T15:02:28.000Z"
         },
         {
@@ -1461,38 +1472,22 @@
             "MarineAnimals",
             "Underwater"
           ],
-          "likes": 8187,
-          "comments": 21,
-          "views": 65424,
+          "likes": 8207,
+          "comments": 22,
+          "views": 65508,
           "timestamp": "2026-09-13T09:30:04.000Z"
-        },
-        {
-          "id": "3983963877186570935",
-          "url": "https://www.instagram.com/p/DdJ4gnRsYq3/",
-          "type": "Video",
-          "caption": "Every day I’m shufflin’ 🕺\n\nMale manakins take to the branches to perform elaborate courtship dances, with females watching closely and judging potential mates by their moves. \n\n#EarthCapture by @lexwildlife \n.\n.\n.\n.\n#Manakin #Wildlife #Nature",
-          "hashtags": [
-            "EarthCapture",
-            "Manakin",
-            "Wildlife",
-            "Nature"
-          ],
-          "likes": 11742,
-          "comments": 82,
-          "views": 54925,
-          "timestamp": "2026-09-11T16:55:10.000Z"
         }
       ],
-      "engagementRate": 0.81
+      "engagementRate": 0.8
     }
   ],
   "ideas": [
     {
       "title": "Retiring Years Chance",
-      "rationale": "Inspired by @bbcearth's post (902236 likes, 3985 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (902313 likes, 3986 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 902236,
-      "comments": 3985,
+      "likes": 902313,
+      "comments": 3986,
       "tags": [
         "DavidAttenborough100",
         "DavidAttenborough",
@@ -1501,49 +1496,53 @@
     },
     {
       "title": "Photo Marciariederer Weedy",
-      "rationale": "Inspired by @natgeo's post (205476 likes, 446 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (226083 likes, 495 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 205476,
-      "comments": 446,
+      "likes": 226083,
+      "comments": 495,
       "tags": [
         "NatGeoYourShotOceans"
       ]
     },
     {
-      "title": "Known Marble Iconic",
-      "rationale": "Inspired by @natgeo's post (117062 likes, 460 comments) — adapt the angle for @quietlystrange09.",
+      "title": "Presented Rolex Until",
+      "rationale": "Inspired by @natgeo's post (102039 likes, 112 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 117062,
-      "comments": 460,
-      "tags": []
+      "likes": 102039,
+      "comments": 112,
+      "tags": [
+        "Rolex",
+        "AfricaEarthsWildHome.",
+        "PerpetualPlanet"
+      ]
     },
     {
-      "title": "Presented Rolex Welcome",
-      "rationale": "Inspired by @natgeo's post (77715 likes, 504 comments) — adapt the angle for @quietlystrange09.",
+      "title": "Photos Joelsartore Giant",
+      "rationale": "Inspired by @natgeo's post (85693 likes, 132 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 77715,
-      "comments": 504,
+      "likes": 85693,
+      "comments": 132,
+      "tags": [
+        "PhotoArk"
+      ]
+    },
+    {
+      "title": "Rolex Proud Present",
+      "rationale": "Inspired by @natgeo's post (42647 likes, 133 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "natgeo",
+      "likes": 42647,
+      "comments": 133,
       "tags": [
         "Rolex",
         "PerpetualPlanet"
       ]
     },
     {
-      "title": "Photos Joelsartore Giant",
-      "rationale": "Inspired by @natgeo's post (67905 likes, 106 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 67905,
-      "comments": 106,
-      "tags": [
-        "PhotoArk"
-      ]
-    },
-    {
       "title": "Performance Great Spotted",
-      "rationale": "Inspired by @bbcearth's post (39859 likes, 226 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (40779 likes, 234 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 39859,
-      "comments": 226,
+      "likes": 40779,
+      "comments": 234,
       "tags": [
         "EarthCapture",
         "GreatSpottedWoodpecker",
@@ -1553,25 +1552,27 @@
     },
     {
       "title": "Seconds Relax Prairie",
-      "rationale": "Inspired by @natgeo's post (38243 likes, 191 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (40387 likes, 204 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 38243,
-      "comments": 191,
+      "likes": 40387,
+      "comments": 204,
       "tags": [
         "IncredibleAnimalJourneys"
       ]
     },
     {
-      "title": "Rolex Proud Present",
-      "rationale": "Inspired by @natgeo's post (35616 likes, 115 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 35616,
-      "comments": 115,
+      "title": "Again Humphead Parrotfish",
+      "rationale": "Inspired by @bbcearth's post (28315 likes, 288 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "bbcearth",
+      "likes": 28315,
+      "comments": 288,
       "tags": [
-        "Rolex",
-        "PerpetualPlanet"
+        "BluePlanet",
+        "25Anniversary",
+        "MarineAnimals",
+        "Underwater"
       ]
     }
   ],
-  "featuredIdeaIndex": 1
+  "featuredIdeaIndex": 2
 }
