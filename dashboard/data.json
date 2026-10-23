@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:52:43.045Z",
+  "generatedAt": "2026-10-23T08:47:59.589Z",
   "source": "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)",
   "own": {
     "handle": "quietlystrange09",
@@ -189,20 +189,31 @@
     {
       "handle": "kurzgesagt",
       "fullName": "Kurzgesagt - In a nutshell",
-      "followers": 1608506,
+      "followers": 1608551,
       "following": 693,
-      "postsCount": 2360,
+      "postsCount": 2361,
       "bio": "Sciency videos made with love, a lot of time and after effects.\nLinks to our videos, shop, website & more:",
       "recentPosts": [
+        {
+          "id": "4013638516597049364",
+          "url": "https://www.instagram.com/p/DezTvc2l8gU/",
+          "type": "Image",
+          "caption": "🤨",
+          "hashtags": [],
+          "likes": 3888,
+          "comments": 66,
+          "views": null,
+          "timestamp": "2026-10-22T15:30:26.000Z"
+        },
         {
           "id": "4012866050143176687",
           "url": "https://www.instagram.com/p/DewkGlaAkfv/",
           "type": "Video",
           "caption": "Has anyone seen our asteroid? We think it's somewhere in there behind all the extracto- oh, a jumpscare!\n\nDon't miss out, and join us on this space adventure! Get Star Birds, which we developed together with our friends at @toukana_interactive on Steam!",
           "hashtags": [],
-          "likes": 1256,
+          "likes": 1498,
           "comments": 7,
-          "views": 10019,
+          "views": 12999,
           "timestamp": "2026-10-21T14:02:39.000Z"
         },
         {
@@ -211,9 +222,9 @@
           "type": "Video",
           "caption": "50 nuclear bombs are missing, lost due to accidents, technical failures, and careless mistakes. Some were found, but a lot are still missing. How safe are we?",
           "hashtags": [],
-          "likes": 5428,
+          "likes": 5579,
           "comments": 32,
-          "views": 44777,
+          "views": 46179,
           "timestamp": "2026-10-18T13:59:42.000Z"
         },
         {
@@ -222,7 +233,7 @@
           "type": "Image",
           "caption": "For centuries, people have wondered about the strange sounds coming deep from the mountains of Kazakhstan. The singing sand dunes have sparked the imagination and countless stories about what might be the true source of these humming melodies, from trapped evil spirits to the restless soul of Genghis Khan.\n\nWhat is hiding beneath the singing sands? How did Genghis Khan become connected to this phenomenon, and can science explain a mystery that inspired stories for generations? Watch our latest N",
           "hashtags": [],
-          "likes": 13190,
+          "likes": 13513,
           "comments": 24,
           "views": null,
           "timestamp": "2026-10-15T14:01:34.000Z"
@@ -233,9 +244,9 @@
           "type": "Video",
           "caption": "Don't forget to plug in your solar panels if you need more power! (And don't forget to put them on the sunny side of the asteroid, too! ☀️\n\nAre you ready for your space adventure? Star Birds, a game we developed together with our friends at @toukana_interactive is available on Steam!",
           "hashtags": [],
-          "likes": 1926,
+          "likes": 1938,
           "comments": 37,
-          "views": 13747,
+          "views": 13895,
           "timestamp": "2026-10-11T14:01:14.000Z"
         },
         {
@@ -244,9 +255,9 @@
           "type": "Video",
           "caption": "Where did the antimatter go? The Big Bang should have created equal amounts of matter and antimatter, which would have annihilated each other instantly. So why does anything exist at all? Scientists are still hunting for the missing half of reality.",
           "hashtags": [],
-          "likes": 6669,
-          "comments": 49,
-          "views": 58380,
+          "likes": 6730,
+          "comments": 56,
+          "views": 58963,
           "timestamp": "2026-10-10T14:01:25.000Z"
         },
         {
@@ -255,7 +266,7 @@
           "type": "Image",
           "caption": "What we know about human history is only a fraction of the full story. Much of the rest is like dark matter, invisible to us. We can’t see it, and we can only see the effects of its presence. But thanks to new techniques for DNA sequencing, dating ancient detritus, mathematical models, and aerial and lidar archaeology, we are now able to get a faint idea of what this world might have looked and felt like. \n\nWho was the first human? Where did the first civilization begin and what did life look li",
           "hashtags": [],
-          "likes": 5397,
+          "likes": 5449,
           "comments": 21,
           "views": null,
           "timestamp": "2026-10-09T14:01:25.000Z"
@@ -266,7 +277,7 @@
           "type": "Sidecar",
           "caption": "The new Human Era Calendar is finally here! And this year it’s more legendary than ever ✨\n\nJoin us in 12,027 as we honor the dark tales and legends that helped us make sense of the world before science. Each month takes you on a journey through forgotten worlds and human imagination. \n\nIt’s not just a year’s worth of kurzgesagt art for your home, it’s a declaration of human expression and creativity in a time of meaningless AI slop. \n\nThe Calendar is our most cherished release every year. By buy",
           "hashtags": [],
-          "likes": 3119,
+          "likes": 3134,
           "comments": 14,
           "views": null,
           "timestamp": "2026-10-08T14:32:50.000Z"
@@ -277,8 +288,8 @@
           "type": "Image",
           "caption": "In July of 2026, 700 AI agents hacked the infrastructure of Hugging Face in order to solve a task. This task was designed to be impossible to solve, so just within hours, they joined forces, even created a society, and finally, they executed a sophisticated cyberattack that would have gotten a human up to 10 years in prison. The worst part is, they knew their actions were unethical and against the rules, and they did it anyway.\n\nWhat exactly are AI agents, and how do they grow their \"intelligenc",
           "hashtags": [],
-          "likes": 43107,
-          "comments": 172,
+          "likes": 43165,
+          "comments": 173,
           "views": null,
           "timestamp": "2026-10-05T15:20:24.000Z"
         },
@@ -288,7 +299,7 @@
           "type": "Image",
           "caption": "Emergency video incoming... 24 hours!",
           "hashtags": [],
-          "likes": 5924,
+          "likes": 5932,
           "comments": 33,
           "views": null,
           "timestamp": "2026-10-04T14:27:34.000Z"
@@ -299,9 +310,9 @@
           "type": "Video",
           "caption": "Over 100 satellites will crash back to Earth this year, and soon there’ll be thousands. With 100,000 satellites by 2030, the skies will be crowded, and the fallout could be serious. Should we launch more or cap it now?",
           "hashtags": [],
-          "likes": 7390,
+          "likes": 7405,
           "comments": 53,
-          "views": 87188,
+          "views": 87367,
           "timestamp": "2026-10-03T14:01:43.000Z"
         },
         {
@@ -310,24 +321,13 @@
           "type": "Image",
           "caption": "A new Early Access update for Star Birds is out! ✨\n\nThe Star System Cinnakeet is getting way too hot, so there’s only one solution: build an antimatter-powered spaceship with the help of a new alien friend, and get the flock out of there!\n\nPlay now on Steam!",
           "hashtags": [],
-          "likes": 2299,
+          "likes": 2303,
           "comments": 9,
           "views": null,
           "timestamp": "2026-10-02T14:01:54.000Z"
-        },
-        {
-          "id": "3996921001397027926",
-          "url": "https://www.instagram.com/p/Dd36nljkYRW/",
-          "type": "Video",
-          "caption": "Our yearly tradition is returning soon... 👀\nDon't miss the new 12,027 Calendar drop, and sign up for our newsletter.\n\nCan’t wait to get yours? Early access for YouTube Members and Patrons starts TODAY!",
-          "hashtags": [],
-          "likes": 8152,
-          "comments": 32,
-          "views": 47569,
-          "timestamp": "2026-09-29T14:01:19.000Z"
         }
       ],
-      "engagementRate": 0.54
+      "engagementRate": 0.52
     },
     {
       "handle": "spacefacts.ig",
@@ -835,19 +835,85 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22294687,
+      "followers": 22292528,
       "following": 37,
-      "postsCount": 11813,
+      "postsCount": 11819,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
       "recentPosts": [
+        {
+          "id": "4013835034301855329",
+          "url": "https://www.instagram.com/p/De0AbKOlHZh/",
+          "type": "Video",
+          "caption": "Looking for love in Ireland? You might want to find this book! 💚📖 ⁠\nMeet the Irish Matchmaking Festival in Lisdoonvarna, where Willy Daly’s matchmaking book has been passed down through generations of matchmakers for around 160 years.⁠\n⁠\nAccording to local lore, touching the book’s cover for seven seconds could bring you love, or even marriage within a year. ⁠\nWould you give it a try? And be honest… how many seconds would you hold on? 😂⁠\n🎥: @traveltherapywithbee",
+          "hashtags": [],
+          "likes": 5462,
+          "comments": 80,
+          "views": 289407,
+          "timestamp": "2026-10-22T22:03:17.000Z"
+        },
+        {
+          "id": "4013808670182227903",
+          "url": "https://www.instagram.com/p/Dez6bgumD-_/",
+          "type": "Sidecar",
+          "caption": "Photographer @oliverhl captured a cormorant fisherman of Yangshuo, China, sitting on his bamboo raft with his trained bird by his side, surrounded by towering karst mountains.⁠\n⁠\nFor centuries, fishermen here worked with cormorants that dive underwater to catch fish. ⁠\n⁠\nToday, modern fishing has mostly replaced this way of life, and only a handful of fishermen like him still keep the tradition alive.",
+          "hashtags": [],
+          "likes": 1562,
+          "comments": 12,
+          "views": null,
+          "timestamp": "2026-10-22T21:08:42.000Z"
+        },
+        {
+          "id": "4013774362931011353",
+          "url": "https://www.instagram.com/p/DezyoRnEp8Z/",
+          "type": "Video",
+          "caption": "A massage in Bangkok that feels more like a party than a spa day! 😂💆‍♀️ ⁠\nBRADBURY, where a one-hour session combines 40 minutes of leg and shoulder massage with 20 minutes of dancing.⁠\n⁠\nThe experience cost ฿8,945 (around €240) for three people, so it’s definitely a splurge rather than your usual massage. ⁠\n⁠\nBut when relaxation meets a dance floor, you know it’s going to be an experience to remember! 💃⁠\n🎥: @tsaklidi",
+          "hashtags": [],
+          "likes": 1333,
+          "comments": 23,
+          "views": 157152,
+          "timestamp": "2026-10-22T20:03:15.000Z"
+        },
+        {
+          "id": "4013744388043457670",
+          "url": "https://www.instagram.com/p/Dezr0FUjESG/",
+          "type": "Sidecar",
+          "caption": "Japan has a way of surprising you around every corner. It’s a place where centuries-old traditions sit right next to modern life, and every season paints it in a different colour. ⁠\n⁠\nFair warning: these photos might send you straight to the booking page.⁠ ;)⁠\n⁠\nBy: @llittlepig",
+          "hashtags": [],
+          "likes": 9347,
+          "comments": 35,
+          "views": null,
+          "timestamp": "2026-10-22T19:00:46.000Z"
+        },
+        {
+          "id": "4013714014068525312",
+          "url": "https://www.instagram.com/p/Dezk6FWj8kA/",
+          "type": "Video",
+          "caption": "Imagine going out for dinner and getting told off by your mum the entire time! 😂🍽️ ⁠\n50’s Prime Time Café at Disney’s Hollywood Studios in Florida, is where the servers play the role of your family and the dining experience comes with a side of playful scolding.⁠\n⁠\nSet in a retro 1950s kitchen with vintage sitcoms playing on the TV, this restaurant combines comfort food with a nostalgic, interactive atmosphere. The service might be cheeky, but the food is a crowd-pleaser! 💛⁠\n🎥: @drchristineh",
+          "hashtags": [],
+          "likes": 3343,
+          "comments": 42,
+          "views": 234011,
+          "timestamp": "2026-10-22T18:03:20.000Z"
+        },
+        {
+          "id": "4013685399377155762",
+          "url": "https://www.instagram.com/p/DezeZr2DBay/",
+          "type": "Sidecar",
+          "caption": "This leopard is enjoying the view from an abandoned watchtower. 🐆⁠\n⁠\nPhotographer @kritiwaliaphotography captured Bahadur, a 13-year-old leopard known as the “king of Jhalana,” sitting on an old watchtower inside Jhalana Leopard Reserve in India.⁠\n⁠\nThe tower was once used by forest guards to spot fires and monitor the Aravalli Hills. Today, it has become a favorite vantage point for the reserve’s leopards. ⁠\n⁠\nBahadur is also believed to be the father of around 75% of Jhalana’s leopard populat",
+          "hashtags": [],
+          "likes": 26113,
+          "comments": 95,
+          "views": null,
+          "timestamp": "2026-10-22T17:03:43.000Z"
+        },
         {
           "id": "4013140474529163347",
           "url": "https://www.instagram.com/p/Dexif_CDahT/",
           "type": "Sidecar",
           "caption": "⁠Boulders Beach in South Africa is home to a famous colony of African penguins. 🐧 The sheltered coves have calm water, large granite boulders, and views of the birds as they move between the rocks and sea.⁠\n⁠\nThe colony first arrived here in 1982 and has since become one of Cape Town’s most famous attractions.",
           "hashtags": [],
-          "likes": 2801,
-          "comments": 27,
+          "likes": 4463,
+          "comments": 41,
           "views": null,
           "timestamp": "2026-10-21T23:00:55.000Z"
         },
@@ -857,9 +923,9 @@
           "type": "Video",
           "caption": "The Dragon Blood Tree, a natural wonder that looks like something from another planet.⁠\nNative to Yemen’s Socotra Archipelago, this extraordinary tree releases a deep-red resin when its bark is cut or damaged, giving it its mysterious name. ⁠\n⁠\nIts unique umbrella-shaped canopy helps it survive in Socotra’s harsh, dry climate by capturing moisture from the air.⁠\nSome of these remarkable trees are believed to live for centuries, although their exact lifespan remains uncertain. ⁠\n🎥: @thisisranatr",
           "hashtags": [],
-          "likes": 2200,
-          "comments": 23,
-          "views": 176261,
+          "likes": 3295,
+          "comments": 29,
+          "views": 283510,
           "timestamp": "2026-10-21T22:03:28.000Z"
         },
         {
@@ -868,8 +934,8 @@
           "type": "Sidecar",
           "caption": "Inside Hotel Monteleone in New Orleans’ French Quarter, the Carousel Bar has been slowly turning since 1949. Its 25 seats make one full rotation every 15 minutes, so guests see the room change while they sip.⁠\n⁠\nThe hotel has welcomed literary legends like Ernest Hemingway, Tennessee Williams, and Truman Capote. ⁠\n⁠\nBy: @hotelmonteleone",
           "hashtags": [],
-          "likes": 3829,
-          "comments": 33,
+          "likes": 5054,
+          "comments": 39,
           "views": null,
           "timestamp": "2026-10-21T21:04:40.000Z"
         },
@@ -879,9 +945,9 @@
           "type": "Video",
           "caption": "What does a drink for just $0.20 taste like? 👀⁠\nYou’ll find surprises like this on the streets of Bangladesh! ⁠\n⁠\nWould you dare to give it a try?⁠\n🎥: @hugh.abroad",
           "hashtags": [],
-          "likes": 2290,
-          "comments": 232,
-          "views": 302254,
+          "likes": 3118,
+          "comments": 321,
+          "views": 461277,
           "timestamp": "2026-10-21T20:03:25.000Z"
         },
         {
@@ -890,8 +956,8 @@
           "type": "Sidecar",
           "caption": "Some faces tell a whole life story without saying a word 🤍⁠\n⁠\nPhotographer @nattysingh captures the people behind those stories: a lifetime of sun, sorrow, laughter, and love, written into every line.⁠\n⁠\nBeyond what we see, there’s a universe of memories, journeys, and experiences that shape who we are, and who we become. ⁠\n⁠\nIn his own words: “One day, if we are lucky, life will write its story across our faces too… of all we loved, all we lost, and everything we somehow survived”.⁠",
           "hashtags": [],
-          "likes": 2703,
-          "comments": 28,
+          "likes": 3648,
+          "comments": 33,
           "views": null,
           "timestamp": "2026-10-21T19:01:02.000Z"
         },
@@ -901,76 +967,10 @@
           "type": "Sidecar",
           "caption": "This canyon looks like it doesn’t belong on Earth. ⁠\n⁠\nSocotra, Yemen, is known for some of the most unique nature you’ll find anywhere in the world. Strange, unique trees, white limestone cliffs, turquoise water, and dry valleys all come together across the island.⁠\n⁠\nIt’s the kind of place where every view seems completely different from the last.⁠\n⁠\nBy: @primpaul",
           "hashtags": [],
-          "likes": 3121,
-          "comments": 23,
+          "likes": 3931,
+          "comments": 26,
           "views": null,
           "timestamp": "2026-10-21T17:00:48.000Z"
-        },
-        {
-          "id": "4012853197588918111",
-          "url": "https://www.instagram.com/p/DewhLjiE-9f/",
-          "type": "Sidecar",
-          "caption": "Comment HOTEL and we’ll send you 500+ hotels that collab with creators for free stays.",
-          "hashtags": [],
-          "likes": 738,
-          "comments": 8,
-          "views": null,
-          "timestamp": "2026-10-21T13:30:00.000Z"
-        },
-        {
-          "id": "4012417438771326825",
-          "url": "https://www.instagram.com/p/Deu-GbgjC9p/",
-          "type": "Sidecar",
-          "caption": "@solly_levi captured these striking moments from Namibia that are guaranteed to make your day!⁠\n⁠\nNamibia’s extensive, open landscapes make it one of the most dramatic settings for wildlife photography, and these shots prove it.⁠\n⁠\nWhich of these moments would you love to witness in person?",
-          "hashtags": [],
-          "likes": 25998,
-          "comments": 116,
-          "views": null,
-          "timestamp": "2026-10-20T23:04:50.000Z"
-        },
-        {
-          "id": "4012385632584326070",
-          "url": "https://www.instagram.com/p/Deu23lsEdu2/",
-          "type": "Video",
-          "caption": "The Everglades reveal a whole different world when the rainy season arrives. 🌿💦⁠\n@lucamartinez.fl captures this incredible underwater view as rising waters transform the landscape, revealing just how much life exists beneath the surface.⁠\n⁠\nNature never stops surprising us, especially when we get a glimpse of what usually stays hidden. 🐊✨",
-          "hashtags": [],
-          "likes": 21613,
-          "comments": 126,
-          "views": 188458,
-          "timestamp": "2026-10-20T22:03:08.000Z"
-        },
-        {
-          "id": "4012355171627344006",
-          "url": "https://www.instagram.com/p/Deuv8UtjKCG/",
-          "type": "Sidecar",
-          "caption": "This lake holds a fifth of the world’s fresh water, and every winter it freezes into something unreal ❄️ ⁠\n⁠\nLake Baikal in Siberia is the oldest and deepest lake on Earth, and from late February its ice turns crystal clear. Small guided groups cross a landscape that feels almost cosmic: ice so smooth it mirrors the sky, cliffs coated in frozen splashes, and the famous methane bubbles trapped deep inside.⁠\n⁠\nAs the guides behind these photos say, Baikal’s ice is something you should see with you",
-          "hashtags": [],
-          "likes": 12400,
-          "comments": 64,
-          "views": null,
-          "timestamp": "2026-10-20T21:00:35.000Z"
-        },
-        {
-          "id": "4012324796527847142",
-          "url": "https://www.instagram.com/p/DeupCTsiKbm/",
-          "type": "Video",
-          "caption": "What if your dinner menu was decided by tarot cards? 🔮🍽️ At Merlin’s in Ubud, Bali, guests draw cards that guide their food and drink choices, turning a restaurant visit into a unique, interactive experience.⁠\n⁠\nBeyond the mystical concept, the restaurant serves creative dishes with thoughtful presentation, proving that the experience is about more than just the surprise of not knowing what’s coming next. ⁠\n⁠\nWould you let the cards choose your entire meal?⁠\n🎥: @twosolesabroad",
-          "hashtags": [],
-          "likes": 4154,
-          "comments": 52,
-          "views": 231299,
-          "timestamp": "2026-10-20T20:03:10.000Z"
-        },
-        {
-          "id": "4012296226028590102",
-          "url": "https://www.instagram.com/p/DeuiijWExQW/",
-          "type": "Sidecar",
-          "caption": "Le Procope opened in 1686 and is often called the oldest café in Paris. ⁠\n⁠\nOver the centuries, it welcomed Voltaire, Rousseau, Victor Hugo, and, according to legend, a young Napoleon who couldn’t settle his bill!⁠\n⁠\nInstead of cash, he left his hat… and never came back for it. Today, the hat is still on display by the entrance.⁠\n⁠\nBy: @restaurantprocope1686",
-          "hashtags": [],
-          "likes": 4495,
-          "comments": 64,
-          "views": null,
-          "timestamp": "2026-10-20T19:03:44.000Z"
         }
       ],
       "engagementRate": 0.03
@@ -978,7 +978,7 @@
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 268304788,
+      "followers": 268302598,
       "following": 195,
       "postsCount": null,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
@@ -988,9 +988,9 @@
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10828086,
+      "followers": 10827702,
       "following": 417,
-      "postsCount": 7541,
+      "postsCount": 7543,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
       "recentPosts": [
         {
@@ -1004,10 +1004,38 @@
             "HansZimmer",
             "DavidAttenborough"
           ],
-          "likes": 82499,
-          "comments": 1066,
-          "views": 411447,
+          "likes": 83433,
+          "comments": 1080,
+          "views": 418800,
           "timestamp": "2026-10-06T18:00:04.000Z"
+        },
+        {
+          "id": "4014257846076162123",
+          "url": "https://www.instagram.com/p/De1gj4YMcBL/",
+          "type": "Video",
+          "caption": "New series. New discoveries. Meet the octopus that walks on land 🐙\n \nDriven by hunger, this octopus ventures onto land in search of her next meal, leaving behind the very water she needs to survive. Under the scorching summer sun, what begins as a clever hunting strategy quickly turns into a fight for survival.\n \nBlue Planet III returns to uncover extraordinary new stories and lives hidden beneath our oceans. Click the link in our bio to find out where to watch the full series. \n \n#BluePlanet3 ",
+          "hashtags": [
+            "BluePlanet3",
+            "Octopus",
+            "Survival"
+          ],
+          "likes": 4860,
+          "comments": 45,
+          "views": 39772,
+          "timestamp": "2026-10-23T05:00:02.000Z"
+        },
+        {
+          "id": "4013593430515123379",
+          "url": "https://www.instagram.com/p/DezJfXKsgSz/",
+          "type": "Video",
+          "caption": "Unlock the power of your garden 🌱  \n \nStudies have shown that letting your garden grow naturally can boost biodiversity and benefit the environment.  \n \nIt has the potential to: \n🌱 Double the number of plant species in 18 months  \n✂️ Increase pollinators by 170%   \n🇺🇸 Increase carbon dioxide storage in the US alone by 1.4 gigatonnes over 10 years   \n \nWatch the full film to discover the benefits of rewilding your garden via the link in our bio 🔗  \n \n#FixingThePlanet is a digital series, spo",
+          "hashtags": [
+            "FixingThePlanet"
+          ],
+          "likes": 804,
+          "comments": 6,
+          "views": 7948,
+          "timestamp": "2026-10-22T14:00:05.000Z"
         },
         {
           "id": "4012868761596055185",
@@ -1019,9 +1047,9 @@
             "DavidAttenborough",
             "Oceans"
           ],
-          "likes": 11650,
-          "comments": 101,
-          "views": 55881,
+          "likes": 14082,
+          "comments": 123,
+          "views": 69489,
           "timestamp": "2026-10-21T11:24:55.000Z"
         },
         {
@@ -1034,9 +1062,9 @@
             "Indohyus",
             "Nature"
           ],
-          "likes": 10346,
-          "comments": 55,
-          "views": 59170,
+          "likes": 12277,
+          "comments": 71,
+          "views": 68511,
           "timestamp": "2026-10-20T15:01:14.000Z"
         },
         {
@@ -1049,9 +1077,9 @@
             "DavidAttenborough",
             "HansZimmer"
           ],
-          "likes": 10304,
-          "comments": 91,
-          "views": 46477,
+          "likes": 10496,
+          "comments": 94,
+          "views": 47492,
           "timestamp": "2026-10-17T10:01:18.000Z"
         },
         {
@@ -1062,7 +1090,7 @@
           "hashtags": [
             "BluePlanet3"
           ],
-          "likes": 27088,
+          "likes": 27406,
           "comments": 169,
           "views": null,
           "timestamp": "2026-10-16T14:15:10.000Z"
@@ -1075,9 +1103,9 @@
           "hashtags": [
             "FixingThePlanet"
           ],
-          "likes": 1625,
+          "likes": 1659,
           "comments": 69,
-          "views": 14486,
+          "views": 14792,
           "timestamp": "2026-10-15T14:01:43.000Z"
         },
         {
@@ -1088,9 +1116,9 @@
           "hashtags": [
             "BluePlanet3"
           ],
-          "likes": 18991,
-          "comments": 193,
-          "views": 170097,
+          "likes": 19030,
+          "comments": 194,
+          "views": 170323,
           "timestamp": "2026-10-07T14:00:10.000Z"
         },
         {
@@ -1101,9 +1129,9 @@
           "hashtags": [
             "BluePlanet3"
           ],
-          "likes": 13034,
+          "likes": 13056,
           "comments": 136,
-          "views": 86806,
+          "views": 86971,
           "timestamp": "2026-10-05T14:00:04.000Z"
         },
         {
@@ -1114,9 +1142,9 @@
           "hashtags": [
             "ComingSoon"
           ],
-          "likes": 6333,
+          "likes": 6341,
           "comments": 81,
-          "views": 43707,
+          "views": 43788,
           "timestamp": "2026-10-04T14:00:17.000Z"
         },
         {
@@ -1125,51 +1153,22 @@
           "type": "Sidecar",
           "caption": "Florals? For Spring? Groundbreaking 🌿\n \nThe Nikon Comedy Wildlife Awards are back with another collection of perfectly timed moments from the natural world! Swipe through and tell us your favourite 👉\n \n📸 by Andy Rouse\n\nWhen you forget to take a towel to the shower…\n \n📸 by Tapani Linnanmäki\n\nThat post-lunch slump 🥱\n \n📸 by Celine Nic Oireachtaigh\n\nPersonal space has left the chat\n \n📸 by Doug Gimesy\n\n🥈🥇🥉\n \n📸 by Dirk Koster\n\nWhen they’re not that funny but you have a crush on them 😋\n \n📸",
           "hashtags": [],
-          "likes": 40827,
-          "comments": 128,
+          "likes": 40856,
+          "comments": 129,
           "views": null,
           "timestamp": "2026-10-02T14:00:03.000Z"
-        },
-        {
-          "id": "3998373118299109069",
-          "url": "https://www.instagram.com/p/Dd9EyqzsHbN/",
-          "type": "Video",
-          "caption": "Take a moment to slow down 💙\n \nRevisit 25 years of extraordinary ocean stories from Blue Planet with us. Find out where to watch the full series via the link in our bio 🔗\n\n#BluePlanet #25Anniversary #MarineAnimals #Underwater",
-          "hashtags": [
-            "BluePlanet",
-            "25Anniversary",
-            "MarineAnimals",
-            "Underwater"
-          ],
-          "likes": 16576,
-          "comments": 148,
-          "views": 56274,
-          "timestamp": "2026-10-01T14:00:06.000Z"
-        },
-        {
-          "id": "3997648214415323064",
-          "url": "https://www.instagram.com/p/Dd6f97dMy-4/",
-          "type": "Video",
-          "caption": "Could a fire-breathing robot lead the fight against wildfires? 🔥\n \nAs wildfires become an increasing threat, new technology is helping us fight back. @james_stew explains how robots, smart sensors and satellites are being used to reduce fire risks, detecting them earlier and help protect forests and communities.\n \n#FixingThePlanet is a digital series, sponsored by @speedandscale, that spotlights everyday choices and cutting-edge innovations that can help us preserve our planet for generations t",
-          "hashtags": [
-            "FixingThePlanet"
-          ],
-          "likes": 2973,
-          "comments": 52,
-          "views": 52640,
-          "timestamp": "2026-09-30T14:00:04.000Z"
         }
       ],
-      "engagementRate": 0.19
+      "engagementRate": 0.18
     }
   ],
   "ideas": [
     {
       "title": "Planet First Joins",
-      "rationale": "Inspired by @bbcearth's post (82499 likes, 1066 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (83433 likes, 1080 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 82499,
-      "comments": 1066,
+      "likes": 83433,
+      "comments": 1080,
       "tags": [
         "BluePlanet3",
         "JADE",
@@ -1179,69 +1178,68 @@
     },
     {
       "title": "Agents Hacked Infrastructure",
-      "rationale": "Inspired by @kurzgesagt's post (43107 likes, 172 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @kurzgesagt's post (43165 likes, 173 comments) — adapt the angle for @quietlystrange09.",
       "handle": "kurzgesagt",
-      "likes": 43107,
-      "comments": 172,
+      "likes": 43165,
+      "comments": 173,
       "tags": []
     },
     {
       "title": "Florals Spring Groundbreaking",
-      "rationale": "Inspired by @bbcearth's post (40827 likes, 128 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (40856 likes, 129 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 40827,
-      "comments": 128,
+      "likes": 40856,
+      "comments": 129,
       "tags": []
     },
     {
       "title": "Ocean Giants Mysteries",
-      "rationale": "Inspired by @bbcearth's post (27088 likes, 169 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (27406 likes, 169 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 27088,
+      "likes": 27406,
       "comments": 169,
       "tags": [
         "BluePlanet3"
       ]
     },
     {
-      "title": "Solly Captured These",
-      "rationale": "Inspired by @earthpix's post (25998 likes, 116 comments) — adapt the angle for @quietlystrange09.",
+      "title": "Leopard Enjoying Abandoned",
+      "rationale": "Inspired by @earthpix's post (26113 likes, 95 comments) — adapt the angle for @quietlystrange09.",
       "handle": "earthpix",
-      "likes": 25998,
-      "comments": 116,
-      "tags": []
-    },
-    {
-      "title": "Everglades Reveal Whole",
-      "rationale": "Inspired by @earthpix's post (21613 likes, 126 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "earthpix",
-      "likes": 21613,
-      "comments": 126,
+      "likes": 26113,
+      "comments": 95,
       "tags": []
     },
     {
       "title": "Night Ocean Heart",
-      "rationale": "Inspired by @bbcearth's post (18991 likes, 193 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (19030 likes, 194 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 18991,
-      "comments": 193,
+      "likes": 19030,
+      "comments": 194,
       "tags": [
         "BluePlanet3"
       ]
     },
     {
-      "title": "Moment Revisit Years",
-      "rationale": "Inspired by @bbcearth's post (16576 likes, 148 comments) — adapt the angle for @quietlystrange09.",
+      "title": "Planet Planet Returns",
+      "rationale": "Inspired by @bbcearth's post (14082 likes, 123 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 16576,
-      "comments": 148,
+      "likes": 14082,
+      "comments": 123,
       "tags": [
-        "BluePlanet",
-        "25Anniversary",
-        "MarineAnimals",
-        "Underwater"
+        "BluePlanet3",
+        "DavidAttenborough",
+        "Oceans"
       ]
+    },
+    {
+      "title": "Centuries People Wondered",
+      "rationale": "Inspired by @kurzgesagt's post (13513 likes, 24 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "kurzgesagt",
+      "likes": 13513,
+      "comments": 24,
+      "tags": []
     }
   ],
-  "featuredIdeaIndex": 7
+  "featuredIdeaIndex": 0
 }
