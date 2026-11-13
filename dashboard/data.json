@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T11:43:49.975Z",
+  "generatedAt": "2026-11-13T11:27:25.114Z",
   "source": "apify/instagram-scraper (own account: manual fallback — Instagram blocks scraper access to this small account)",
   "own": {
     "handle": "quietlystrange09",
@@ -189,7 +189,7 @@
     {
       "handle": "kurzgesagt",
       "fullName": "Kurzgesagt - In a nutshell",
-      "followers": 1610950,
+      "followers": 1611065,
       "following": 693,
       "postsCount": 2370,
       "bio": "Sciency videos made with love, a lot of time and after effects.\nLinks to our videos, shop, website & more:",
@@ -200,8 +200,8 @@
           "type": "Image",
           "caption": "Death isn't a single switch that shuts down your entire body at once. When your heart stops beating and your brain goes silent, trillions of cells inside you are still alive, desperately trying to keep themselves running. Death isn't a single moment, but a slow and surprisingly complex process that can last for weeks.\n\nWhat actually happens when you die? What makes death so mysterious, and which cells are the last survivors within your body? Watch our full video to find out!",
           "hashtags": [],
-          "likes": 4963,
-          "comments": 40,
+          "likes": 6081,
+          "comments": 52,
           "views": null,
           "timestamp": "2026-11-11T15:02:06.000Z"
         },
@@ -211,7 +211,7 @@
           "type": "Sidecar",
           "caption": "Our new sleep products just dropped! They're not only science-inspired but also extremely cozy ☁️✨\nSwipe for the full reveal! \n\nEvery purchase supports our channel and lets us make videos for free for everyone.\nThank you and … shhhh … have a very good night.",
           "hashtags": [],
-          "likes": 2035,
+          "likes": 2265,
           "comments": 15,
           "views": null,
           "timestamp": "2026-11-10T15:03:17.000Z"
@@ -222,8 +222,8 @@
           "type": "Video",
           "caption": "From bread and yogurt to frozen vegetables, most of us eat processed food every day. The real story is more complicated than “processed = bad”, and some processing can even make food safer and more nutritious.",
           "hashtags": [],
-          "likes": 33444,
-          "comments": 793,
+          "likes": 34512,
+          "comments": 841,
           "views": null,
           "timestamp": "2026-11-08T15:01:44.000Z"
         },
@@ -233,8 +233,8 @@
           "type": "Sidecar",
           "caption": "In 1534, a radical religious movement took control of the German city of Münster, promising to create a paradise on Earth where everyone would be equal and free. But under the rule of self-proclaimed prophets, that dream quickly turned into a nightmare of forced marriages, religious fanaticism and brutal executions.\n\nHow did a movement built on freedom become a terrifying dictatorship? Who was Jan van Leiden, how did he crown himself as a king of God's chosen city, and what finally brought Münst",
           "hashtags": [],
-          "likes": 16211,
-          "comments": 113,
+          "likes": 16475,
+          "comments": 114,
           "views": null,
           "timestamp": "2026-11-05T15:02:44.000Z"
         },
@@ -244,7 +244,7 @@
           "type": "Image",
           "caption": "We've reached 1 Million night owls on our Nightshift YouTube channel! 🦉✨\n\nWe're incredibly grateful for all your support. It's been so much fun exploring history and all of its secrets and mysteries this year, and we're so happy to have you along this journey. This is only the beginning, and we can't wait for you to see the upcoming videos we're currently working on! 🌚",
           "hashtags": [],
-          "likes": 4896,
+          "likes": 4995,
           "comments": 29,
           "views": null,
           "timestamp": "2026-11-04T15:20:25.000Z"
@@ -255,8 +255,8 @@
           "type": "Video",
           "caption": "So, which one are you?",
           "hashtags": [],
-          "likes": 9212,
-          "comments": 157,
+          "likes": 9329,
+          "comments": 161,
           "views": null,
           "timestamp": "2026-11-01T15:01:41.000Z"
         },
@@ -266,7 +266,7 @@
           "type": "Image",
           "caption": "Back in 2018, Philipp Dettmer, the founder of kurzgesagt, was being treated for a stage 3 B testicular cancer. This was a very serious situation, but it is not a sad story! In fact, going through chemotherapy was one of the most interesting experiences of his life. He was treated with Cisplatin, which, in a nutshell, put his body through a controlled medical violence. This toxic chemotherapy agent is a hero and a villain of this story, but it absolutely saved his life. \n\nSo what exactly is Cispl",
           "hashtags": [],
-          "likes": 52421,
+          "likes": 52492,
           "comments": 171,
           "views": null,
           "timestamp": "2026-10-27T15:05:25.000Z"
@@ -277,7 +277,7 @@
           "type": "Video",
           "caption": "Let's steal a new moon! What if Earth could swap its Moon for an even better one? From volcanic Io to methane-soaked Titan, the Solar System offers some really tempting alternatives. But maybe our Moon is already perfect as is...",
           "hashtags": [],
-          "likes": 6121,
+          "likes": 6143,
           "comments": 46,
           "views": null,
           "timestamp": "2026-10-25T15:01:44.000Z"
@@ -299,7 +299,7 @@
           "type": "Image",
           "caption": "🤨",
           "hashtags": [],
-          "likes": 8668,
+          "likes": 8669,
           "comments": 112,
           "views": null,
           "timestamp": "2026-10-22T15:30:26.000Z"
@@ -310,7 +310,7 @@
           "type": "Video",
           "caption": "Has anyone seen our asteroid? We think it's somewhere in there behind all the extracto- oh, a jumpscare!\n\nDon't miss out, and join us on this space adventure! Get Star Birds, which we developed together with our friends at @toukana_interactive on Steam!",
           "hashtags": [],
-          "likes": 2127,
+          "likes": 2128,
           "comments": 11,
           "views": null,
           "timestamp": "2026-10-21T14:02:39.000Z"
@@ -321,13 +321,13 @@
           "type": "Video",
           "caption": "50 nuclear bombs are missing, lost due to accidents, technical failures, and careless mistakes. Some were found, but a lot are still missing. How safe are we?",
           "hashtags": [],
-          "likes": 6623,
-          "comments": 34,
+          "likes": 6633,
+          "comments": 35,
           "views": null,
           "timestamp": "2026-10-18T13:59:42.000Z"
         }
       ],
-      "engagementRate": 0.8
+      "engagementRate": 0.81
     },
     {
       "handle": "spacefacts.ig",
@@ -977,19 +977,96 @@
     {
       "handle": "earthpix",
       "fullName": "EarthPix 🌎 Travel",
-      "followers": 22258678,
+      "followers": 22256931,
       "following": 37,
-      "postsCount": 11924,
+      "postsCount": 11931,
       "bio": "Discover the most incredible experiences from around the world 🌎✈️ Business: info@damiermedia.com",
       "recentPosts": [
+        {
+          "id": "4029145675014987793",
+          "url": "https://www.instagram.com/p/DfqZqTjkeAR/",
+          "type": "Video",
+          "caption": "The daring food choices you can make in Bangkok… and that's part of the adventure. 😂⁠\nFrom unfamiliar ingredients to unexpected street food combinations, Thailand has a way of taking your taste buds out of their comfort zone. ⁠\n⁠\nSometimes the best travel stories start with a bite you weren't quite sure about!⁠\nWould you be brave enough to try it? 👀⁠\n🎥: @rootedinsummer",
+          "hashtags": [],
+          "likes": 396,
+          "comments": 33,
+          "views": null,
+          "timestamp": "2026-11-13T01:03:15.000Z"
+        },
+        {
+          "id": "4029115621249477479",
+          "url": "https://www.instagram.com/p/DfqS09zjWtn/",
+          "type": "Sidecar",
+          "caption": "This phenomenon is called Chicagohenge, and it happens when the setting sun lines up perfectly with the city’s streets, something that only happens around the spring and fall equinoxes. ⁠\n⁠\nThe photographer, @theurban.traveller captured these magical shots as the sunset glowed through the windows and the passengers turned into silhouettes. 😍⁠\n⁠\nP.S. Did you notice the heart between the two silhouettes?",
+          "hashtags": [],
+          "likes": 714,
+          "comments": 8,
+          "views": null,
+          "timestamp": "2026-11-13T00:00:35.000Z"
+        },
+        {
+          "id": "4029085310877299263",
+          "url": "https://www.instagram.com/p/DfqL75ElfI_/",
+          "type": "Video",
+          "caption": "Not every dance ends on the dance floor… some end on broken glass!⁠\n A fascinating variation of the traditional Minangkabau Plate Dance from West Sumatra. ⁠\nWhat starts with rhythmic movements and plates in the dancers' hands builds up to an unbelievable finale, as performers dance barefoot over sharp pieces of broken glass.⁠\n⁠\nRooted in Minangkabau heritage, this performance is a striking expression of tradition, skill and cultural identity.⁠\n⁠\nOne of those experiences that makes you realise ju",
+          "hashtags": [],
+          "likes": 1000,
+          "comments": 14,
+          "views": null,
+          "timestamp": "2026-11-12T23:03:20.000Z"
+        },
+        {
+          "id": "4029055253941288521",
+          "url": "https://www.instagram.com/p/DfqFGgXl35J/",
+          "type": "Sidecar",
+          "caption": "@kamranonbike captured these striking portraits of people in Ghana and Sierra Leone, each carrying their goods on their heads.⁠\n⁠\nAcross West Africa, people carry everything this way, from eggs and fruit to water, clothes, and cooking pots, often walking long distances all day. ⁠\n⁠\nIt looks effortless, but it’s a skill many learn in childhood. Despite the weight, everyone in it stands tall and proud 🤍⁠\n⁠\nWhich portrait stands out to you the most?",
+          "hashtags": [],
+          "likes": 3827,
+          "comments": 49,
+          "views": null,
+          "timestamp": "2026-11-12T22:00:56.000Z"
+        },
+        {
+          "id": "4029029843010701919",
+          "url": "https://www.instagram.com/p/Dfp_UumGcpf/",
+          "type": "Video",
+          "caption": "A flower fit for a Himalayan legend. 🤍🌸⁠\nMeet Brahma Kamal, famously known as the King of Himalayan Flowers. ⁠\nFound in the high-altitude regions of the Himalayas, this rare and striking bloom holds deep cultural and spiritual significance, making it much more than just a beautiful sight.⁠\n⁠\nNature really has a way of creating something extraordinary.⁠\n🎥: @kailsati18",
+          "hashtags": [],
+          "likes": 4831,
+          "comments": 61,
+          "views": null,
+          "timestamp": "2026-11-12T21:13:06.000Z"
+        },
+        {
+          "id": "4028996307125454379",
+          "url": "https://www.instagram.com/p/Dfp3st3ksYr/",
+          "type": "Sidecar",
+          "caption": "Saudi Arabia is getting its first luxury sleeper train, and it’s designed to make the desert part of the journey.⁠\n⁠\nCalled Dream of the Desert, the train will set off from Riyadh, starting in October 2027, taking guests across the kingdom to the mountains of Hail, the oases of Al Qassim and the historic sites of Al Jouf. ⁠\n⁠\nOn board, they’ll stay in private suite cabins designed by Lebanese architect Aline Asmar d’Amman and her studio, Culture in Architecture.⁠\n⁠\nTag someone you’d take on this",
+          "hashtags": [],
+          "likes": 2535,
+          "comments": 47,
+          "views": null,
+          "timestamp": "2026-11-12T20:03:53.000Z"
+        },
+        {
+          "id": "4028934664823976775",
+          "url": "https://www.instagram.com/p/DfpprtAFzNH/",
+          "type": "Sidecar",
+          "caption": "@jorgemchagas captured Lisbon on a foggy day, when the city’s streets and its famous bridge seemed to disappear into the mist.⁠\n⁠\nOn days like this, the whole city feels quiet, dreamy, and mysterious. 😍⁠\n⁠\nWhich photo is your favorite?",
+          "hashtags": [],
+          "likes": 16779,
+          "comments": 82,
+          "views": null,
+          "timestamp": "2026-11-12T18:01:04.000Z"
+        },
         {
           "id": "4028390895858301185",
           "url": "https://www.instagram.com/p/DfnuC0sDTkB/",
           "type": "Sidecar",
           "caption": "@amsubbu captured this tender moment as a mother polar bear touched noses with her cub in the fog.⁠\n⁠\nIt was a dream encounter for him. Polar bears depend on sea ice to hunt seals. As the Arctic warms, the ice forms later and melts earlier, leaving bears to spend longer on land, waiting and fasting until it returns⁠.⁠\n⁠\nShare this with someone to make their day better!",
           "hashtags": [],
-          "likes": 15620,
-          "comments": 73,
+          "likes": 23583,
+          "comments": 111,
           "views": null,
           "timestamp": "2026-11-12T00:01:08.000Z"
         },
@@ -999,8 +1076,8 @@
           "type": "Sidecar",
           "caption": "These tiny harvest mice at the British Wildlife Centre look right at home climbing autumn gourds.⁠\n⁠\nAs Britain’s smallest rodent, a harvest mouse weighs about the same as a British 2p coin. That light build lets them climb and balance on thin stems, using their tails like an extra hand. ⁠\n⁠\nThey can even sense vibrations through their feet, warning them when larger animals are nearby.⁠\n⁠\nThe centre also breeds harvest mice and releases them into its own nature reserve to help boost local popula",
           "hashtags": [],
-          "likes": 4889,
-          "comments": 16,
+          "likes": 6963,
+          "comments": 23,
           "views": null,
           "timestamp": "2026-11-11T22:03:54.000Z"
         },
@@ -1010,8 +1087,8 @@
           "type": "Sidecar",
           "caption": "@letsgoto_pl captured the Earth Pyramids of Longomoso in South Tyrol, Italy, tall pillars of earth that look almost unreal.⁠\n⁠\nThey formed after glaciers left behind a mix of soil and rocks. Rain slowly washed away the softer earth, but the big stones on top protected the ground below, leaving these towering columns behind. Once a stone falls, the pillar beneath it begins to wear away, too.⁠\n⁠\nWould you hike to see these up close?",
           "hashtags": [],
-          "likes": 5425,
-          "comments": 41,
+          "likes": 8459,
+          "comments": 65,
           "views": null,
           "timestamp": "2026-11-11T20:00:54.000Z"
         },
@@ -1021,8 +1098,8 @@
           "type": "Video",
           "caption": "A galaxy hidden beneath the ocean. 🌌🌊⁠\nThis deep-sea view looks almost otherworldly, with glowing blue lights and tiny points of bioluminescence scattered through the darkness. ⁠\n⁠\nThe deeper you go, the more it feels like you're looking into space rather than the ocean.⁠\nTurns out, some of the most unreal sights aren't above us, but way below. ✨⁠\n🎥: @pelagicblonde",
           "hashtags": [],
-          "likes": 3756,
-          "comments": 21,
+          "likes": 5102,
+          "comments": 26,
           "views": null,
           "timestamp": "2026-11-11T19:03:57.000Z"
         },
@@ -1032,109 +1109,67 @@
           "type": "Sidecar",
           "caption": "A cloud shaped like a giant bird spread its wings over Mount Fuji, and the photographer was there to capture it. 😍⁠\n⁠\nIt’s a lenticular cloud, a smooth, lens-shaped cloud that forms when strong winds flow up and over a mountain. Mount Fuji is famous for them, and they can take on all kinds of surprising shapes.⁠\n⁠\nBy: @kenken710",
           "hashtags": [],
-          "likes": 8399,
-          "comments": 58,
+          "likes": 10815,
+          "comments": 76,
           "views": null,
           "timestamp": "2026-11-11T18:01:18.000Z"
-        },
-        {
-          "id": "4027666132475789291",
-          "url": "https://www.instagram.com/p/DflJQIMFz_r/",
-          "type": "Sidecar",
-          "caption": "The Svalbard Global Seed Vault, in Svalbard, Norway protects more than 1.4 million seed samples from around the world.⁠\n⁠\nOften called the “Doomsday Vault,” it works as a backup for the world’s crops. Seeds are kept at a constant -18°C (0°F), and if a seed bank loses its collection to war or disaster, it can come here to start again. ⁠\n⁠\nDid you know a place like this existed? ⁠\n⁠\nBy: @yiran_ding",
-          "hashtags": [],
-          "likes": 6091,
-          "comments": 80,
-          "views": null,
-          "timestamp": "2026-11-11T00:00:42.000Z"
-        },
-        {
-          "id": "4027605793914690327",
-          "url": "https://www.instagram.com/p/Dfk7iFhlxsX/",
-          "type": "Sidecar",
-          "caption": "In Ladakh's mountains, India, polo isn’t just a sport; it’s a centuries-old tradition and a source of local pride.⁠\n⁠\n@varunsikkaphotos captured these riders playing on one of the region’s traditional polo grounds, known as shagarans. But unfortunately, as construction spreads, many of these grounds are disappearing, leaving this local tradition's future uncertain.⁠\n⁠\nWould you like to see a match like this in person? ⁠\n⁠\nBy: @varunsikkaphotos @natgeoindia @royalenfieldsocialmission",
-          "hashtags": [],
-          "likes": 1278,
-          "comments": 21,
-          "views": null,
-          "timestamp": "2026-11-10T22:01:16.000Z"
-        },
-        {
-          "id": "4027595184421997162",
-          "url": "https://www.instagram.com/p/Dfk5HsqjApq/",
-          "type": "Video",
-          "caption": "From beginner to warrior, one training session at a time. 🥋🔥⁠\nThe Kung Fu training journey at Shaolin Monastery is on a whole different level. Discipline, strength, precision and countless hours of practice go into mastering this ancient martial art. ⁠\n⁠\nA whole new meaning to mind over matter.⁠\n🎥: @child__of__mountains",
-          "hashtags": [],
-          "likes": 8461,
-          "comments": 118,
-          "views": null,
-          "timestamp": "2026-11-10T21:42:03.000Z"
-        },
-        {
-          "id": "4027575485001406537",
-          "url": "https://www.instagram.com/p/Dfk0pCJlJhJ/",
-          "type": "Video",
-          "caption": "Imagine looking up and seeing thousands of glowing lanterns take over the night sky. 🥹🏮⁠\nThe Yi Peng Lantern Festival in Chiang Mai, Thailand, is one of those experiences that feels almost unreal. Every November, around the full moon of the 12th Thai lunar month, the sky lights up with thousands of lanterns released together in a breathtaking celebration.⁠\n⁠\nThe exact dates change every year, so if this is on your travel bucket list, planning ahead is a must!⁠\n🎥: @globaldates.travel",
-          "hashtags": [],
-          "likes": 11205,
-          "comments": 53,
-          "views": null,
-          "timestamp": "2026-11-10T21:03:14.000Z"
-        },
-        {
-          "id": "4027545424784263480",
-          "url": "https://www.instagram.com/p/DfktzmZBAk4/",
-          "type": "Video",
-          "caption": "How often do you get to paddle across a gigantic lake in between mountains, and in the desert?! \n\nEvery November, Dubai Stand Up Paddle takes over Hatta Dam, and paddlers of every level, from first timers to pros, show up to glide across the water with the Hajar Mountains in the background🏄‍♀️⛰️ It’s one of the big highlights of the #DubaiFitnessChallenge!",
-          "hashtags": [
-            "DubaiFitnessChallenge"
-          ],
-          "likes": 2134,
-          "comments": 40,
-          "views": null,
-          "timestamp": "2026-11-10T20:07:25.000Z"
-        },
-        {
-          "id": "4027515069257219112",
-          "url": "https://www.instagram.com/p/Dfkm53mm_wo/",
-          "type": "Video",
-          "caption": "Think you're strong? Try lifting a Sherpa's load first. 😅🏔️⁠\nIn the Everest region, Sherpas carry incredible loads across steep mountain trails and at high altitudes, making even the fittest visitors rethink their strength. ⁠\n⁠\nThese locals are truly in a league of their own!⁠\nA whole new definition of strong. 💪⁠\n🎥: @theradgerboys",
-          "hashtags": [],
-          "likes": 12092,
-          "comments": 175,
-          "views": null,
-          "timestamp": "2026-11-10T19:03:34.000Z"
-        },
-        {
-          "id": "4027485162661422399",
-          "url": "https://www.instagram.com/p/DfkgGq6lyU_/",
-          "type": "Sidecar",
-          "caption": "@johnleerskov captured the moon rising over Half Dome in Yosemite National Park, a shot he’d dreamed of for a long time. 🌕⁠\n⁠\nAnd nature delivered even more than he hoped, with a thin layer of clouds turning soft pink just as the moon appeared behind the famous granite peak.⁠\n⁠\nWhich shot is your favorite?",
-          "hashtags": [],
-          "likes": 13706,
-          "comments": 57,
-          "views": null,
-          "timestamp": "2026-11-10T18:01:31.000Z"
         }
       ],
-      "engagementRate": 0.04
+      "engagementRate": 0.03
     },
     {
       "handle": "natgeo",
       "fullName": "National Geographic",
-      "followers": 268147136,
+      "followers": 268143183,
       "following": 195,
-      "postsCount": 32161,
+      "postsCount": 32164,
       "bio": "Step into wonder and find your inner explorer with National Geographic 🌎",
       "recentPosts": [
+        {
+          "id": "4028958730289133624",
+          "url": "https://www.instagram.com/p/DfpvJ5tl7g4/",
+          "type": "Sidecar",
+          "caption": "In Pakistan, kitschy and bombastic images are often sold as souvenirs at festivals and large social gatherings. After discovering them in 2021, photographer and National Geographic Explorer Matthieu Paley spent five years collecting these unique prints from different events and pilgrimages. Featuring fantastical depictions of actresses, soldiers, and fancy estates, the images are not about precision—they're about spectacle.\n\nSee more of these prints at the link in bio.\n\nPhotographs from Matthieu",
+          "hashtags": [],
+          "likes": 849,
+          "comments": 41,
+          "views": null,
+          "timestamp": "2026-11-13T11:00:00.000Z"
+        },
+        {
+          "id": "4029065472422718791",
+          "url": "https://www.instagram.com/p/DfqHbNEjC1H/",
+          "type": "Sidecar",
+          "caption": "Presented by National Geographic Society in partnership with @Rolex. \n\nThe 1,847 islands of Raja Ampat, Indonesia, are home to more than 1,600 known species of fish, including manta rays, leopard sharks, and brown coral blennies. Thanks to the work of marine scientist Mark Erdmann, Indonesia banned commercial fishing and resource extraction across the islands around 20 years ago, designating much of the archipelago as a network of marine protected areas. Since then, Raja Ampat has become a conse",
+          "hashtags": [
+            "PerpetualPlanet"
+          ],
+          "likes": 22985,
+          "comments": 69,
+          "views": null,
+          "timestamp": "2026-11-13T02:00:01.000Z"
+        },
+        {
+          "id": "4029055711035134099",
+          "url": "https://www.instagram.com/p/DfqFNKEghCT/",
+          "type": "Video",
+          "caption": "Presented by National Geographic Society in partnership with @Rolex. By reimagining our oceans as a single interconnected system, it brings a fresh perspective on how we can study the marine realm—and protect it for future generations. \n\nDiscover more about our one ocean at the link in bio. \n\nRolex and The National Geographic Society are partnering on select science-based expeditions to explore, study, and document change in the planet’s unique regions. #PerpetualPlanet.",
+          "hashtags": [
+            "PerpetualPlanet"
+          ],
+          "likes": 5489,
+          "comments": 25,
+          "views": null,
+          "timestamp": "2026-11-12T22:04:41.000Z"
+        },
         {
           "id": "4028725944712860021",
           "url": "https://www.instagram.com/p/Dfo6ObQApF1/",
           "type": "Video",
           "caption": "Road collisions in Brazil have killed hundreds of giant anteaters and left many pups orphaned and in need of rehabilitation. At rehab centers, the young animals receive medical care as they regain their strength and are prepared for their possible reintroduction to the wild. National Geographic Explorer @fernando.faciole spent three years documenting these elusive mammals and the efforts underway to protect them.\n\nLearn more about the threats giant anteaters face in Brazil at the link in bio.",
           "hashtags": [],
-          "likes": 3267,
-          "comments": 22,
+          "likes": 24059,
+          "comments": 119,
           "views": null,
           "timestamp": "2026-11-12T11:06:48.000Z"
         },
@@ -1145,7 +1180,7 @@
           "caption": "Find your connection. 🤝 find your frequency. 🙏 Celebrate World Frequency Day with new videos from @NatGeo’s Earth Moods: Continents, Vol. 2 by @Maejor. 🎶 Watch now",
           "hashtags": [],
           "likes": -1,
-          "comments": 57,
+          "comments": 71,
           "views": null,
           "timestamp": "2026-11-11T21:09:12.000Z"
         },
@@ -1155,8 +1190,8 @@
           "type": "Video",
           "caption": "The action on the mountain was only half the story. Capturing it all on film was an extraordinary challenge in itself.\n\nFrom Oscar®-winning filmmakers Elizabeth Chai Vasarhelyi and Jimmy Chin, Everest: The Other Side, now playing only in theaters and IMAX worldwide.",
           "hashtags": [],
-          "likes": 15450,
-          "comments": 100,
+          "likes": 19753,
+          "comments": 119,
           "views": null,
           "timestamp": "2026-11-11T17:00:03.000Z"
         },
@@ -1166,8 +1201,8 @@
           "type": "Image",
           "caption": "Photo by @yamashitaphoto (Michael Yamashita) | Sheikh Zayed Grand Mosque in Abu Dhabi, the UAE’s largest and one of the world’s grandest. It was wonderful to wander through this spectacular architectural wonder in the brief hours before morning prayers, with no distractions but the birds. The mosque’s elegant minarets and white marbled domes decorate the horizon, and I loved shooting here at dawn when the cool light of the evening sky mixes with the warm light of the sun. \n\nDiscover more at the ",
           "hashtags": [],
-          "likes": 13735,
-          "comments": 84,
+          "likes": 16128,
+          "comments": 91,
           "views": null,
           "timestamp": "2026-11-11T15:58:19.000Z"
         },
@@ -1179,8 +1214,8 @@
           "hashtags": [
             "WolvesUpClose"
           ],
-          "likes": 21284,
-          "comments": 76,
+          "likes": 23249,
+          "comments": 78,
           "views": null,
           "timestamp": "2026-11-11T00:00:00.000Z"
         },
@@ -1192,8 +1227,8 @@
           "hashtags": [
             "BestOfTheWorld"
           ],
-          "likes": 19066,
-          "comments": 175,
+          "likes": 20771,
+          "comments": 191,
           "views": null,
           "timestamp": "2026-11-10T23:00:09.000Z"
         },
@@ -1203,8 +1238,8 @@
           "type": "Image",
           "caption": "Photographer and National Geographic Explorer Morgan Heim (@moheim) captured conservationist Matt Trevelyan walking through the Nidderdale valley in northern England, dressed in a handcrafted Eurasian curlew costume. Trevelyan wears the costume to raise awareness about the near-threatened bird's vanishing habitat in the English moors. He's even worn it on a 53-mile hike and to London's Parliament.\n\nSee more Photos of the Day at the link in bio.",
           "hashtags": [],
-          "likes": 39835,
-          "comments": 114,
+          "likes": 41566,
+          "comments": 119,
           "views": null,
           "timestamp": "2026-11-09T23:00:01.000Z"
         },
@@ -1214,8 +1249,8 @@
           "type": "Video",
           "caption": "The most extraordinary places speak for themselves.\n\nEverest: The Other Side is now playing in theaters and IMAX",
           "hashtags": [],
-          "likes": 72690,
-          "comments": 312,
+          "likes": 75546,
+          "comments": 325,
           "views": null,
           "timestamp": "2026-11-09T17:00:03.000Z"
         },
@@ -1227,61 +1262,50 @@
           "hashtags": [
             "NatGeo9"
           ],
-          "likes": 28314,
-          "comments": 190,
+          "likes": 29414,
+          "comments": 197,
           "views": null,
           "timestamp": "2026-11-09T15:10:11.000Z"
-        },
-        {
-          "id": "4025360006022212053",
-          "url": "https://www.instagram.com/p/Dfc85kkBKnV/",
-          "type": "Video",
-          "caption": "Take a moment to appreciate the sound of a glacier in motion. As snowfall accumulates and compresses over time, the growing mass of ice begins to shift under its own weight.\n\n#TimeAndWater is now streaming on @DisneyPlus and @hulu.",
-          "hashtags": [
-            "TimeAndWater"
-          ],
-          "likes": 102946,
-          "comments": 297,
-          "views": null,
-          "timestamp": "2026-11-08T18:00:04.000Z"
-        },
-        {
-          "id": "4025285530610309571",
-          "url": "https://www.instagram.com/p/Dfcr9z7jBnD/",
-          "type": "Sidecar",
-          "caption": "Photos by @joelsartore | Japanese dwarf flying squirrels are quite small. They measure around eight inches in length (not including the tail) and weigh no more than eight ounces. For this species, flying means gliding from one tree to the next thanks to a special skin flap called a patagium. When the squirrel spreads its limbs, the patagium acts like a parachute or wingsuit. Photos taken @ueno_zoo_official. To see more species featured in the Photo Ark, follow me, @joelsartore. #PhotoArk",
-          "hashtags": [
-            "PhotoArk"
-          ],
-          "likes": 237613,
-          "comments": 313,
-          "views": null,
-          "timestamp": "2026-11-08T12:00:00.000Z"
-        },
-        {
-          "id": "4025373921246423567",
-          "url": "https://www.instagram.com/p/DfdAEEIA6oP/",
-          "type": "Video",
-          "caption": "The ancient Egyptians didn't perfect their pyramid designs overnight. Pharaoh Sneferu experimented with new ways of building these monumental tombs, helping establish the smooth-sided design that later became synonymous with ancient Egypt.\n\n#LostTreasuresOfEgypt is now streaming on @DisneyPlus.",
-          "hashtags": [
-            "LostTreasuresOfEgypt"
-          ],
-          "likes": 20004,
-          "comments": 84,
-          "views": null,
-          "timestamp": "2026-11-07T20:09:27.000Z"
         }
       ],
-      "engagementRate": 0.02
+      "engagementRate": 0.01
     },
     {
       "handle": "bbcearth",
       "fullName": "BBC Earth",
-      "followers": 10831670,
+      "followers": 10831855,
       "following": 417,
-      "postsCount": 7557,
+      "postsCount": 7559,
       "bio": "A window to our world 🌎\nThis is a commercial channel from BBC Studios.",
       "recentPosts": [
+        {
+          "id": "4029424106152796877",
+          "url": "https://www.instagram.com/p/DfrY-AwoiLN/",
+          "type": "Video",
+          "caption": "Just waiting for the weekend (and more Blue Planet III) to save us from this week 🐢\n\nBlue Planet III returns to uncover extraordinary new stories and lives hidden beneath our oceans. Click the link in our bio to find out where to watch the full series.\n\n#BluePlanet3 #Turtle #DavidAttenborough",
+          "hashtags": [
+            "BluePlanet3",
+            "Turtle",
+            "DavidAttenborough"
+          ],
+          "likes": 644,
+          "comments": 6,
+          "views": null,
+          "timestamp": "2026-11-13T10:15:26.000Z"
+        },
+        {
+          "id": "4028881233693682436",
+          "url": "https://www.instagram.com/p/DfpdiLYjKsE/",
+          "type": "Video",
+          "caption": "Turning the tide 🛶 \n\nProject Seagrass is a marine conservation charity founded with the mission of restoring and protecting underwater seagrass meadows. So how do they do it? \n\n🌱 Collect seeds from the ocean floor \n 🪴 Grow plants in nurseries on land \n🌊 Planet them to restore our coastlines \n\nWatch the full film as @james_stew investigates the surprising impacts of seagrass via the link in our bio 🔗 \n\n#FixingThePlanet is a digital series, sponsored by @speedandscale, that spotlights the eve",
+          "hashtags": [
+            "FixingThePlanet"
+          ],
+          "likes": 1863,
+          "comments": 19,
+          "views": null,
+          "timestamp": "2026-11-12T16:31:09.000Z"
+        },
         {
           "id": "4028217810723431872",
           "url": "https://www.instagram.com/p/DfnGsGmEmXA/",
@@ -1294,8 +1318,8 @@
             "OpenOcean",
             "SunFish"
           ],
-          "likes": 7522,
-          "comments": 37,
+          "likes": 9281,
+          "comments": 52,
           "views": null,
           "timestamp": "2026-11-11T18:30:34.000Z"
         },
@@ -1309,8 +1333,8 @@
             "Oceans",
             "Design"
           ],
-          "likes": 15013,
-          "comments": 35,
+          "likes": 17448,
+          "comments": 37,
           "views": null,
           "timestamp": "2026-11-11T13:05:31.000Z"
         },
@@ -1324,8 +1348,8 @@
             "MolaMola",
             "DavidAttenborough"
           ],
-          "likes": 127308,
-          "comments": 683,
+          "likes": 136802,
+          "comments": 710,
           "views": null,
           "timestamp": "2026-11-10T15:00:45.000Z"
         },
@@ -1340,8 +1364,8 @@
             "Hatchlings",
             "Survival"
           ],
-          "likes": 3693,
-          "comments": 44,
+          "likes": 3796,
+          "comments": 47,
           "views": null,
           "timestamp": "2026-11-08T21:00:12.000Z"
         },
@@ -1355,7 +1379,7 @@
             "Dugong",
             "David"
           ],
-          "likes": 12832,
+          "likes": 13035,
           "comments": 42,
           "views": null,
           "timestamp": "2026-11-08T12:00:06.000Z"
@@ -1366,7 +1390,7 @@
           "type": "Sidecar",
           "caption": "🦈 You've never seen sharks behave like this before!\n\nDiscover the tawny nurse sharks that work together to drive fish onto the shore, and go behind the scenes with the Blue Planet III team as they raced across remote beaches to film this unique hunting strategy. \n\nRead the full article via the link in our bio🔗↖️",
           "hashtags": [],
-          "likes": 6602,
+          "likes": 6769,
           "comments": 42,
           "views": null,
           "timestamp": "2026-11-07T13:01:27.000Z"
@@ -1379,7 +1403,7 @@
           "hashtags": [
             "FixingThePlanet"
           ],
-          "likes": 2490,
+          "likes": 2521,
           "comments": 22,
           "views": null,
           "timestamp": "2026-11-05T16:03:44.000Z"
@@ -1394,8 +1418,8 @@
             "DavidAttenborough",
             "Oceans"
           ],
-          "likes": 7954,
-          "comments": 46,
+          "likes": 8097,
+          "comments": 48,
           "views": null,
           "timestamp": "2026-11-04T15:02:57.000Z"
         },
@@ -1409,8 +1433,8 @@
             "Dugong",
             "Remora"
           ],
-          "likes": 16044,
-          "comments": 192,
+          "likes": 16430,
+          "comments": 197,
           "views": null,
           "timestamp": "2026-11-03T15:00:09.000Z"
         },
@@ -1425,64 +1449,22 @@
             "DavidAttenborough",
             "Oceans"
           ],
-          "likes": 8658,
+          "likes": 8784,
           "comments": 41,
           "views": null,
           "timestamp": "2026-11-02T18:04:47.000Z"
-        },
-        {
-          "id": "4021052683056211863",
-          "url": "https://www.instagram.com/p/DfNphxcsmeX/",
-          "type": "Video",
-          "caption": "Nature’s Smartest Hunters? 🐬 🪸\n \nFor the first time ever, cameras capture a remarkable hunting technique used by bottlenose dolphins in Shark Bay. The discovery reveals why these dolphins have been carrying sea sponges whilst hunting in coral reefs.\n \nBlue Planet III returns to uncover extraordinary new stories and lives hidden beneath our oceans. Click the link in our bio to find out where to watch the full series.\n \n#BluePlanet3 #Dolphin #Hunting #FilmingFirst",
-          "hashtags": [
-            "BluePlanet3",
-            "Dolphin",
-            "Hunting",
-            "FilmingFirst"
-          ],
-          "likes": 60250,
-          "comments": 642,
-          "views": null,
-          "timestamp": "2026-11-01T21:00:07.000Z"
-        },
-        {
-          "id": "4020010954648551747",
-          "url": "https://www.instagram.com/p/DfJ8qoRAYFD/",
-          "type": "Sidecar",
-          "caption": "Before Blue Planet III dives even deeper, look back at the groundbreaking expeditions that made Blue Planet II possible. From deep-sea squid battles to an orca’s-eye view of a hunt. 🐋🎥\n\nRead the full article via the link in our bio 🔗\n\n#BluePlanet #BluePlanet3 #Ocean #DeepSea",
-          "hashtags": [
-            "BluePlanet",
-            "BluePlanet3",
-            "Ocean",
-            "DeepSea"
-          ],
-          "likes": 6989,
-          "comments": 23,
-          "views": null,
-          "timestamp": "2026-10-31T12:30:20.000Z"
         }
       ],
-      "engagementRate": 0.21
+      "engagementRate": 0.17
     }
   ],
   "ideas": [
     {
-      "title": "Photos Joelsartore Japanese",
-      "rationale": "Inspired by @natgeo's post (237613 likes, 313 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 237613,
-      "comments": 313,
-      "tags": [
-        "PhotoArk"
-      ]
-    },
-    {
       "title": "Dinner Treatment Sunbed",
-      "rationale": "Inspired by @bbcearth's post (127308 likes, 683 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @bbcearth's post (136802 likes, 710 comments) — adapt the angle for @quietlystrange09.",
       "handle": "bbcearth",
-      "likes": 127308,
-      "comments": 683,
+      "likes": 136802,
+      "comments": 710,
       "tags": [
         "BluePlanet3",
         "MolaMola",
@@ -1490,60 +1472,63 @@
       ]
     },
     {
-      "title": "Moment Appreciate Sound",
-      "rationale": "Inspired by @natgeo's post (102946 likes, 297 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "natgeo",
-      "likes": 102946,
-      "comments": 297,
-      "tags": [
-        "TimeAndWater"
-      ]
-    },
-    {
       "title": "Extraordinary Places Speak",
-      "rationale": "Inspired by @natgeo's post (72690 likes, 312 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (75546 likes, 325 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 72690,
-      "comments": 312,
+      "likes": 75546,
+      "comments": 325,
       "tags": []
     },
     {
-      "title": "Nature Smartest Hunters",
-      "rationale": "Inspired by @bbcearth's post (60250 likes, 642 comments) — adapt the angle for @quietlystrange09.",
-      "handle": "bbcearth",
-      "likes": 60250,
-      "comments": 642,
-      "tags": [
-        "BluePlanet3",
-        "Dolphin",
-        "Hunting",
-        "FilmingFirst"
-      ]
-    },
-    {
       "title": "Philipp Dettmer Founder",
-      "rationale": "Inspired by @kurzgesagt's post (52421 likes, 171 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @kurzgesagt's post (52492 likes, 171 comments) — adapt the angle for @quietlystrange09.",
       "handle": "kurzgesagt",
-      "likes": 52421,
+      "likes": 52492,
       "comments": 171,
       "tags": []
     },
     {
       "title": "Photographer National Geographic",
-      "rationale": "Inspired by @natgeo's post (39835 likes, 114 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @natgeo's post (41566 likes, 119 comments) — adapt the angle for @quietlystrange09.",
       "handle": "natgeo",
-      "likes": 39835,
-      "comments": 114,
+      "likes": 41566,
+      "comments": 119,
       "tags": []
     },
     {
       "title": "Bread Yogurt Frozen",
-      "rationale": "Inspired by @kurzgesagt's post (33444 likes, 793 comments) — adapt the angle for @quietlystrange09.",
+      "rationale": "Inspired by @kurzgesagt's post (34512 likes, 841 comments) — adapt the angle for @quietlystrange09.",
       "handle": "kurzgesagt",
-      "likes": 33444,
-      "comments": 793,
+      "likes": 34512,
+      "comments": 841,
+      "tags": []
+    },
+    {
+      "title": "Anybody Heading Australia",
+      "rationale": "Inspired by @natgeo's post (29414 likes, 197 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "natgeo",
+      "likes": 29414,
+      "comments": 197,
+      "tags": [
+        "NatGeo9"
+      ]
+    },
+    {
+      "title": "Collisions Brazil Killed",
+      "rationale": "Inspired by @natgeo's post (24059 likes, 119 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "natgeo",
+      "likes": 24059,
+      "comments": 119,
+      "tags": []
+    },
+    {
+      "title": "Amsubbu Captured Tender",
+      "rationale": "Inspired by @earthpix's post (23583 likes, 111 comments) — adapt the angle for @quietlystrange09.",
+      "handle": "earthpix",
+      "likes": 23583,
+      "comments": 111,
       "tags": []
     }
   ],
-  "featuredIdeaIndex": 4
+  "featuredIdeaIndex": 5
 }
